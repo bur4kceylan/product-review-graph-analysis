@@ -1,0 +1,131 @@
+{
+  "productUrl": "https://www.trendyol.com/hometech/alfa-620c-notebook-celeron-4ram-128gb-p-675847449?boutiqueId=61&merchantId=449692",
+  "contentId": "675847449",
+  "totalReviews": 10,
+  "fetchedAt": "2026-04-09T13:51:10.970Z",
+  "sourceSummary": {
+    "averageRating": 3.5,
+    "averageRatingFixed": "3.5",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 15,
+    "totalCommentCount": 10,
+    "totalPages": 1,
+    "hasMediaFiles": true,
+    "totalImageReviewCount": 3,
+    "productSizes": [],
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/30/30/mobile/reviewrating/kamera-emoji6x.png",
+    "heightTags": [],
+    "weightTags": [],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 5
+      },
+      {
+        "rate": 4,
+        "count": 5
+      },
+      {
+        "rate": 3,
+        "count": 1
+      },
+      {
+        "rate": 2,
+        "count": 0
+      },
+      {
+        "rate": 1,
+        "count": 4
+      }
+    ],
+    "tags": [
+      {
+        "name": "tümü",
+        "count": 10
+      },
+      {
+        "name": "fotoğraflı",
+        "count": 3,
+        "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png"
+      },
+      {
+        "name": "Fiyat",
+        "count": 4,
+        "sentiment": {
+          "positive": 4,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Ekran Özellikleri",
+        "count": 3
+      },
+      {
+        "name": "Çeyiz",
+        "count": 1
+      },
+      {
+        "name": "Paketleme",
+        "count": 1
+      }
+    ]
+  },
+  "sourceAiSummary": null,
+  "reviews": [
+    {
+      "comment": "Eşim kendi işi için aldı üründen memnun kaldı",
+      "rate": 5,
+      "createdAt": 1764942139232
+    },
+    {
+      "comment": "bu fiyat için güzel",
+      "rate": 4,
+      "createdAt": 1683357651772
+    },
+    {
+      "comment": "Tam bir f/P ürünü. Öğrenci iseniz tercih edebilirsiniz. Her işimi görecek yapıya sahip. Bu fiyata alınabilecek maksimum verimi veriyor. 👌",
+      "rate": 5,
+      "createdAt": 1761888182751
+    },
+    {
+      "comment": "3 gün oldu alalı ekran sadece çıkıyor ve açılmıyor",
+      "rate": 1,
+      "createdAt": 1763821774194
+    },
+    {
+      "comment": "fiyatına göre iyi. ama gereğinden fazla yavaş",
+      "rate": 4,
+      "createdAt": 1759605463061
+    },
+    {
+      "comment": "çok kötü bir bilgisayar kesinlikle tavsiye etmiyorum, aldığım gün sadece kapağını açmaya çalıştım ama ekranı kırıldı. Gördüğüm en kötü bilgisayar markası, muhatap bulamıyorsunuz ki durumu anlatalım",
+      "rate": 1,
+      "createdAt": 1768904726623
+    },
+    {
+      "comment": "aşırı kötü bunu almak yerine ikinci elden alsanız işinizi daha iyi görür bir sayfa acana kadar ölüp diriliyor resmen donuyor surekli ders çalışırken kullanırım diye aldım resmen yavaşlatıyor beni",
+      "rate": 1,
+      "createdAt": 1768894253317
+    },
+    {
+      "comment": "Ben gayet memnun kaldım üründen fiyatına göre iyi bence ancak hâlâ daha emin değilim bu mu yoksa alfa 420 c mi hangisi daha iyidi diye bunu sectim bakalim tesekkurler bu arada gayet guzel geldi paketleme filan gayet iyiydi",
+      "rate": 5,
+      "createdAt": 1683874020314
+    },
+    {
+      "comment": "güncellemesi yapılmadığı için ekran kartı arıza ile karşılaştım",
+      "rate": 1,
+      "createdAt": 1770139855907
+    },
+    {
+      "comment": "merhaba bugün geldi ekran açılmıyor neden ola bilir",
+      "rate": 3,
+      "createdAt": 1768403772036
+    }
+  ]
+}

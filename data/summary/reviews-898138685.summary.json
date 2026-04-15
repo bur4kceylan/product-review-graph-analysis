@@ -1,0 +1,316 @@
+{
+  "productUrl": "https://www.trendyol.com/puma/speedcat-og-unisex-kirmizi-spor-ayakkabi-p-898138685?boutiqueId=61&merchantId=125613",
+  "contentId": "898138685",
+  "generatedAt": "2026-04-09T06:59:37.590Z",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-898138685.raw.json",
+  "totalReviews": 75,
+  "averageRating": 4.17,
+  "confidenceScore": 49,
+  "headline": "Kullanıcıların büyük kısmı üründen memnun görünüyor.",
+  "sentiment": {
+    "positive": 58,
+    "neutral": 8,
+    "negative": 9
+  },
+  "sentimentPercentages": {
+    "positive": 77.33,
+    "neutral": 10.67,
+    "negative": 12
+  },
+  "topKeywords": [
+    {
+      "value": "guzel",
+      "count": 24
+    },
+    {
+      "value": "ayakkabi",
+      "count": 22
+    },
+    {
+      "value": "rahat",
+      "count": 14
+    },
+    {
+      "value": "numara",
+      "count": 10
+    },
+    {
+      "value": "bi",
+      "count": 10
+    },
+    {
+      "value": "buyuk",
+      "count": 9
+    },
+    {
+      "value": "aldim",
+      "count": 8
+    },
+    {
+      "value": "begendim",
+      "count": 8
+    },
+    {
+      "value": "urun",
+      "count": 8
+    },
+    {
+      "value": "beyaz",
+      "count": 7
+    },
+    {
+      "value": "sadece",
+      "count": 7
+    },
+    {
+      "value": "alabilirsiniz",
+      "count": 6
+    },
+    {
+      "value": "yarim",
+      "count": 6
+    },
+    {
+      "value": "rengi",
+      "count": 5
+    },
+    {
+      "value": "kargo",
+      "count": 5
+    },
+    {
+      "value": "geldi",
+      "count": 5
+    },
+    {
+      "value": "bayildim",
+      "count": 4
+    },
+    {
+      "value": "alin",
+      "count": 4
+    },
+    {
+      "value": "boyasi",
+      "count": 4
+    },
+    {
+      "value": "kadar",
+      "count": 4
+    }
+  ],
+  "topPhrases": [
+    {
+      "value": "bi ayakkabi",
+      "count": 6
+    },
+    {
+      "value": "numara buyuk",
+      "count": 6
+    },
+    {
+      "value": "yarim numara",
+      "count": 5
+    },
+    {
+      "value": "guzel ayakkabi",
+      "count": 4
+    },
+    {
+      "value": "guzel bi",
+      "count": 3
+    },
+    {
+      "value": "rahat bi",
+      "count": 3
+    },
+    {
+      "value": "rahat ayakkabi",
+      "count": 2
+    },
+    {
+      "value": "beden alabilirsiniz",
+      "count": 2
+    },
+    {
+      "value": "kendi numaranizi",
+      "count": 2
+    },
+    {
+      "value": "ilk giydigim",
+      "count": 2
+    },
+    {
+      "value": "kargoya verilmesi",
+      "count": 2
+    },
+    {
+      "value": "alip tabanlikla",
+      "count": 2
+    }
+  ],
+  "aspects": [
+    {
+      "aspect": "kargo",
+      "mentions": 9,
+      "positive": 6,
+      "neutral": 0,
+      "negative": 3,
+      "positiveRatio": 0.667,
+      "negativeRatio": 0.333,
+      "bestPositiveComment": {
+        "comment": "çok güzel ayakkabı özellikle bu renginin göz alıcı olduğunu düşünüyorum, kargo çok hızlıydı 2 günde teslim edildi. Ayakkabıda da herhangi bir sorun yok yırtık vs tarzında sadece birazcık pahalı tabi ama ben çok beğendim kesinlikle parasına değdi. Normalde de 36,5 37 numara giyiyorum 37 tam oldu gönül rahatlığıyla kendi numaranızı alabilirsiniz.",
+        "rate": 5,
+        "sentimentScore": 11
+      },
+      "strongestNegativeComment": {
+        "comment": "Ürün güzel kız kardeşime aldım,fotoğraftaki gibi henüz kullanmadı rahat mı bilemiyorum.kargo kötüydü ama kutu yırtılmıştı Allah tan ayakkabı da bi hasar yoktu o kadar para verdim Allah korudu",
+        "rate": 4,
+        "sentimentScore": 1
+      }
+    },
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 3,
+      "positive": 2,
+      "neutral": 0,
+      "negative": 1,
+      "positiveRatio": 0.667,
+      "negativeRatio": 0.333,
+      "bestPositiveComment": {
+        "comment": "Çok güzel bayıldım ben 3699 TL ye aldım şimdi baya artmış fiyatı ama değer",
+        "rate": 5,
+        "sentimentScore": 7
+      },
+      "strongestNegativeComment": {
+        "comment": "durmadan indirime giriyor ben pahalıya aldığımı düşünüyorum çok güzel ama fiyatını hakkeden nir ayakkabı değil iki günde beyaz kısmı leke oldu ve temizlemenin yolu yok",
+        "rate": 3,
+        "sentimentScore": 4
+      }
+    },
+    {
+      "aspect": "performans",
+      "mentions": 3,
+      "positive": 3,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "çok güzel ayakkabı özellikle bu renginin göz alıcı olduğunu düşünüyorum, kargo çok hızlıydı 2 günde teslim edildi. Ayakkabıda da herhangi bir sorun yok yırtık vs tarzında sadece birazcık pahalı tabi ama ben çok beğendim kesinlikle parasına değdi. Normalde de 36,5 37 numara giyiyorum 37 tam oldu gönül rahatlığıyla kendi numaranızı alabilirsiniz.",
+        "rate": 5,
+        "sentimentScore": 11
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "kullanim",
+      "mentions": 3,
+      "positive": 2,
+      "neutral": 0,
+      "negative": 1,
+      "positiveRatio": 0.667,
+      "negativeRatio": 0.333,
+      "bestPositiveComment": {
+        "comment": "Ürünün hazırlanıp kargoya verilmesi gayet hızlıydı. Ayakkabılar ise o kadar güzel ki kullanmaya kıyamıyorum. Renginden dolayı çabuk kir tutabilir ve gösterebilir, özenli kullanılması lazım. Tabanı ince olduğundan bir beden büyük alıp tabanlıkla kullanıma da uygun bence.",
+        "rate": 5,
+        "sentimentScore": 6
+      },
+      "strongestNegativeComment": {
+        "comment": "Boyası akıyor. Tek kullanımda kullanılmayacak bir hal aldı.",
+        "rate": 1,
+        "sentimentScore": -3
+      }
+    },
+    {
+      "aspect": "ekran",
+      "mentions": 1,
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Ayakkabının görüntüsü çok güzel rahatlığını da sevdim ama su görünce boyası akma yapıyor. Hafif yagmur bile degse beyaz kısımları kırmızılasıyor",
+        "rate": 3,
+        "sentimentScore": 4
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "malzeme-kalite",
+      "mentions": 1,
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Ayakkabı çok rahat ve kaliteli. Beklentimin üzerinde çıktı, memnun kaldım.",
+        "rate": 5,
+        "sentimentScore": 7
+      },
+      "strongestNegativeComment": null
+    }
+  ],
+  "strengths": [
+    {
+      "aspect": "kargo",
+      "mentions": 9,
+      "positiveRatio": 0.667,
+      "example": {
+        "comment": "çok güzel ayakkabı özellikle bu renginin göz alıcı olduğunu düşünüyorum, kargo çok hızlıydı 2 günde teslim edildi. Ayakkabıda da herhangi bir sorun yok yırtık vs tarzında sadece birazcık pahalı tabi ama ben çok beğendim kesinlikle parasına değdi. Normalde de 36,5 37 numara giyiyorum 37 tam oldu gönül rahatlığıyla kendi numaranızı alabilirsiniz.",
+        "rate": 5,
+        "sentimentScore": 11
+      }
+    }
+  ],
+  "weaknesses": [
+    {
+      "aspect": "kargo",
+      "mentions": 9,
+      "negativeRatio": 0.333,
+      "example": {
+        "comment": "Ürün güzel kız kardeşime aldım,fotoğraftaki gibi henüz kullanmadı rahat mı bilemiyorum.kargo kötüydü ama kutu yırtılmıştı Allah tan ayakkabı da bi hasar yoktu o kadar para verdim Allah korudu",
+        "rate": 4,
+        "sentimentScore": 1
+      }
+    }
+  ],
+  "samplePositiveReviews": [
+    {
+      "comment": "çok güzel ayakkabı özellikle bu renginin göz alıcı olduğunu düşünüyorum, kargo çok hızlıydı 2 günde teslim edildi. Ayakkabıda da herhangi bir sorun yok yırtık vs tarzında sadece birazcık pahalı tabi ama ben çok beğendim kesinlikle parasına değdi. Normalde de 36,5 37 numara giyiyorum 37 tam oldu gönül rahatlığıyla kendi numaranızı alabilirsiniz.",
+      "rate": 5,
+      "sentimentScore": 11
+    },
+    {
+      "comment": "çok güzel çok beğendim huuhhhuuuuu",
+      "rate": 5,
+      "sentimentScore": 11
+    },
+    {
+      "comment": "Bayıldım mükemmel bir ayakkabı rengi duruşu harika",
+      "rate": 5,
+      "sentimentScore": 9
+    }
+  ],
+  "sampleNegativeReviews": [
+    {
+      "comment": "ayakkabının renkleri farklı geldi ucu ezilmiş bi yere sürtmüş gibi beyazlıklarda da renk değişikliği vardı hayal kırıklığına uğradım iade edecem",
+      "rate": 1,
+      "sentimentScore": -6
+    },
+    {
+      "comment": "İlk giydiğim gün mahvoldu!!! Orijinal mi bu nedir!!! iade",
+      "rate": 1,
+      "sentimentScore": -6
+    },
+    {
+      "comment": "Ürünü ilk giydiğim gibi boyası aktı bu normal mi?",
+      "rate": 1,
+      "sentimentScore": -3
+    }
+  ],
+  "generalEvaluation": "Bu değerlendirme 75 yorum üzerinden oluşturuldu ve ortalama puan 4.17 seviyesinde. Genel kullanıcı algısı çok olumlu; pozitif yorum oranı %77.33, negatif yorum oranı ise %12. Kullanıcılar en çok kargo başlıklarında memnuniyet bildirirken, dikkat çeken geliştirme alanları kargo olarak öne çıkıyor.",
+  "displaySummary": "Ürün, kullanıcıların büyük bölümü tarafından olumlu değerlendirilmektedir. Özellikle hızlı teslimat ve paketleme tarafında öne çıkan memnuniyet dikkat çekmektedir. Bununla birlikte bazı kullanıcılar teslimat süreci konusunda eleştirilerde bulunmaktadır. Genel olarak ürün, beklentiyi büyük ölçüde karşılayan ve günlük kullanım için tercih edilebilecek bir seçenek olarak değerlendirilmektedir."
+}

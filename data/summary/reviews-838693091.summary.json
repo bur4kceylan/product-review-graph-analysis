@@ -1,0 +1,611 @@
+{
+  "productUrl": "https://www.trendyol.com/puma/club-ii-era-unisex-beyaz-spor-ayakkabi-p-838693091?boutiqueId=61&merchantId=416518",
+  "contentId": "838693091",
+  "generatedAt": "2026-04-09T11:10:43.042Z",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-838693091.raw.json",
+  "sourceAiSummary": "Ürün, şık ve zarif tasarımıyla öne çıkarken, rahatlığı ve konforuyla da kullanıcıların beğenisini kazanmıştır. Çoğu kullanıcı tarafından tam kalıp olarak değerlendirilse de, ayak yapısına göre farklı beden tercihleri önerilmektedir. Özellikle taraklı ayaklara sahip olanların bir veya yarım numara büyük alması tavsiye edilmektedir. Ürünün tabanı yumuşak ve destekleyici bulunmuş, fiyat-performans açısından da başarılı olduğu belirtilmiştir. Kargo sürecinin hızlı ve sorunsuz olması da olumlu bir deneyim sunmuştur. Ancak bazı kullanıcılar ayakkabının küçük geldiğini ve ayaklarını vurduğunu ifade etmişlerdir. Genel olarak ürün, günlük kullanım için uygun, şık ve rahat bir seçenek olarak değerlendirilmiştir.",
+  "sourceSummary": {
+    "averageRating": 4.5,
+    "averageRatingFixed": "4.5",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 766,
+    "totalCommentCount": 330,
+    "totalPages": 17,
+    "hasMediaFiles": true,
+    "totalImageReviewCount": 123,
+    "productSizes": [
+      {
+        "name": "37",
+        "count": 38
+      },
+      {
+        "name": "40",
+        "count": 41
+      },
+      {
+        "name": "39",
+        "count": 36
+      },
+      {
+        "name": "43",
+        "count": 24
+      },
+      {
+        "name": "38",
+        "count": 38
+      },
+      {
+        "name": "42",
+        "count": 28
+      },
+      {
+        "name": "37,5",
+        "count": 23
+      },
+      {
+        "name": "38,5",
+        "count": 28
+      },
+      {
+        "name": "41",
+        "count": 16
+      },
+      {
+        "name": "42,5",
+        "count": 17
+      }
+    ],
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/30/30/mobile/reviewrating/kamera-emoji6x.png",
+    "heightTags": [
+      {
+        "name": "151-160",
+        "count": 8
+      },
+      {
+        "name": "161-170",
+        "count": 15
+      },
+      {
+        "name": "171-180",
+        "count": 6
+      },
+      {
+        "name": "181-190",
+        "count": 4
+      }
+    ],
+    "weightTags": [
+      {
+        "name": "<50",
+        "count": 1
+      },
+      {
+        "name": "51-60",
+        "count": 16
+      },
+      {
+        "name": "61-70",
+        "count": 6
+      },
+      {
+        "name": "71-80",
+        "count": 6
+      },
+      {
+        "name": "81-90",
+        "count": 2
+      },
+      {
+        "name": "101-110",
+        "count": 2
+      }
+    ],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 610
+      },
+      {
+        "rate": 4,
+        "count": 69
+      },
+      {
+        "rate": 3,
+        "count": 25
+      },
+      {
+        "rate": 2,
+        "count": 16
+      },
+      {
+        "rate": 1,
+        "count": 46
+      }
+    ],
+    "tags": [
+      {
+        "name": "tümü",
+        "count": 330
+      },
+      {
+        "name": "fotoğraflı",
+        "count": 123,
+        "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png"
+      },
+      {
+        "name": "Beden Bilgisi",
+        "count": 76,
+        "sentiment": {
+          "positive": 39,
+          "negative": 22,
+          "ratio": 64
+        }
+      },
+      {
+        "name": "Rahatlık",
+        "count": 78,
+        "sentiment": {
+          "positive": 74,
+          "negative": 2,
+          "ratio": 97
+        }
+      },
+      {
+        "name": "Orijinallik",
+        "count": 48,
+        "sentiment": {
+          "positive": 23,
+          "negative": 20,
+          "ratio": 53
+        }
+      },
+      {
+        "name": "Fiyat",
+        "count": 16,
+        "sentiment": {
+          "positive": 11,
+          "negative": 4,
+          "ratio": 73
+        }
+      },
+      {
+        "name": "Kalite",
+        "count": 7,
+        "sentiment": {
+          "positive": 6,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Teslimat Süresi",
+        "count": 12,
+        "sentiment": {
+          "positive": 12,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Farklı/Aynı Ürün",
+        "count": 11,
+        "sentiment": {
+          "positive": 5,
+          "negative": 5,
+          "ratio": 50
+        }
+      },
+      {
+        "name": "İade",
+        "count": 10
+      },
+      {
+        "name": "Ayağa Vurma",
+        "count": 11
+      },
+      {
+        "name": "Yumuşaklık/Sertlik",
+        "count": 6,
+        "sentiment": {
+          "positive": 5,
+          "negative": 1,
+          "ratio": 83
+        }
+      }
+    ]
+  },
+  "totalReviews": 324,
+  "averageRating": 4.35,
+  "confidenceScore": 93,
+  "headline": "Toplam puanlama tarafi guclu; yazili yorumlar da genel memnuniyeti destekliyor.",
+  "sentiment": {
+    "positive": 269,
+    "neutral": 22,
+    "negative": 33
+  },
+  "sentimentPercentages": {
+    "positive": 83.02,
+    "neutral": 6.79,
+    "negative": 10.19
+  },
+  "sourceTags": [
+    {
+      "name": "Rahatlık",
+      "count": 78,
+      "positive": 74,
+      "negative": 2,
+      "ratio": 97
+    },
+    {
+      "name": "Beden Bilgisi",
+      "count": 76,
+      "positive": 39,
+      "negative": 22,
+      "ratio": 64
+    },
+    {
+      "name": "Orijinallik",
+      "count": 48,
+      "positive": 23,
+      "negative": 20,
+      "ratio": 53
+    },
+    {
+      "name": "Fiyat",
+      "count": 16,
+      "positive": 11,
+      "negative": 4,
+      "ratio": 73
+    }
+  ],
+  "ratingBreakdown": {
+    "totalRatings": 766,
+    "positiveCount": 679,
+    "neutralCount": 25,
+    "negativeCount": 62,
+    "positivePercent": 88.64,
+    "neutralPercent": 3.26,
+    "negativePercent": 8.09,
+    "fiveStarPercent": 79.63,
+    "oneStarPercent": 6.01
+  },
+  "commentCoverage": {
+    "totalRatingCount": 766,
+    "totalCommentCount": 330,
+    "ratingsWithoutComment": 436,
+    "commentCoveragePercent": 43.08
+  },
+  "topKeywords": [
+    {
+      "value": "guzel",
+      "count": 104
+    },
+    {
+      "value": "rahat",
+      "count": 101
+    },
+    {
+      "value": "ayakkabi",
+      "count": 95
+    },
+    {
+      "value": "aldim",
+      "count": 60
+    },
+    {
+      "value": "urun",
+      "count": 58
+    },
+    {
+      "value": "numara",
+      "count": 46
+    },
+    {
+      "value": "buyuk",
+      "count": 44
+    },
+    {
+      "value": "orijinal",
+      "count": 30
+    },
+    {
+      "value": "begendim",
+      "count": 30
+    },
+    {
+      "value": "alin",
+      "count": 29
+    },
+    {
+      "value": "geldi",
+      "count": 26
+    },
+    {
+      "value": "gayet",
+      "count": 25
+    },
+    {
+      "value": "sik",
+      "count": 25
+    },
+    {
+      "value": "kaliteli",
+      "count": 21
+    },
+    {
+      "value": "ederim",
+      "count": 20
+    },
+    {
+      "value": "alabilirsiniz",
+      "count": 20
+    },
+    {
+      "value": "kendi",
+      "count": 19
+    },
+    {
+      "value": "kalip",
+      "count": 18
+    },
+    {
+      "value": "harika",
+      "count": 18
+    },
+    {
+      "value": "yarim",
+      "count": 17
+    }
+  ],
+  "topPhrases": [
+    {
+      "value": "numara buyuk",
+      "count": 23
+    },
+    {
+      "value": "rahat ayakkabi",
+      "count": 23
+    },
+    {
+      "value": "tavsiye ederim",
+      "count": 14
+    },
+    {
+      "value": "guzel rahat",
+      "count": 14
+    },
+    {
+      "value": "gayet guzel",
+      "count": 13
+    },
+    {
+      "value": "yarim numara",
+      "count": 13
+    },
+    {
+      "value": "asiri rahat",
+      "count": 12
+    },
+    {
+      "value": "urun guzel",
+      "count": 8
+    },
+    {
+      "value": "buyuk aldim",
+      "count": 8
+    },
+    {
+      "value": "buyuk alin",
+      "count": 8
+    },
+    {
+      "value": "guzel ayakkabi",
+      "count": 8
+    },
+    {
+      "value": "aldim begendi",
+      "count": 8
+    }
+  ],
+  "aspects": [
+    {
+      "aspect": "malzeme-kalite",
+      "mentions": 32,
+      "positive": 30,
+      "neutral": 1,
+      "negative": 1,
+      "positiveRatio": 0.938,
+      "negativeRatio": 0.031,
+      "bestPositiveComment": {
+        "comment": "çok güzel ve kaliteli geldi herkese tavsiye ederim",
+        "rate": 5,
+        "sentimentScore": 14
+      },
+      "strongestNegativeComment": {
+        "comment": "orjinalliği şüpheli bağcıkları çok kalitesiZ dikişleri yamuk yumuk zaten çok saçma bir kutuda geldi bir de satıcı trendyol yazık",
+        "rate": 1,
+        "sentimentScore": -3
+      }
+    },
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 18,
+      "positive": 16,
+      "neutral": 0,
+      "negative": 2,
+      "positiveRatio": 0.889,
+      "negativeRatio": 0.111,
+      "bestPositiveComment": {
+        "comment": "Çok kaliteli ve rahat bir ayakkabı, kalıpları tam kalıp.Diger markaların muadili modeline göre fiyat çok iyi,çok beğendim.",
+        "rate": 5,
+        "sentimentScore": 13
+      },
+      "strongestNegativeComment": {
+        "comment": "bu ürünü aldığım 4ay oldu bu fiyatın karşılığı bu mu olması lazım şimdi ne yapmam gerekiyor",
+        "rate": 1,
+        "sentimentScore": -3
+      }
+    },
+    {
+      "aspect": "kargo",
+      "mentions": 16,
+      "positive": 14,
+      "neutral": 1,
+      "negative": 1,
+      "positiveRatio": 0.875,
+      "negativeRatio": 0.063,
+      "bestPositiveComment": {
+        "comment": "Gayet güzel ve şık duruyor rahat bir ayakkabı kargolama hızlı sorunsuz bir şekilde geldi.Herkese tavsiye ederim fiyatta piyasaya göre çok makul.",
+        "rate": 5,
+        "sentimentScore": 12
+      },
+      "strongestNegativeComment": {
+        "comment": "Ayakkabı çok rahat ama kargolama çok kötü",
+        "rate": 4,
+        "sentimentScore": -4
+      }
+    },
+    {
+      "aspect": "performans",
+      "mentions": 12,
+      "positive": 12,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Gayet güzel ve şık duruyor rahat bir ayakkabı kargolama hızlı sorunsuz bir şekilde geldi.Herkese tavsiye ederim fiyatta piyasaya göre çok makul.",
+        "rate": 5,
+        "sentimentScore": 12
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "kullanim",
+      "mentions": 4,
+      "positive": 4,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "ürün güzel duruyor tam oldu kaliteli duruyor güzzel paketlwnmiş uygun fiyata aldım bşraz kullanımına bakıcam iyi çıkarsa digee renklerinide almayı düşünüyorum",
+        "rate": 5,
+        "sentimentScore": 8
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "ekran",
+      "mentions": 2,
+      "positive": 2,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Ürün görüntü olarak aslında çok güzel ancak almak isteyenlere naçizane tavsiye, ön kısmı süetimsi. Ufak bir toz toprak lekesi olunca asla temizlenmiyor. Yağmur ertesi gün işe giderken çamur lekesi oldu ve içine emdi resmen kiri, ne yaptıysam çıkaramadım. Yürüyüş ayakkabısı olarak kullanacağım total temiz giyebilme sürem 1 hafta",
+        "rate": 2,
+        "sentimentScore": 4
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "batarya",
+      "mentions": 1,
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "ayağım ince yapılı tam numara aldım tam oldu taralklıysa 0,5 veya 1 numara büyük tercih edin gayet güzel",
+        "rate": 5,
+        "sentimentScore": 6
+      },
+      "strongestNegativeComment": null
+    }
+  ],
+  "strengths": [
+    {
+      "aspect": "malzeme-kalite",
+      "mentions": 32,
+      "positiveRatio": 0.938,
+      "example": {
+        "comment": "çok güzel ve kaliteli geldi herkese tavsiye ederim",
+        "rate": 5,
+        "sentimentScore": 14
+      }
+    },
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 18,
+      "positiveRatio": 0.889,
+      "example": {
+        "comment": "Çok kaliteli ve rahat bir ayakkabı, kalıpları tam kalıp.Diger markaların muadili modeline göre fiyat çok iyi,çok beğendim.",
+        "rate": 5,
+        "sentimentScore": 13
+      }
+    },
+    {
+      "aspect": "kargo",
+      "mentions": 16,
+      "positiveRatio": 0.875,
+      "example": {
+        "comment": "Gayet güzel ve şık duruyor rahat bir ayakkabı kargolama hızlı sorunsuz bir şekilde geldi.Herkese tavsiye ederim fiyatta piyasaya göre çok makul.",
+        "rate": 5,
+        "sentimentScore": 12
+      }
+    },
+    {
+      "aspect": "performans",
+      "mentions": 12,
+      "positiveRatio": 1,
+      "example": {
+        "comment": "Gayet güzel ve şık duruyor rahat bir ayakkabı kargolama hızlı sorunsuz bir şekilde geldi.Herkese tavsiye ederim fiyatta piyasaya göre çok makul.",
+        "rate": 5,
+        "sentimentScore": 12
+      }
+    }
+  ],
+  "weaknesses": [],
+  "samplePositiveReviews": [
+    {
+      "comment": "çok güzel ve kaliteli geldi herkese tavsiye ederim",
+      "rate": 5,
+      "sentimentScore": 14
+    },
+    {
+      "comment": "Çok kaliteli ve rahat bir ayakkabı, kalıpları tam kalıp.Diger markaların muadili modeline göre fiyat çok iyi,çok beğendim.",
+      "rate": 5,
+      "sentimentScore": 13
+    },
+    {
+      "comment": "Gayet güzel ve şık duruyor rahat bir ayakkabı kargolama hızlı sorunsuz bir şekilde geldi.Herkese tavsiye ederim fiyatta piyasaya göre çok makul.",
+      "rate": 5,
+      "sentimentScore": 12
+    }
+  ],
+  "sampleNegativeReviews": [
+    {
+      "comment": "Ürün hiç orijinal gibi değil karekod dan taratıyorum çıkmıyor hiç içime sinmedi bu yüzden iade ediyorum.",
+      "rate": 1,
+      "sentimentScore": -6
+    },
+    {
+      "comment": "Ürün orijinal durmuyor kodunu okuttum çıkmıyor. Kutusu bantlanmış yırtık geldi hiç güven vermedi iade",
+      "rate": 1,
+      "sentimentScore": -6
+    },
+    {
+      "comment": "2aya patladı pişman oldum aldığıma",
+      "rate": 1,
+      "sentimentScore": -6
+    }
+  ],
+  "generalEvaluation": "Urun, tasarim ve malzeme hissi, fiyat/performans dengesi, hizli teslimat ve paketleme ve gunluk kullanim performansi ile kullanicilar tarafindan genel olarak olumlu degerlendirilmistir. Ozellikle fiyat/performans odakli alisveris ve ofis ve temel isler icin yeterli ve tercih edilebilir bir secenek oldugu belirtilmistir. Toplam puanlamalarda da bu tablo desteklenmektedir; 4-5 yildiz orani %88.64, 1-2 yildiz orani ise %8.09 seviyesindedir. Bununla birlikte bazi kullanicilar orijinallik konusunda elestirilerde bulunmustur. 436 kullanicinin sadece puan verip yorum birakmamasi, genel memnuniyetin yorum yazan kullanicilarla sinirli olmadigini da gostermektedir. Genel olarak urunun fiyat ve performans dengesi kullanicilarin buyuk bolumu tarafindan tatmin edici bulunmaktadir.",
+  "displaySummary": "Urunun genel resmi olumlu: toplam degerlendirmelerin %88.64 kadari 4-5 yildiz, yalnizca %8.09 kadari 1-2 yildiz seviyesinde. Yazili yorumlarda en guclu taraf olarak tasarim ve malzeme hissi, fiyat/performans dengesi ve hizli teslimat ve paketleme one cikmaktadir. Olumsuz yorumlar sinirli olsa da bazi kullanicilar belirli kullanim senaryolarinda gelistirme beklentisi dile getirmektedir. Ayrica 436 kullanicinin sadece puan verip yorum birakmamasi, toplam memnuniyetin yorum yazan kitleyle sinirli olmadigini da gosteriyor; Trendyol etiketlerinde Rahatlık, Beden Bilgisi, Orijinallik, Fiyat basliklari one cikiyor. Genel olarak urun, beklentiyi buyuk olcude karsilayan ve gunluk kullanim icin tercih edilebilecek bir secenek olarak degerlendirilmektedir."
+}

@@ -1,0 +1,745 @@
+{
+  "productUrl": "https://www.trendyol.com/casper/nirvana-s100-16-300nit-core-i5-13420h-16gb-ddr5-ram-5000gb-nvme-ssd-dos-laptop-s100-1342-bv00x-g-f-p-898617268?boutiqueId=689770&merchantId=968",
+  "contentId": "898617268",
+  "fetchedAt": "2026-04-09T11:03:07.655Z",
+  "sourceSummary": {
+    "averageRating": 3.9,
+    "averageRatingFixed": "3.9",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 45,
+    "totalCommentCount": 26,
+    "totalPages": 2,
+    "hasMediaFiles": true,
+    "totalImageReviewCount": 5,
+    "productSizes": [],
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/30/30/mobile/reviewrating/kamera-emoji6x.png",
+    "heightTags": [
+      {
+        "name": "161-170",
+        "count": 2
+      },
+      {
+        "name": "171-180",
+        "count": 2
+      }
+    ],
+    "weightTags": [
+      {
+        "name": "61-70",
+        "count": 1
+      },
+      {
+        "name": "71-80",
+        "count": 1
+      },
+      {
+        "name": "81-90",
+        "count": 1
+      },
+      {
+        "name": "101-110",
+        "count": 1
+      }
+    ],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 24
+      },
+      {
+        "rate": 4,
+        "count": 9
+      },
+      {
+        "rate": 3,
+        "count": 4
+      },
+      {
+        "rate": 2,
+        "count": 1
+      },
+      {
+        "rate": 1,
+        "count": 7
+      }
+    ],
+    "tags": [
+      {
+        "name": "tümü",
+        "count": 26
+      },
+      {
+        "name": "fotoğraflı",
+        "count": 5,
+        "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png"
+      },
+      {
+        "name": "Ses Özellikleri",
+        "count": 5,
+        "sentiment": {
+          "positive": 3,
+          "negative": 2,
+          "ratio": 60
+        }
+      },
+      {
+        "name": "Kurulum/Kullanım",
+        "count": 6
+      },
+      {
+        "name": "Fiyat",
+        "count": 3
+      },
+      {
+        "name": "Şarj/Pil/Batarya",
+        "count": 2
+      },
+      {
+        "name": "Kablo",
+        "count": 1
+      },
+      {
+        "name": "Rahatlık",
+        "count": 1
+      },
+      {
+        "name": "Günlük Kullanım",
+        "count": 1
+      },
+      {
+        "name": "Hasarlı/Sağlam Kargo",
+        "count": 1
+      },
+      {
+        "name": "Kalite",
+        "count": 1
+      }
+    ]
+  },
+  "sourceAiSummary": "Ürün, hafifliği, ince yapısı, hızlı performansı ve kolay kullanımıyla kullanıcılar tarafından beğenilmiş, fiyat-performans açısından olumlu değerlendirilmiştir. Özellikle günlük işler ve ofis kullanımı için yeterli özelliklere sahip olduğu belirtilmiştir. Ancak bazı kullanıcılar kurulum sürecinin zorluğunu ve ürünün gönderilmeden önce kurulup test edilmemesini eleştirmiştir. Ayrıca, fan sesinin yüksekliği, pil ömrünün kısa olması, klavye ve hoparlör gibi bazı donanımlarda yaşanan sorunlar ve Windows kurulumunun zorluğu gibi olumsuz geri bildirimler de mevcuttur. Genel olarak, ürünün performansı ve fiyatı bazı kullanıcılar için tatmin edici olsa da, bazı teknik detaylarda iyileştirme yapılması gerektiği görülmektedir.",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-898617268.raw.json",
+  "stats": {
+    "rawReviewCount": 26,
+    "processedReviewCount": 26,
+    "duplicateCount": 0,
+    "droppedShortCount": 0,
+    "droppedEmptyCount": 0
+  },
+  "reviews": [
+    {
+      "reviewId": "898617268-1",
+      "comment": "Valla ürün sağlam geldi çok memmun kaldık",
+      "normalizedComment": "valla ürün sağlam geldi çok memmun kaldık",
+      "rate": 5,
+      "createdAt": 1767633148603,
+      "tokens": [
+        "valla",
+        "ürün",
+        "sağlam",
+        "geldi",
+        "memmun",
+        "kaldık"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "898617268-2",
+      "comment": "Benim için oldukça iyi bir laptop. İnce, hafif, hızlı, kullanımı çok kolay. Fiyat kalite uyumu çok iyi.",
+      "normalizedComment": "benim için oldukça iyi bir laptop ince hafif hızlı kullanımı çok kolay fiyat kalite uyumu çok iyi",
+      "rate": 5,
+      "createdAt": 1762597162409,
+      "tokens": [
+        "laptop",
+        "ince",
+        "hafif",
+        "hızlı",
+        "kullanımı",
+        "kolay",
+        "fiyat",
+        "kalite",
+        "uyumu"
+      ],
+      "tokenCount": 9
+    },
+    {
+      "reviewId": "898617268-3",
+      "comment": "Bilgisayar korunaklı olarak geldi kurulum için gönderilen flash bellekte tüm kurulumun nasıl yapılacağı kurulum rehberleri ile gayet açık bir şekilde anlatılmış. Sürücülerine kadar hazırlayıp göndermişler Casper a teşekkürler Free dos olmasına rağmen çok rahat kurduk bilgisayardan anlamayan bile kurabilir öyle güzel rehber hazırlanmış. bilgisayar genel anlamıyla iyi kasa kalitesi daha iyi olabilirdi. 16 Büyüklüğüne göre gayet hafif , fan sesi çok fazla yorumlarından korkmuştum ama beni rahatsız etmedi. Fiyat performans",
+      "normalizedComment": "bilgisayar korunaklı olarak geldi kurulum için gönderilen flash bellekte tüm kurulumun nasıl yapılacağı kurulum rehberleri ile gayet açık bir şekilde anlatılmış sürücülerine kadar hazırlayıp göndermişler casper a teşekkürler free dos olmasına rağmen çok rahat kurduk bilgisayardan anlamayan bile kurabilir öyle güzel rehber hazırlanmış bilgisayar genel anlamıyla iyi kasa kalitesi daha iyi olabilirdi 16 büyüklüğüne göre gayet hafif fan sesi çok fazla yorumlarından korkmuştum ama beni rahatsız etmedi fiyat performans",
+      "rate": 5,
+      "createdAt": 1774989954664,
+      "tokens": [
+        "bilgisayar",
+        "korunaklı",
+        "geldi",
+        "kurulum",
+        "gönderilen",
+        "flash",
+        "bellekte",
+        "tüm",
+        "kurulumun",
+        "yapılacağı",
+        "kurulum",
+        "rehberleri",
+        "gayet",
+        "açık",
+        "şekilde",
+        "anlatılmış",
+        "sürücülerine",
+        "kadar",
+        "hazırlayıp",
+        "göndermişler",
+        "casper",
+        "teşekkürler",
+        "free",
+        "dos",
+        "olmasına",
+        "rağmen",
+        "rahat",
+        "kurduk",
+        "bilgisayardan",
+        "anlamayan",
+        "bile",
+        "kurabilir",
+        "öyle",
+        "güzel",
+        "rehber",
+        "hazırlanmış",
+        "bilgisayar",
+        "genel",
+        "anlamıyla",
+        "kasa",
+        "kalitesi",
+        "olabilirdi",
+        "büyüklüğüne",
+        "göre",
+        "gayet",
+        "hafif",
+        "fan",
+        "sesi",
+        "fazla",
+        "yorumlarından",
+        "korkmuştum",
+        "rahatsız",
+        "etmedi",
+        "fiyat",
+        "performans"
+      ],
+      "tokenCount": 55
+    },
+    {
+      "reviewId": "898617268-4",
+      "comment": "Yeni aldım çok beğendim gerçekten ses kalitesi vs herşy istediğim gibi geldi",
+      "normalizedComment": "yeni aldım çok beğendim gerçekten ses kalitesi vs herşy istediğim gibi geldi",
+      "rate": 5,
+      "createdAt": 1772917716412,
+      "tokens": [
+        "yeni",
+        "aldım",
+        "beğendim",
+        "gerçekten",
+        "ses",
+        "kalitesi",
+        "vs",
+        "herşy",
+        "istediğim",
+        "geldi"
+      ],
+      "tokenCount": 10
+    },
+    {
+      "reviewId": "898617268-5",
+      "comment": "çok beğendim",
+      "normalizedComment": "çok beğendim",
+      "rate": 5,
+      "createdAt": 1757721151082,
+      "tokens": [
+        "beğendim"
+      ],
+      "tokenCount": 1
+    },
+    {
+      "reviewId": "898617268-6",
+      "comment": "Çok güzel kaliteli sağlam",
+      "normalizedComment": "çok güzel kaliteli sağlam",
+      "rate": 4,
+      "createdAt": 1769079235969,
+      "tokens": [
+        "güzel",
+        "kaliteli",
+        "sağlam"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "898617268-7",
+      "comment": "güzel f p ürünü",
+      "normalizedComment": "güzel f p ürünü",
+      "rate": 5,
+      "createdAt": 1765526743712,
+      "tokens": [
+        "güzel",
+        "ürünü"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898617268-8",
+      "comment": "yorumlara bakınca biraz tereddüt yaşadım bilgisayarı aldığımda, fan sesi ve tuşlarda problemler gibi ancak bilgisayar sağlam şekilde elime ulaştı. fan sesi normal bence gayet sessiz. tuşlarım çalışıyor sorunsuz. ben evde günlük işler için aldım bana göre yeterli özelliklere sahip. Windows kurma işi rufuslu bir USB ile 15-20 dk da çözüldü. YouTube den yardım aldım . fotoğraf koymuyorum, zaten resimdeki gibi ürün.",
+      "normalizedComment": "yorumlara bakınca biraz tereddüt yaşadım bilgisayarı aldığımda fan sesi ve tuşlarda problemler gibi ancak bilgisayar sağlam şekilde elime ulaştı fan sesi normal bence gayet sessiz tuşlarım çalışıyor sorunsuz ben evde günlük işler için aldım bana göre yeterli özelliklere sahip windows kurma işi rufuslu bir usb ile 15 20 dk da çözüldü youtube den yardım aldım fotoğraf koymuyorum zaten resimdeki gibi ürün",
+      "rate": 5,
+      "createdAt": 1774603463338,
+      "tokens": [
+        "yorumlara",
+        "bakınca",
+        "biraz",
+        "tereddüt",
+        "yaşadım",
+        "bilgisayarı",
+        "aldığımda",
+        "fan",
+        "sesi",
+        "tuşlarda",
+        "problemler",
+        "ancak",
+        "bilgisayar",
+        "sağlam",
+        "şekilde",
+        "elime",
+        "ulaştı",
+        "fan",
+        "sesi",
+        "normal",
+        "gayet",
+        "sessiz",
+        "tuşlarım",
+        "çalışıyor",
+        "sorunsuz",
+        "evde",
+        "günlük",
+        "işler",
+        "aldım",
+        "bana",
+        "göre",
+        "yeterli",
+        "özelliklere",
+        "sahip",
+        "windows",
+        "kurma",
+        "işi",
+        "rufuslu",
+        "usb",
+        "dk",
+        "çözüldü",
+        "youtube",
+        "den",
+        "yardım",
+        "aldım",
+        "fotoğraf",
+        "koymuyorum",
+        "zaten",
+        "resimdeki",
+        "ürün"
+      ],
+      "tokenCount": 50
+    },
+    {
+      "reviewId": "898617268-9",
+      "comment": "Güzel ya klavye aydınlatmalı bu arada fn space",
+      "normalizedComment": "güzel ya klavye aydınlatmalı bu arada fn space",
+      "rate": 5,
+      "createdAt": 1757420938580,
+      "tokens": [
+        "güzel",
+        "klavye",
+        "aydınlatmalı",
+        "arada",
+        "fn",
+        "space"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "898617268-10",
+      "comment": "U harfinde sorun var ama onun dışında ofis için güzel",
+      "normalizedComment": "u harfinde sorun var ama onun dışında ofis için güzel",
+      "rate": 3,
+      "createdAt": 1759700486866,
+      "tokens": [
+        "harfinde",
+        "sorun",
+        "var",
+        "onun",
+        "dışında",
+        "ofis",
+        "güzel"
+      ],
+      "tokenCount": 7
+    },
+    {
+      "reviewId": "898617268-11",
+      "comment": "Üründen memnunum",
+      "normalizedComment": "üründen memnunum",
+      "rate": 5,
+      "createdAt": 1774063599699,
+      "tokens": [
+        "üründen",
+        "memnunum"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898617268-12",
+      "comment": "bilgisayar gayet canavar gibi,şu ana kadar kullanımda hiç bir sorun yaşamadım,Aksiye MMORPG oyun oynuyorum hiç bir sorun yaşamadım.",
+      "normalizedComment": "bilgisayar gayet canavar gibi şu ana kadar kullanımda hiç bir sorun yaşamadım aksiye mmorpg oyun oynuyorum hiç bir sorun yaşamadım",
+      "rate": 5,
+      "createdAt": 1759701006944,
+      "tokens": [
+        "bilgisayar",
+        "gayet",
+        "canavar",
+        "ana",
+        "kadar",
+        "kullanımda",
+        "sorun",
+        "yaşamadım",
+        "aksiye",
+        "mmorpg",
+        "oyun",
+        "oynuyorum",
+        "sorun",
+        "yaşamadım"
+      ],
+      "tokenCount": 14
+    },
+    {
+      "reviewId": "898617268-13",
+      "comment": "Şu ana kadar bir sıkıntı çıkmadı güzel",
+      "normalizedComment": "şu ana kadar bir sıkıntı çıkmadı güzel",
+      "rate": 5,
+      "createdAt": 1761947817487,
+      "tokens": [
+        "ana",
+        "kadar",
+        "sıkıntı",
+        "çıkmadı",
+        "güzel"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "898617268-14",
+      "comment": "Şuanlık iyi bir sıkıntısı yok",
+      "normalizedComment": "şuanlık iyi bir sıkıntısı yok",
+      "rate": 4,
+      "createdAt": 1754047409684,
+      "tokens": [
+        "şuanlık",
+        "sıkıntısı",
+        "yok"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "898617268-15",
+      "comment": "pil çok gitmiyor diğerleri güzel",
+      "normalizedComment": "pil çok gitmiyor diğerleri güzel",
+      "rate": 5,
+      "createdAt": 1767433007366,
+      "tokens": [
+        "pil",
+        "gitmiyor",
+        "diğerleri",
+        "güzel"
+      ],
+      "tokenCount": 4
+    },
+    {
+      "reviewId": "898617268-16",
+      "comment": "Henüz kullanmadım.",
+      "normalizedComment": "henüz kullanmadım",
+      "rate": 5,
+      "createdAt": 1743198409260,
+      "tokens": [
+        "henüz",
+        "kullanmadım"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898617268-17",
+      "comment": "Herkese merhaba almak isteyenler için bilgisayar güzel gerçekten AMA oyun indirmek isterseniz ki imkansiz gibi bisey indiremiyorsunuz yani indirebiliyorsunuz ama bilgisayar ölüyor aynı anda 2 uygulama actiginizda o kadar ısınıyor kasıyor ve fan sesi geliyor ki sesli ortamda vile fan sesini duyabilirsiniz bi video izlemek istiyorsunuz mesela videoyu duraklamadan izlemebiz imkansiz ve kalite 1080 in ustune cikarsa videoyu izlemeniz imkansiz gibi bisey olur almak isteyenler bunuda göz önünde bulundursunlar kurulumu falanda aşırı zor kurmak için 2 bilgisayarınız ve 16 gblik flash diskiniz olmali veya yetkili servise gondermelisiniz kurulumuda baya zor video izlerken bile baya fan sesi geliyor ben bi kere 30 dk lik video izledim ve fan sesinden videonun sesini duyamadim yani o derece ve vilgisayar asiri kasiyor asla 500 gb lik degil yani ama iyi yani güzel oyun oynamiyorsaniz ve cok uygulama indirmeyecekseniz isinize yarayabilir",
+      "normalizedComment": "herkese merhaba almak isteyenler için bilgisayar güzel gerçekten ama oyun indirmek isterseniz ki imkansiz gibi bisey indiremiyorsunuz yani indirebiliyorsunuz ama bilgisayar ölüyor aynı anda 2 uygulama actiginizda o kadar ısınıyor kasıyor ve fan sesi geliyor ki sesli ortamda vile fan sesini duyabilirsiniz bi video izlemek istiyorsunuz mesela videoyu duraklamadan izlemebiz imkansiz ve kalite 1080 in ustune cikarsa videoyu izlemeniz imkansiz gibi bisey olur almak isteyenler bunuda göz önünde bulundursunlar kurulumu falanda aşırı zor kurmak için 2 bilgisayarınız ve 16 gblik flash diskiniz olmali veya yetkili servise gondermelisiniz kurulumuda baya zor video izlerken bile baya fan sesi geliyor ben bi kere 30 dk lik video izledim ve fan sesinden videonun sesini duyamadim yani o derece ve vilgisayar asiri kasiyor asla 500 gb lik degil yani ama iyi yani güzel oyun oynamiyorsaniz ve cok uygulama indirmeyecekseniz isinize yarayabilir",
+      "rate": 3,
+      "createdAt": 1766949958900,
+      "tokens": [
+        "herkese",
+        "merhaba",
+        "almak",
+        "isteyenler",
+        "bilgisayar",
+        "güzel",
+        "gerçekten",
+        "oyun",
+        "indirmek",
+        "isterseniz",
+        "imkansiz",
+        "bisey",
+        "indiremiyorsunuz",
+        "indirebiliyorsunuz",
+        "bilgisayar",
+        "ölüyor",
+        "aynı",
+        "anda",
+        "uygulama",
+        "actiginizda",
+        "kadar",
+        "ısınıyor",
+        "kasıyor",
+        "fan",
+        "sesi",
+        "geliyor",
+        "sesli",
+        "ortamda",
+        "vile",
+        "fan",
+        "sesini",
+        "duyabilirsiniz",
+        "bi",
+        "video",
+        "izlemek",
+        "istiyorsunuz",
+        "mesela",
+        "videoyu",
+        "duraklamadan",
+        "izlemebiz",
+        "imkansiz",
+        "kalite",
+        "in",
+        "ustune",
+        "cikarsa",
+        "videoyu",
+        "izlemeniz",
+        "imkansiz",
+        "bisey",
+        "olur",
+        "almak",
+        "isteyenler",
+        "bunuda",
+        "göz",
+        "önünde",
+        "bulundursunlar",
+        "kurulumu",
+        "falanda",
+        "aşırı",
+        "zor",
+        "kurmak",
+        "bilgisayarınız",
+        "gblik",
+        "flash",
+        "diskiniz",
+        "olmali",
+        "yetkili",
+        "servise",
+        "gondermelisiniz",
+        "kurulumuda",
+        "baya",
+        "zor",
+        "video",
+        "izlerken",
+        "bile",
+        "baya",
+        "fan",
+        "sesi",
+        "geliyor",
+        "bi",
+        "kere",
+        "dk",
+        "lik",
+        "video",
+        "izledim",
+        "fan",
+        "sesinden",
+        "videonun",
+        "sesini",
+        "duyamadim",
+        "derece",
+        "vilgisayar",
+        "asiri",
+        "kasiyor",
+        "asla",
+        "gb",
+        "lik",
+        "degil",
+        "güzel",
+        "oyun",
+        "oynamiyorsaniz",
+        "uygulama",
+        "indirmeyecekseniz",
+        "isinize",
+        "yarayabilir"
+      ],
+      "tokenCount": 105
+    },
+    {
+      "reviewId": "898617268-18",
+      "comment": "kurulum yapılıp gönderilirse daha iyi olacaktır ayriyeten kuruluma ücret veriyoruz",
+      "normalizedComment": "kurulum yapılıp gönderilirse daha iyi olacaktır ayriyeten kuruluma ücret veriyoruz",
+      "rate": 4,
+      "createdAt": 1770928999797,
+      "tokens": [
+        "kurulum",
+        "yapılıp",
+        "gönderilirse",
+        "olacaktır",
+        "ayriyeten",
+        "kuruluma",
+        "ücret",
+        "veriyoruz"
+      ],
+      "tokenCount": 8
+    },
+    {
+      "reviewId": "898617268-19",
+      "comment": "Kurmadan gönderiyolar zorlandım kurulumunda",
+      "normalizedComment": "kurmadan gönderiyolar zorlandım kurulumunda",
+      "rate": 4,
+      "createdAt": 1766748013418,
+      "tokens": [
+        "kurmadan",
+        "gönderiyolar",
+        "zorlandım",
+        "kurulumunda"
+      ],
+      "tokenCount": 4
+    },
+    {
+      "reviewId": "898617268-20",
+      "comment": "Kesinlikle önermiyorum",
+      "normalizedComment": "kesinlikle önermiyorum",
+      "rate": 1,
+      "createdAt": 1758037643751,
+      "tokens": [
+        "kesinlikle",
+        "önermiyorum"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898617268-21",
+      "comment": "Flash Belleğin içerisinde Windows un kurulumu için iso belgesi çıkmadı baya sıkıntı yaşadım",
+      "normalizedComment": "flash belleğin içerisinde windows un kurulumu için iso belgesi çıkmadı baya sıkıntı yaşadım",
+      "rate": 3,
+      "createdAt": 1769511856244,
+      "tokens": [
+        "flash",
+        "belleğin",
+        "içerisinde",
+        "windows",
+        "un",
+        "kurulumu",
+        "iso",
+        "belgesi",
+        "çıkmadı",
+        "baya",
+        "sıkıntı",
+        "yaşadım"
+      ],
+      "tokenCount": 12
+    },
+    {
+      "reviewId": "898617268-22",
+      "comment": "Klavye ve hörpalor çalışmıyor, öyle geldi",
+      "normalizedComment": "klavye ve hörpalor çalışmıyor öyle geldi",
+      "rate": 2,
+      "createdAt": 1760798545320,
+      "tokens": [
+        "klavye",
+        "hörpalor",
+        "çalışmıyor",
+        "öyle",
+        "geldi"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "898617268-23",
+      "comment": "bilgisayarın şarjı çabuk bitiyor ortalama bir ürün",
+      "normalizedComment": "bilgisayarın şarjı çabuk bitiyor ortalama bir ürün",
+      "rate": 4,
+      "createdAt": 1762849152393,
+      "tokens": [
+        "bilgisayarın",
+        "şarjı",
+        "çabuk",
+        "bitiyor",
+        "ortalama",
+        "ürün"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "898617268-24",
+      "comment": "8 saati boşver 3 saat gitse öpüp başıma koyacağım. İlandaki 8 saat batarya açıklamasına kanıp aldım. Batarya konusunda çok pişmanım.",
+      "normalizedComment": "8 saati boşver 3 saat gitse öpüp başıma koyacağım ilandaki 8 saat batarya açıklamasına kanıp aldım batarya konusunda çok pişmanım",
+      "rate": 1,
+      "createdAt": 1744978525084,
+      "tokens": [
+        "saati",
+        "boşver",
+        "saat",
+        "gitse",
+        "öpüp",
+        "başıma",
+        "koyacağım",
+        "ilandaki",
+        "saat",
+        "batarya",
+        "açıklamasına",
+        "kanıp",
+        "aldım",
+        "batarya",
+        "konusunda",
+        "pişmanım"
+      ],
+      "tokenCount": 16
+    },
+    {
+      "reviewId": "898617268-25",
+      "comment": "merhaba çok fazla fan sesi var",
+      "normalizedComment": "merhaba çok fazla fan sesi var",
+      "rate": 3,
+      "createdAt": 1773954039531,
+      "tokens": [
+        "merhaba",
+        "fazla",
+        "fan",
+        "sesi",
+        "var"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "898617268-26",
+      "comment": "urun kurulmadan gönderilmiş o kadar zorlandimki kurulumu yapana kadar",
+      "normalizedComment": "urun kurulmadan gönderilmiş o kadar zorlandimki kurulumu yapana kadar",
+      "rate": 1,
+      "createdAt": 1771175870155,
+      "tokens": [
+        "urun",
+        "kurulmadan",
+        "gönderilmiş",
+        "kadar",
+        "zorlandimki",
+        "kurulumu",
+        "yapana",
+        "kadar"
+      ],
+      "tokenCount": 8
+    }
+  ]
+}

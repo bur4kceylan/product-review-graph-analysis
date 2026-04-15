@@ -1,0 +1,689 @@
+{
+  "productUrl": "https://www.trendyol.com/new-balance/unisex-ayakkabi-mr530sg-p-277121015?boutiqueId=61&merchantId=798447",
+  "contentId": "277121015",
+  "generatedAt": "2026-04-15T13:08:57.721Z",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-277121015.raw.json",
+  "sourceAiSummary": "• Ürün genellikle rahat ve konforlu olarak değerlendiriliyor.\n• Birçok kullanıcı, ayakkabının orijinal olup olmadığı konusunda şüphelerini dile getiriyor.\n• Ayakkabının kalıbının dar olduğu ve yarım veya bir numara büyük alınmasının tavsiye edildiği belirtiliyor.\n• Bazı müşteriler, ürünün ambalajının özensiz veya hasarlı geldiğini ifade ediyor.\n• Satıcıyla iletişimde sorunlar yaşandığı ve kargo süreciyle ilgili gecikmelerin olduğu bildiriliyor.",
+  "sourceSummary": {
+    "averageRating": 4.3,
+    "averageRatingFixed": "4.3",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 382,
+    "totalCommentCount": 52,
+    "totalPages": 3,
+    "hasMediaFiles": true,
+    "totalImageReviewCount": 22,
+    "productSizes": [
+      {
+        "name": "38",
+        "count": 6
+      },
+      {
+        "name": "37,5",
+        "count": 8
+      },
+      {
+        "name": "38,5",
+        "count": 7
+      },
+      {
+        "name": "39,5",
+        "count": 6
+      },
+      {
+        "name": "37",
+        "count": 3
+      },
+      {
+        "name": "36",
+        "count": 5
+      },
+      {
+        "name": "40",
+        "count": 2
+      },
+      {
+        "name": "40,5",
+        "count": 1
+      },
+      {
+        "name": "39",
+        "count": 2
+      },
+      {
+        "name": "41,5",
+        "count": 2
+      }
+    ],
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/30/30/mobile/reviewrating/kamera-emoji6x.png",
+    "heightTags": [
+      {
+        "name": "<150",
+        "count": 1
+      },
+      {
+        "name": "161-170",
+        "count": 1
+      }
+    ],
+    "weightTags": [
+      {
+        "name": "<50",
+        "count": 1
+      },
+      {
+        "name": "71-80",
+        "count": 1
+      }
+    ],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 293
+      },
+      {
+        "rate": 4,
+        "count": 20
+      },
+      {
+        "rate": 3,
+        "count": 18
+      },
+      {
+        "rate": 2,
+        "count": 5
+      },
+      {
+        "rate": 1,
+        "count": 46
+      }
+    ],
+    "tags": [
+      {
+        "name": "tümü",
+        "count": 52
+      },
+      {
+        "name": "fotoğraflı",
+        "count": 22,
+        "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png"
+      },
+      {
+        "name": "Orijinallik",
+        "count": 26
+      },
+      {
+        "name": "Rahatlık",
+        "count": 7,
+        "sentiment": {
+          "positive": 7,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Beden Bilgisi",
+        "count": 10
+      },
+      {
+        "name": "Kalite",
+        "count": 1
+      },
+      {
+        "name": "Ağırlık",
+        "count": 2
+      },
+      {
+        "name": "Fiyat",
+        "count": 4
+      },
+      {
+        "name": "Teslimat Süresi",
+        "count": 3,
+        "sentiment": {
+          "positive": 3,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Farklı/Aynı Ürün",
+        "count": 2
+      },
+      {
+        "name": "İade",
+        "count": 5
+      }
+    ]
+  },
+  "totalReviews": 52,
+  "averageRating": 3.54,
+  "confidenceScore": 36,
+  "headline": "Yorumlarda urunle ilgili belirgin cekinceler bulunuyor.",
+  "sentiment": {
+    "positive": 30,
+    "neutral": 4,
+    "negative": 18
+  },
+  "sentimentPercentages": {
+    "positive": 57.69,
+    "neutral": 7.69,
+    "negative": 34.62
+  },
+  "sourceTags": [
+    {
+      "name": "Orijinallik",
+      "count": 26,
+      "positive": 0,
+      "negative": 0,
+      "ratio": null
+    },
+    {
+      "name": "Beden Bilgisi",
+      "count": 10,
+      "positive": 0,
+      "negative": 0,
+      "ratio": null
+    },
+    {
+      "name": "Rahatlık",
+      "count": 7,
+      "positive": 7,
+      "negative": 0,
+      "ratio": 100
+    },
+    {
+      "name": "İade",
+      "count": 5,
+      "positive": 0,
+      "negative": 0,
+      "ratio": null
+    }
+  ],
+  "ratingBreakdown": {
+    "totalRatings": 382,
+    "positiveCount": 313,
+    "neutralCount": 18,
+    "negativeCount": 51,
+    "positivePercent": 81.94,
+    "neutralPercent": 4.71,
+    "negativePercent": 13.35,
+    "fiveStarPercent": 76.7,
+    "oneStarPercent": 12.04
+  },
+  "commentCoverage": {
+    "totalRatingCount": 382,
+    "totalCommentCount": 52,
+    "ratingsWithoutComment": 330,
+    "commentCoveragePercent": 13.61
+  },
+  "topKeywords": [
+    {
+      "value": "urun",
+      "count": 22
+    },
+    {
+      "value": "orjinal",
+      "count": 14
+    },
+    {
+      "value": "orijinal",
+      "count": 11
+    },
+    {
+      "value": "rahat",
+      "count": 11
+    },
+    {
+      "value": "guzel",
+      "count": 11
+    },
+    {
+      "value": "buyuk",
+      "count": 11
+    },
+    {
+      "value": "ayakkabi",
+      "count": 10
+    },
+    {
+      "value": "numara",
+      "count": 8
+    },
+    {
+      "value": "iade",
+      "count": 8
+    },
+    {
+      "value": "aldim",
+      "count": 7
+    },
+    {
+      "value": "barkod",
+      "count": 7
+    },
+    {
+      "value": "geldi",
+      "count": 7
+    },
+    {
+      "value": "ederim",
+      "count": 6
+    },
+    {
+      "value": "hizli",
+      "count": 5
+    },
+    {
+      "value": "tesekkur",
+      "count": 5
+    },
+    {
+      "value": "urunu",
+      "count": 5
+    },
+    {
+      "value": "para",
+      "count": 5
+    },
+    {
+      "value": "begendim",
+      "count": 4
+    },
+    {
+      "value": "alin",
+      "count": 4
+    },
+    {
+      "value": "kaldim",
+      "count": 4
+    }
+  ],
+  "topPhrases": [
+    {
+      "value": "numara buyuk",
+      "count": 6
+    },
+    {
+      "value": "urun orjinal",
+      "count": 5
+    },
+    {
+      "value": "urun orijinal",
+      "count": 4
+    },
+    {
+      "value": "tesekkur ederim",
+      "count": 4
+    },
+    {
+      "value": "orijinal urun",
+      "count": 3
+    },
+    {
+      "value": "esime aldim",
+      "count": 3
+    },
+    {
+      "value": "iade etmek",
+      "count": 3
+    },
+    {
+      "value": "etmek zorunda",
+      "count": 3
+    },
+    {
+      "value": "zorunda kaldim",
+      "count": 3
+    },
+    {
+      "value": "kadar para",
+      "count": 3
+    },
+    {
+      "value": "ayakkabi tavsiye",
+      "count": 2
+    },
+    {
+      "value": "tavsiye ederim",
+      "count": 2
+    }
+  ],
+  "wordGraph": {
+    "nodes": [
+      {
+        "id": "urun",
+        "label": "urun",
+        "count": 22
+      },
+      {
+        "id": "orjinal",
+        "label": "orjinal",
+        "count": 14
+      },
+      {
+        "id": "orijinal",
+        "label": "orijinal",
+        "count": 11
+      },
+      {
+        "id": "rahat",
+        "label": "rahat",
+        "count": 11
+      },
+      {
+        "id": "guzel",
+        "label": "guzel",
+        "count": 11
+      },
+      {
+        "id": "buyuk",
+        "label": "buyuk",
+        "count": 11
+      },
+      {
+        "id": "ayakkabi",
+        "label": "ayakkabi",
+        "count": 10
+      },
+      {
+        "id": "numara",
+        "label": "numara",
+        "count": 8
+      },
+      {
+        "id": "iade",
+        "label": "iade",
+        "count": 8
+      },
+      {
+        "id": "aldim",
+        "label": "aldim",
+        "count": 7
+      },
+      {
+        "id": "barkod",
+        "label": "barkod",
+        "count": 7
+      },
+      {
+        "id": "geldi",
+        "label": "geldi",
+        "count": 7
+      },
+      {
+        "id": "ederim",
+        "label": "ederim",
+        "count": 6
+      },
+      {
+        "id": "hizli",
+        "label": "hizli",
+        "count": 5
+      }
+    ],
+    "edges": [
+      {
+        "source": "orijinal",
+        "target": "urun",
+        "weight": 8
+      },
+      {
+        "source": "orjinal",
+        "target": "urun",
+        "weight": 8
+      },
+      {
+        "source": "buyuk",
+        "target": "urun",
+        "weight": 7
+      },
+      {
+        "source": "rahat",
+        "target": "urun",
+        "weight": 6
+      },
+      {
+        "source": "ayakkabi",
+        "target": "rahat",
+        "weight": 6
+      },
+      {
+        "source": "buyuk",
+        "target": "numara",
+        "weight": 6
+      },
+      {
+        "source": "buyuk",
+        "target": "iade",
+        "weight": 6
+      },
+      {
+        "source": "hizli",
+        "target": "rahat",
+        "weight": 5
+      },
+      {
+        "source": "buyuk",
+        "target": "guzel",
+        "weight": 5
+      },
+      {
+        "source": "guzel",
+        "target": "urun",
+        "weight": 4
+      },
+      {
+        "source": "orijinal",
+        "target": "rahat",
+        "weight": 4
+      },
+      {
+        "source": "ederim",
+        "target": "rahat",
+        "weight": 4
+      },
+      {
+        "source": "ayakkabi",
+        "target": "hizli",
+        "weight": 4
+      },
+      {
+        "source": "numara",
+        "target": "urun",
+        "weight": 4
+      },
+      {
+        "source": "guzel",
+        "target": "numara",
+        "weight": 4
+      },
+      {
+        "source": "iade",
+        "target": "numara",
+        "weight": 4
+      },
+      {
+        "source": "barkod",
+        "target": "urun",
+        "weight": 4
+      },
+      {
+        "source": "ayakkabi",
+        "target": "urun",
+        "weight": 3
+      },
+      {
+        "source": "hizli",
+        "target": "urun",
+        "weight": 3
+      },
+      {
+        "source": "hizli",
+        "target": "orijinal",
+        "weight": 3
+      },
+      {
+        "source": "guzel",
+        "target": "rahat",
+        "weight": 3
+      },
+      {
+        "source": "ayakkabi",
+        "target": "ederim",
+        "weight": 3
+      },
+      {
+        "source": "buyuk",
+        "target": "orijinal",
+        "weight": 3
+      },
+      {
+        "source": "buyuk",
+        "target": "rahat",
+        "weight": 3
+      }
+    ]
+  },
+  "aspects": [
+    {
+      "aspect": "kargo",
+      "mentions": 6,
+      "positive": 5,
+      "neutral": 0,
+      "negative": 1,
+      "positiveRatio": 0.833,
+      "negativeRatio": 0.167,
+      "bestPositiveComment": {
+        "comment": "QR okuyor ürün orijinal arkadaşlar geldiği gibi kullandım çok rahat ve hafif bir ayakkabı tavsiye ederim gayet güzel de paketlenmişti hızlı elime ulaştı teşekkür ediyorum",
+        "rate": 5,
+        "sentimentScore": 12
+      },
+      "strongestNegativeComment": {
+        "comment": "Bu nasıl Metro market anlamadım. 12 bin küsür para verdim hem kendime hem eşime aldım. Kargo kutusunu sanki parçalamışlar . İç etiketteki barkod açılmıyor . Orijinal mi değil mi belli değil fatura vs çıkmadı içinden gönderenin Metro olduğuna dair .O kadar para verip peşine de koşturmak istiyorsanız alın .",
+        "rate": 1,
+        "sentimentScore": -3
+      }
+    },
+    {
+      "aspect": "performans",
+      "mentions": 5,
+      "positive": 5,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "QR okuyor ürün orijinal arkadaşlar geldiği gibi kullandım çok rahat ve hafif bir ayakkabı tavsiye ederim gayet güzel de paketlenmişti hızlı elime ulaştı teşekkür ediyorum",
+        "rate": 5,
+        "sentimentScore": 12
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "batarya",
+      "mentions": 2,
+      "positive": 2,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "beğendim çok güzel. Giydikçe daha iyi yorum yapılır aslında",
+        "rate": 5,
+        "sentimentScore": 12
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "malzeme-kalite",
+      "mentions": 2,
+      "positive": 1,
+      "neutral": 0,
+      "negative": 1,
+      "positiveRatio": 0.5,
+      "negativeRatio": 0.5,
+      "bestPositiveComment": {
+        "comment": "iyi kalitesi beyendim",
+        "rate": 5,
+        "sentimentScore": 4
+      },
+      "strongestNegativeComment": {
+        "comment": "Çakma kalitesiz.",
+        "rate": 1,
+        "sentimentScore": -3
+      }
+    },
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 1,
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Aynı ayakkabı 1 hafta olmadan fiyatı nasıl yarıya düştü anlamadım 6500 aldım şuan 3bin küsur",
+        "rate": 5,
+        "sentimentScore": 3
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "kullanim",
+      "mentions": 1,
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Ürün orijinal mi bilemedim ama tabanını deri arasında ton farkı var sebebini bilen var mı? kullanımı rahat gibi giyince tekrar yorumumu guncellerim , eğer satıcı yorumumu okuyor ise lütfen bana yardımcı olsun",
+        "rate": 5,
+        "sentimentScore": 4
+      },
+      "strongestNegativeComment": null
+    }
+  ],
+  "strengths": [],
+  "weaknesses": [],
+  "samplePositiveReviews": [
+    {
+      "comment": "QR okuyor ürün orijinal arkadaşlar geldiği gibi kullandım çok rahat ve hafif bir ayakkabı tavsiye ederim gayet güzel de paketlenmişti hızlı elime ulaştı teşekkür ediyorum",
+      "rate": 5,
+      "sentimentScore": 12
+    },
+    {
+      "comment": "beğendim çok güzel. Giydikçe daha iyi yorum yapılır aslında",
+      "rate": 5,
+      "sentimentScore": 12
+    },
+    {
+      "comment": "Çok güzel memnun kaldım 1 numara büyük alınabilir",
+      "rate": 5,
+      "sentimentScore": 9
+    }
+  ],
+  "sampleNegativeReviews": [
+    {
+      "comment": "Orijinal ürün göndermiyorlar barkod okumuyor iadede kabul etmiyorlar kesinlikle almayın, barkod gerçek bir karekod değil",
+      "rate": 1,
+      "sentimentScore": -6
+    },
+    {
+      "comment": "ürünün orjinallikle bir alakası yoktu geri iade ettim almayın aldırmayın",
+      "rate": 1,
+      "sentimentScore": -6
+    },
+    {
+      "comment": "Ürünü 39 numara istedim 39.5 gönderdiler mağdur ettiler ürünü iade ediyorum hiç bir şekilde memnun kalmadım",
+      "rate": 1,
+      "sentimentScore": -4
+    }
+  ],
+  "generalEvaluation": "Urun, kullanicilar tarafindan genel olarak olumlu degerlendirilmistir. Toplam puanlamalarda da bu tablo desteklenmektedir; 4-5 yildiz orani %81.94, 1-2 yildiz orani ise %13.35 seviyesindedir. 330 kullanicinin sadece puan verip yorum birakmamasi, genel memnuniyetin yorum yazan kullanicilarla sinirli olmadigini da gostermektedir. Genel olarak urunun fiyat ve performans dengesi kullanicilarin buyuk bolumu tarafindan tatmin edici bulunmaktadir.",
+  "displaySummary": "Urunun genel resmi olumlu: toplam degerlendirmelerin %81.94 kadari 4-5 yildiz, yalnizca %13.35 kadari 1-2 yildiz seviyesinde. Yorumlarda urunun gunluk kullanim ihtiyaclarini karsilamasi olumlu bir nokta olarak one cikmaktadir. Olumsuz yorumlar sinirli olsa da bazi kullanicilar belirli kullanim senaryolarinda gelistirme beklentisi dile getirmektedir. Ayrica 330 kullanicinin sadece puan verip yorum birakmamasi, toplam memnuniyetin yorum yazan kitleyle sinirli olmadigini da gosteriyor; Trendyol etiketlerinde Orijinallik, Beden Bilgisi, Rahatlık, İade basliklari one cikiyor. Genel olarak urun, guclu yonleri one ciksa da satin alma kararinda beklentilerin dikkatle degerlendirilmesini gerektiren bir secenek olarak gorunmektedir."
+}

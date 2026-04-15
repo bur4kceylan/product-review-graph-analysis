@@ -1,0 +1,51 @@
+{
+  "productUrl": "https://www.trendyol.com/new-balance/unisex-sneaker-spor-ayakkabi-26y-ml565-kahve-p-1115322988?boutiqueId=61&merchantId=116520",
+  "contentId": "1115322988",
+  "fetchedAt": "2026-04-15T14:06:08.440Z",
+  "sourceSummary": {
+    "averageRating": 0,
+    "averageRatingFixed": "0.0",
+    "countries": [],
+    "totalRatingCount": 0,
+    "totalCommentCount": 0,
+    "totalPages": 0,
+    "hasMediaFiles": false,
+    "totalImageReviewCount": 0,
+    "productSizes": [],
+    "heightTags": [],
+    "weightTags": [],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 0
+      },
+      {
+        "rate": 4,
+        "count": 0
+      },
+      {
+        "rate": 3,
+        "count": 0
+      },
+      {
+        "rate": 2,
+        "count": 0
+      },
+      {
+        "rate": 1,
+        "count": 0
+      }
+    ],
+    "tags": []
+  },
+  "sourceAiSummary": null,
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-1115322988.raw.json",
+  "stats": {
+    "rawReviewCount": 0,
+    "processedReviewCount": 0,
+    "duplicateCount": 0,
+    "droppedShortCount": 0,
+    "droppedEmptyCount": 0
+  },
+  "reviews": []
+}

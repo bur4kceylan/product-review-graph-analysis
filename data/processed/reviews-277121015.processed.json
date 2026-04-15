@@ -1,0 +1,1260 @@
+{
+  "productUrl": "https://www.trendyol.com/new-balance/unisex-ayakkabi-mr530sg-p-277121015?boutiqueId=61&merchantId=798447",
+  "contentId": "277121015",
+  "fetchedAt": "2026-04-15T13:08:51.460Z",
+  "sourceSummary": {
+    "averageRating": 4.3,
+    "averageRatingFixed": "4.3",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 382,
+    "totalCommentCount": 52,
+    "totalPages": 3,
+    "hasMediaFiles": true,
+    "totalImageReviewCount": 22,
+    "productSizes": [
+      {
+        "name": "38",
+        "count": 6
+      },
+      {
+        "name": "37,5",
+        "count": 8
+      },
+      {
+        "name": "38,5",
+        "count": 7
+      },
+      {
+        "name": "39,5",
+        "count": 6
+      },
+      {
+        "name": "37",
+        "count": 3
+      },
+      {
+        "name": "36",
+        "count": 5
+      },
+      {
+        "name": "40",
+        "count": 2
+      },
+      {
+        "name": "40,5",
+        "count": 1
+      },
+      {
+        "name": "39",
+        "count": 2
+      },
+      {
+        "name": "41,5",
+        "count": 2
+      }
+    ],
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/30/30/mobile/reviewrating/kamera-emoji6x.png",
+    "heightTags": [
+      {
+        "name": "<150",
+        "count": 1
+      },
+      {
+        "name": "161-170",
+        "count": 1
+      }
+    ],
+    "weightTags": [
+      {
+        "name": "<50",
+        "count": 1
+      },
+      {
+        "name": "71-80",
+        "count": 1
+      }
+    ],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 293
+      },
+      {
+        "rate": 4,
+        "count": 20
+      },
+      {
+        "rate": 3,
+        "count": 18
+      },
+      {
+        "rate": 2,
+        "count": 5
+      },
+      {
+        "rate": 1,
+        "count": 46
+      }
+    ],
+    "tags": [
+      {
+        "name": "tümü",
+        "count": 52
+      },
+      {
+        "name": "fotoğraflı",
+        "count": 22,
+        "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png"
+      },
+      {
+        "name": "Orijinallik",
+        "count": 26
+      },
+      {
+        "name": "Rahatlık",
+        "count": 7,
+        "sentiment": {
+          "positive": 7,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Beden Bilgisi",
+        "count": 10
+      },
+      {
+        "name": "Kalite",
+        "count": 1
+      },
+      {
+        "name": "Ağırlık",
+        "count": 2
+      },
+      {
+        "name": "Fiyat",
+        "count": 4
+      },
+      {
+        "name": "Teslimat Süresi",
+        "count": 3,
+        "sentiment": {
+          "positive": 3,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Farklı/Aynı Ürün",
+        "count": 2
+      },
+      {
+        "name": "İade",
+        "count": 5
+      }
+    ]
+  },
+  "sourceAiSummary": "• Ürün genellikle rahat ve konforlu olarak değerlendiriliyor.\n• Birçok kullanıcı, ayakkabının orijinal olup olmadığı konusunda şüphelerini dile getiriyor.\n• Ayakkabının kalıbının dar olduğu ve yarım veya bir numara büyük alınmasının tavsiye edildiği belirtiliyor.\n• Bazı müşteriler, ürünün ambalajının özensiz veya hasarlı geldiğini ifade ediyor.\n• Satıcıyla iletişimde sorunlar yaşandığı ve kargo süreciyle ilgili gecikmelerin olduğu bildiriliyor.",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-277121015.raw.json",
+  "stats": {
+    "rawReviewCount": 52,
+    "processedReviewCount": 52,
+    "duplicateCount": 0,
+    "droppedShortCount": 0,
+    "droppedEmptyCount": 0
+  },
+  "reviews": [
+    {
+      "reviewId": "277121015-1",
+      "comment": "QR okuyor ürün orijinal arkadaşlar geldiği gibi kullandım çok rahat ve hafif bir ayakkabı tavsiye ederim gayet güzel de paketlenmişti hızlı elime ulaştı teşekkür ediyorum",
+      "normalizedComment": "qr okuyor ürün orijinal arkadaşlar geldiği gibi kullandım çok rahat ve hafif bir ayakkabı tavsiye ederim gayet güzel de paketlenmişti hızlı elime ulaştı teşekkür ediyorum",
+      "rate": 5,
+      "createdAt": 1773786976533,
+      "tokens": [
+        "qr",
+        "okuyor",
+        "ürün",
+        "orijinal",
+        "arkadaşlar",
+        "geldiği",
+        "kullandım",
+        "rahat",
+        "hafif",
+        "ayakkabı",
+        "tavsiye",
+        "ederim",
+        "gayet",
+        "güzel",
+        "paketlenmişti",
+        "hızlı",
+        "elime",
+        "ulaştı",
+        "teşekkür",
+        "ediyorum"
+      ],
+      "tokenCount": 20
+    },
+    {
+      "reviewId": "277121015-2",
+      "comment": "Teşekkür ederim çok kulllanışlı ve çok rahat acayip güzel",
+      "normalizedComment": "teşekkür ederim çok kulllanışlı ve çok rahat acayip güzel",
+      "rate": 5,
+      "createdAt": 1768634785316,
+      "tokens": [
+        "teşekkür",
+        "ederim",
+        "kulllanışlı",
+        "rahat",
+        "acayip",
+        "güzel"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "277121015-3",
+      "comment": "on numara rahat ayakkabı tavsiye ederim",
+      "normalizedComment": "on numara rahat ayakkabı tavsiye ederim",
+      "rate": 5,
+      "createdAt": 1727283156083,
+      "tokens": [
+        "on",
+        "numara",
+        "rahat",
+        "ayakkabı",
+        "tavsiye",
+        "ederim"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "277121015-4",
+      "comment": "Fotoğraftaki gibiydi beğendik",
+      "normalizedComment": "fotoğraftaki gibiydi beğendik",
+      "rate": 5,
+      "createdAt": 1745824165298,
+      "tokens": [
+        "fotoğraftaki",
+        "gibiydi",
+        "beğendik"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "277121015-5",
+      "comment": "Çok rahat bir ayakkabı çok beğendim hızlı kargo için firmaya teşekkür ederim",
+      "normalizedComment": "çok rahat bir ayakkabı çok beğendim hızlı kargo için firmaya teşekkür ederim",
+      "rate": 4,
+      "createdAt": 1733461277579,
+      "tokens": [
+        "rahat",
+        "ayakkabı",
+        "beğendim",
+        "hızlı",
+        "kargo",
+        "firmaya",
+        "teşekkür",
+        "ederim"
+      ],
+      "tokenCount": 8
+    },
+    {
+      "reviewId": "277121015-6",
+      "comment": "korayspor satıcısından aldım hızlı teslimat orijinal ürün.hafif dar kalıp bir ayakkabı yarım numara buyuk alınabilir.çok hafif cok rahat ayrıca cok şık bir ayakkabı",
+      "normalizedComment": "korayspor satıcısından aldım hızlı teslimat orijinal ürün hafif dar kalıp bir ayakkabı yarım numara buyuk alınabilir çok hafif cok rahat ayrıca cok şık bir ayakkabı",
+      "rate": 5,
+      "createdAt": 1758207151968,
+      "tokens": [
+        "korayspor",
+        "satıcısından",
+        "aldım",
+        "hızlı",
+        "teslimat",
+        "orijinal",
+        "ürün",
+        "hafif",
+        "dar",
+        "kalıp",
+        "ayakkabı",
+        "yarım",
+        "numara",
+        "buyuk",
+        "alınabilir",
+        "hafif",
+        "rahat",
+        "ayrıca",
+        "şık",
+        "ayakkabı"
+      ],
+      "tokenCount": 20
+    },
+    {
+      "reviewId": "277121015-7",
+      "comment": "Ürün ve paketleme gayet iyi teşekkür ederim",
+      "normalizedComment": "ürün ve paketleme gayet iyi teşekkür ederim",
+      "rate": 5,
+      "createdAt": 1775202900053,
+      "tokens": [
+        "ürün",
+        "paketleme",
+        "gayet",
+        "teşekkür",
+        "ederim"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "277121015-8",
+      "comment": "Eşime aldım çok beğenerek giyiyor",
+      "normalizedComment": "eşime aldım çok beğenerek giyiyor",
+      "rate": 5,
+      "createdAt": 1761198428920,
+      "tokens": [
+        "eşime",
+        "aldım",
+        "beğenerek",
+        "giyiyor"
+      ],
+      "tokenCount": 4
+    },
+    {
+      "reviewId": "277121015-9",
+      "comment": "çok beğendik eşime aldım orjinal barkod okuttuk teşekkürler korayspor",
+      "normalizedComment": "çok beğendik eşime aldım orjinal barkod okuttuk teşekkürler korayspor",
+      "rate": 5,
+      "createdAt": 1765387570255,
+      "tokens": [
+        "beğendik",
+        "eşime",
+        "aldım",
+        "orjinal",
+        "barkod",
+        "okuttuk",
+        "teşekkürler",
+        "korayspor"
+      ],
+      "tokenCount": 8
+    },
+    {
+      "reviewId": "277121015-10",
+      "comment": "Hem rahat hem kıyafetlere uygun. Kesin alın derim",
+      "normalizedComment": "hem rahat hem kıyafetlere uygun kesin alın derim",
+      "rate": 5,
+      "createdAt": 1769332066132,
+      "tokens": [
+        "rahat",
+        "kıyafetlere",
+        "uygun",
+        "kesin",
+        "alın",
+        "derim"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "277121015-11",
+      "comment": "Çok güzel memnun kaldım 1 numara büyük alınabilir",
+      "normalizedComment": "çok güzel memnun kaldım 1 numara büyük alınabilir",
+      "rate": 5,
+      "createdAt": 1775565038692,
+      "tokens": [
+        "güzel",
+        "memnun",
+        "kaldım",
+        "numara",
+        "büyük",
+        "alınabilir"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "277121015-12",
+      "comment": "Urun orjınal cok guzel ve rahttı numara buyuk geldıgı ıcın ıade etmek zorunda kaldım",
+      "normalizedComment": "urun orjınal cok guzel ve rahttı numara buyuk geldıgı ıcın ıade etmek zorunda kaldım",
+      "rate": 5,
+      "createdAt": 1775051414099,
+      "tokens": [
+        "urun",
+        "orjınal",
+        "guzel",
+        "rahttı",
+        "numara",
+        "buyuk",
+        "geldıgı",
+        "ıcın",
+        "ıade",
+        "etmek",
+        "zorunda",
+        "kaldım"
+      ],
+      "tokenCount": 12
+    },
+    {
+      "reviewId": "277121015-13",
+      "comment": "3 farklı mağaza deneyimi hüsranla sonuçlandıktan sonra nihayet ürünü orjinal ve sorunsuz bir şekilde satın alabildik. satıcı arkadaşımıza teşekkür ederim.",
+      "normalizedComment": "3 farklı mağaza deneyimi hüsranla sonuçlandıktan sonra nihayet ürünü orjinal ve sorunsuz bir şekilde satın alabildik satıcı arkadaşımıza teşekkür ederim",
+      "rate": 5,
+      "createdAt": 1765024116706,
+      "tokens": [
+        "farklı",
+        "mağaza",
+        "deneyimi",
+        "hüsranla",
+        "sonuçlandıktan",
+        "sonra",
+        "nihayet",
+        "ürünü",
+        "orjinal",
+        "sorunsuz",
+        "şekilde",
+        "satın",
+        "alabildik",
+        "satıcı",
+        "arkadaşımıza",
+        "teşekkür",
+        "ederim"
+      ],
+      "tokenCount": 17
+    },
+    {
+      "reviewId": "277121015-14",
+      "comment": "Çok güzel herkes bir numara büyük demiş ben 40.5 aldım bol geldi iade edip 40 nosunu alıcam",
+      "normalizedComment": "çok güzel herkes bir numara büyük demiş ben 40 5 aldım bol geldi iade edip 40 nosunu alıcam",
+      "rate": 5,
+      "createdAt": 1774622266332,
+      "tokens": [
+        "güzel",
+        "herkes",
+        "numara",
+        "büyük",
+        "demiş",
+        "aldım",
+        "bol",
+        "geldi",
+        "iade",
+        "edip",
+        "nosunu",
+        "alıcam"
+      ],
+      "tokenCount": 12
+    },
+    {
+      "reviewId": "277121015-15",
+      "comment": "ürün güzel orijinal satıcıda çok ilgili numara büyük geldiği için iade etmek zorunda kaldım",
+      "normalizedComment": "ürün güzel orijinal satıcıda çok ilgili numara büyük geldiği için iade etmek zorunda kaldım",
+      "rate": 5,
+      "createdAt": 1745242910942,
+      "tokens": [
+        "ürün",
+        "güzel",
+        "orijinal",
+        "satıcıda",
+        "ilgili",
+        "numara",
+        "büyük",
+        "geldiği",
+        "iade",
+        "etmek",
+        "zorunda",
+        "kaldım"
+      ],
+      "tokenCount": 12
+    },
+    {
+      "reviewId": "277121015-16",
+      "comment": "Kalıbı büyük çok beğenmeme rağmen iade etmek zorunda kaldım",
+      "normalizedComment": "kalıbı büyük çok beğenmeme rağmen iade etmek zorunda kaldım",
+      "rate": 5,
+      "createdAt": 1711007678140,
+      "tokens": [
+        "kalıbı",
+        "büyük",
+        "beğenmeme",
+        "rağmen",
+        "iade",
+        "etmek",
+        "zorunda",
+        "kaldım"
+      ],
+      "tokenCount": 8
+    },
+    {
+      "reviewId": "277121015-17",
+      "comment": "mükemmel teşekkürler",
+      "normalizedComment": "mükemmel teşekkürler",
+      "rate": 5,
+      "createdAt": 1735506250964,
+      "tokens": [
+        "mükemmel",
+        "teşekkürler"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "277121015-18",
+      "comment": "Çok iyi beğendim",
+      "normalizedComment": "çok iyi beğendim",
+      "rate": 3,
+      "createdAt": 1744866523160,
+      "tokens": [
+        "beğendim"
+      ],
+      "tokenCount": 1
+    },
+    {
+      "reviewId": "277121015-19",
+      "comment": "Beden uymadığı için iade ettim, bir beden büyük alın kalıp dar",
+      "normalizedComment": "beden uymadığı için iade ettim bir beden büyük alın kalıp dar",
+      "rate": 5,
+      "createdAt": 1691079817333,
+      "tokens": [
+        "beden",
+        "uymadığı",
+        "iade",
+        "ettim",
+        "beden",
+        "büyük",
+        "alın",
+        "kalıp",
+        "dar"
+      ],
+      "tokenCount": 9
+    },
+    {
+      "reviewId": "277121015-20",
+      "comment": "beğendim çok güzel. Giydikçe daha iyi yorum yapılır aslında",
+      "normalizedComment": "beğendim çok güzel giydikçe daha iyi yorum yapılır aslında",
+      "rate": 5,
+      "createdAt": 1774170089876,
+      "tokens": [
+        "beğendim",
+        "güzel",
+        "giydikçe",
+        "yorum",
+        "yapılır",
+        "aslında"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "277121015-21",
+      "comment": "arkadaşlar ürün orijinal ayakta yok gibi rahat bir ürün boyu 4-5 cm uzatıyor . ama bana yarım numaradan daha az olacak şekilde büyük geldi 39 numarası da küçük gelir gibi açılır gibi de durmuyor giydikçe formunu korur aslında böyle olması iyi ama iade edip etmemeye karar veremedim. kargo tertemiz ve hızlı geldi",
+      "normalizedComment": "arkadaşlar ürün orijinal ayakta yok gibi rahat bir ürün boyu 4 5 cm uzatıyor ama bana yarım numaradan daha az olacak şekilde büyük geldi 39 numarası da küçük gelir gibi açılır gibi de durmuyor giydikçe formunu korur aslında böyle olması iyi ama iade edip etmemeye karar veremedim kargo tertemiz ve hızlı geldi",
+      "rate": 5,
+      "createdAt": 1774981994911,
+      "tokens": [
+        "arkadaşlar",
+        "ürün",
+        "orijinal",
+        "ayakta",
+        "yok",
+        "rahat",
+        "ürün",
+        "boyu",
+        "cm",
+        "uzatıyor",
+        "bana",
+        "yarım",
+        "numaradan",
+        "olacak",
+        "şekilde",
+        "büyük",
+        "geldi",
+        "numarası",
+        "küçük",
+        "gelir",
+        "açılır",
+        "durmuyor",
+        "giydikçe",
+        "formunu",
+        "korur",
+        "aslında",
+        "böyle",
+        "olması",
+        "iade",
+        "edip",
+        "etmemeye",
+        "karar",
+        "veremedim",
+        "kargo",
+        "tertemiz",
+        "hızlı",
+        "geldi"
+      ],
+      "tokenCount": 37
+    },
+    {
+      "reviewId": "277121015-22",
+      "comment": "iyi kalitesi beyendim",
+      "normalizedComment": "iyi kalitesi beyendim",
+      "rate": 5,
+      "createdAt": 1718113745731,
+      "tokens": [
+        "kalitesi",
+        "beyendim"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "277121015-23",
+      "comment": "çok beğendim",
+      "normalizedComment": "çok beğendim",
+      "rate": 5,
+      "createdAt": 1768303629924,
+      "tokens": [
+        "beğendim"
+      ],
+      "tokenCount": 1
+    },
+    {
+      "reviewId": "277121015-24",
+      "comment": "çok güzel ayağımda sanki yokmuş gibi",
+      "normalizedComment": "çok güzel ayağımda sanki yokmuş gibi",
+      "rate": 5,
+      "createdAt": 1715426658238,
+      "tokens": [
+        "güzel",
+        "ayağımda",
+        "yokmuş"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "277121015-25",
+      "comment": "Rahat güzel ayakkabı. Hızlı gönderi yapılıyor.",
+      "normalizedComment": "rahat güzel ayakkabı hızlı gönderi yapılıyor",
+      "rate": 5,
+      "createdAt": 1759758991786,
+      "tokens": [
+        "rahat",
+        "güzel",
+        "ayakkabı",
+        "hızlı",
+        "gönderi",
+        "yapılıyor"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "277121015-26",
+      "comment": "Barkod numarasıyla kontrol ettirdim orijinal ürün.",
+      "normalizedComment": "barkod numarasıyla kontrol ettirdim orijinal ürün",
+      "rate": 5,
+      "createdAt": 1692431569644,
+      "tokens": [
+        "barkod",
+        "numarasıyla",
+        "kontrol",
+        "ettirdim",
+        "orijinal",
+        "ürün"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "277121015-27",
+      "comment": "ayakkabı çok rahat ayak agrısı yapmıyor hiç orjinal ürün",
+      "normalizedComment": "ayakkabı çok rahat ayak agrısı yapmıyor hiç orjinal ürün",
+      "rate": 5,
+      "createdAt": 1774546298061,
+      "tokens": [
+        "ayakkabı",
+        "rahat",
+        "ayak",
+        "agrısı",
+        "yapmıyor",
+        "orjinal",
+        "ürün"
+      ],
+      "tokenCount": 7
+    },
+    {
+      "reviewId": "277121015-28",
+      "comment": "Barkod okuttum new balance çıkmıyor çok üzüldüm oijinal figatına sahte ürün almış olmak istemiyorum satıcıdan bilgi bekliyorum",
+      "normalizedComment": "barkod okuttum new balance çıkmıyor çok üzüldüm oijinal figatına sahte ürün almış olmak istemiyorum satıcıdan bilgi bekliyorum",
+      "rate": 1,
+      "createdAt": 1735803153851,
+      "tokens": [
+        "barkod",
+        "okuttum",
+        "new",
+        "balance",
+        "çıkmıyor",
+        "üzüldüm",
+        "oijinal",
+        "figatına",
+        "sahte",
+        "ürün",
+        "almış",
+        "olmak",
+        "istemiyorum",
+        "satıcıdan",
+        "bilgi",
+        "bekliyorum"
+      ],
+      "tokenCount": 16
+    },
+    {
+      "reviewId": "277121015-29",
+      "comment": "Orijinal ürün göndermiyorlar barkod okumuyor iadede kabul etmiyorlar kesinlikle almayın, barkod gerçek bir karekod değil",
+      "normalizedComment": "orijinal ürün göndermiyorlar barkod okumuyor iadede kabul etmiyorlar kesinlikle almayın barkod gerçek bir karekod değil",
+      "rate": 1,
+      "createdAt": 1771493463099,
+      "tokens": [
+        "orijinal",
+        "ürün",
+        "göndermiyorlar",
+        "barkod",
+        "okumuyor",
+        "iadede",
+        "kabul",
+        "etmiyorlar",
+        "kesinlikle",
+        "almayın",
+        "barkod",
+        "gerçek",
+        "karekod"
+      ],
+      "tokenCount": 13
+    },
+    {
+      "reviewId": "277121015-30",
+      "comment": "Ürün orijinal mi bilemedim ama tabanını deri arasında ton farkı var sebebini bilen var mı? kullanımı rahat gibi giyince tekrar yorumumu guncellerim , eğer satıcı yorumumu okuyor ise lütfen bana yardımcı olsun",
+      "normalizedComment": "ürün orijinal mi bilemedim ama tabanını deri arasında ton farkı var sebebini bilen var mı kullanımı rahat gibi giyince tekrar yorumumu guncellerim eğer satıcı yorumumu okuyor ise lütfen bana yardımcı olsun",
+      "rate": 5,
+      "createdAt": 1729613332559,
+      "tokens": [
+        "ürün",
+        "orijinal",
+        "bilemedim",
+        "tabanını",
+        "deri",
+        "arasında",
+        "ton",
+        "farkı",
+        "var",
+        "sebebini",
+        "bilen",
+        "var",
+        "kullanımı",
+        "rahat",
+        "giyince",
+        "tekrar",
+        "yorumumu",
+        "guncellerim",
+        "satıcı",
+        "yorumumu",
+        "okuyor",
+        "lütfen",
+        "bana",
+        "yardımcı",
+        "olsun"
+      ],
+      "tokenCount": 25
+    },
+    {
+      "reviewId": "277121015-31",
+      "comment": "Ürünü Dila Ketenci linkiyle metro marketten aldım.Kendisinin Tavsiyelerini çok beğenirim fakat lütfen orjinalliğinden emin olmadığınız ürünleri linklemeyin ya.Metro Türkiye diyor ama bence çok şüpheli.Ürünü hem hatalı hemde orjinal değil.Kesinlikle tavsiye etmiyorum",
+      "normalizedComment": "ürünü dila ketenci linkiyle metro marketten aldım kendisinin tavsiyelerini çok beğenirim fakat lütfen orjinalliğinden emin olmadığınız ürünleri linklemeyin ya metro türkiye diyor ama bence çok şüpheli ürünü hem hatalı hemde orjinal değil kesinlikle tavsiye etmiyorum",
+      "rate": 5,
+      "createdAt": 1773249717046,
+      "tokens": [
+        "ürünü",
+        "dila",
+        "ketenci",
+        "linkiyle",
+        "metro",
+        "marketten",
+        "aldım",
+        "kendisinin",
+        "tavsiyelerini",
+        "beğenirim",
+        "fakat",
+        "lütfen",
+        "orjinalliğinden",
+        "emin",
+        "olmadığınız",
+        "ürünleri",
+        "linklemeyin",
+        "metro",
+        "türkiye",
+        "diyor",
+        "şüpheli",
+        "ürünü",
+        "hatalı",
+        "hemde",
+        "orjinal",
+        "kesinlikle",
+        "tavsiye",
+        "etmiyorum"
+      ],
+      "tokenCount": 28
+    },
+    {
+      "reviewId": "277121015-32",
+      "comment": "Ürünü 39 numara istedim 39.5 gönderdiler mağdur ettiler ürünü iade ediyorum hiç bir şekilde memnun kalmadım",
+      "normalizedComment": "ürünü 39 numara istedim 39 5 gönderdiler mağdur ettiler ürünü iade ediyorum hiç bir şekilde memnun kalmadım",
+      "rate": 1,
+      "createdAt": 1760622841338,
+      "tokens": [
+        "ürünü",
+        "numara",
+        "istedim",
+        "gönderdiler",
+        "mağdur",
+        "ettiler",
+        "ürünü",
+        "iade",
+        "ediyorum",
+        "şekilde",
+        "memnun",
+        "kalmadım"
+      ],
+      "tokenCount": 12
+    },
+    {
+      "reviewId": "277121015-33",
+      "comment": "ürünün orjinallikle bir alakası yoktu geri iade ettim almayın aldırmayın",
+      "normalizedComment": "ürünün orjinallikle bir alakası yoktu geri iade ettim almayın aldırmayın",
+      "rate": 1,
+      "createdAt": 1764162217090,
+      "tokens": [
+        "ürünün",
+        "orjinallikle",
+        "alakası",
+        "yoktu",
+        "geri",
+        "iade",
+        "ettim",
+        "almayın",
+        "aldırmayın"
+      ],
+      "tokenCount": 9
+    },
+    {
+      "reviewId": "277121015-34",
+      "comment": "Ürün orjinal yarım numara büyük alınmalı",
+      "normalizedComment": "ürün orjinal yarım numara büyük alınmalı",
+      "rate": 5,
+      "createdAt": 1747942554448,
+      "tokens": [
+        "ürün",
+        "orjinal",
+        "yarım",
+        "numara",
+        "büyük",
+        "alınmalı"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "277121015-35",
+      "comment": "Ürün güzel ama büyük geldi",
+      "normalizedComment": "ürün güzel ama büyük geldi",
+      "rate": 3,
+      "createdAt": 1746770334041,
+      "tokens": [
+        "ürün",
+        "güzel",
+        "büyük",
+        "geldi"
+      ],
+      "tokenCount": 4
+    },
+    {
+      "reviewId": "277121015-36",
+      "comment": "ayağıma küçük geldi ayrıca orijinal değil",
+      "normalizedComment": "ayağıma küçük geldi ayrıca orijinal değil",
+      "rate": 1,
+      "createdAt": 1692189454266,
+      "tokens": [
+        "ayağıma",
+        "küçük",
+        "geldi",
+        "ayrıca",
+        "orijinal"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "277121015-37",
+      "comment": "Arkadaşlar öncelikle Allah herkese atanıp kendi parasıyla hayallerindeki ayakkabıyı almayı nasip etsin çok şükür bana nasip oldu ayakkabıya gelecek olursak ayağım 38.5 buna dayanarak 39 söyledim onlarda bana 39 2 yollamışlar ahahha ayağıma çok rahat oldu hafifte büyük kaldı ama değiştirmem bir başka mevzuda ürün orjinal mi anlamadım orjinallik tespit talebinde bulundum müşteri hizmetlerinden sahteyse yorumu güncellerim",
+      "normalizedComment": "arkadaşlar öncelikle allah herkese atanıp kendi parasıyla hayallerindeki ayakkabıyı almayı nasip etsin çok şükür bana nasip oldu ayakkabıya gelecek olursak ayağım 38 5 buna dayanarak 39 söyledim onlarda bana 39 2 yollamışlar ahahha ayağıma çok rahat oldu hafifte büyük kaldı ama değiştirmem bir başka mevzuda ürün orjinal mi anlamadım orjinallik tespit talebinde bulundum müşteri hizmetlerinden sahteyse yorumu güncellerim",
+      "rate": 5,
+      "createdAt": 1734638475915,
+      "tokens": [
+        "arkadaşlar",
+        "öncelikle",
+        "allah",
+        "herkese",
+        "atanıp",
+        "kendi",
+        "parasıyla",
+        "hayallerindeki",
+        "ayakkabıyı",
+        "almayı",
+        "nasip",
+        "etsin",
+        "şükür",
+        "bana",
+        "nasip",
+        "ayakkabıya",
+        "gelecek",
+        "olursak",
+        "ayağım",
+        "buna",
+        "dayanarak",
+        "söyledim",
+        "onlarda",
+        "bana",
+        "yollamışlar",
+        "ahahha",
+        "ayağıma",
+        "rahat",
+        "hafifte",
+        "büyük",
+        "kaldı",
+        "değiştirmem",
+        "başka",
+        "mevzuda",
+        "ürün",
+        "orjinal",
+        "anlamadım",
+        "orjinallik",
+        "tespit",
+        "talebinde",
+        "bulundum",
+        "müşteri",
+        "hizmetlerinden",
+        "sahteyse",
+        "yorumu",
+        "güncellerim"
+      ],
+      "tokenCount": 46
+    },
+    {
+      "reviewId": "277121015-38",
+      "comment": "Ürün orjinal değil,barkod resmini bırakıyorum,ona göre alın.",
+      "normalizedComment": "ürün orjinal değil barkod resmini bırakıyorum ona göre alın",
+      "rate": 1,
+      "createdAt": 1764412611378,
+      "tokens": [
+        "ürün",
+        "orjinal",
+        "barkod",
+        "resmini",
+        "bırakıyorum",
+        "ona",
+        "göre",
+        "alın"
+      ],
+      "tokenCount": 8
+    },
+    {
+      "reviewId": "277121015-39",
+      "comment": "Bu nasıl Metro market anlamadım. 12 bin küsür para verdim hem kendime hem eşime aldım. Kargo kutusunu sanki parçalamışlar . İç etiketteki barkod açılmıyor . Orijinal mi değil mi belli değil fatura vs çıkmadı içinden gönderenin Metro olduğuna dair .O kadar para verip peşine de koşturmak istiyorsanız alın .",
+      "normalizedComment": "bu nasıl metro market anlamadım 12 bin küsür para verdim hem kendime hem eşime aldım kargo kutusunu sanki parçalamışlar iç etiketteki barkod açılmıyor orijinal mi değil mi belli değil fatura vs çıkmadı içinden gönderenin metro olduğuna dair o kadar para verip peşine de koşturmak istiyorsanız alın",
+      "rate": 1,
+      "createdAt": 1772905050659,
+      "tokens": [
+        "metro",
+        "market",
+        "anlamadım",
+        "bin",
+        "küsür",
+        "para",
+        "verdim",
+        "kendime",
+        "eşime",
+        "aldım",
+        "kargo",
+        "kutusunu",
+        "parçalamışlar",
+        "iç",
+        "etiketteki",
+        "barkod",
+        "açılmıyor",
+        "orijinal",
+        "belli",
+        "fatura",
+        "vs",
+        "çıkmadı",
+        "içinden",
+        "gönderenin",
+        "metro",
+        "olduğuna",
+        "dair",
+        "kadar",
+        "para",
+        "verip",
+        "peşine",
+        "koşturmak",
+        "istiyorsanız",
+        "alın"
+      ],
+      "tokenCount": 34
+    },
+    {
+      "reviewId": "277121015-40",
+      "comment": "Bu ayakkabı da aynı şekilde çok özensiz yırtık kutu ile geldi ayrıca içinde fatura falan yoktu",
+      "normalizedComment": "bu ayakkabı da aynı şekilde çok özensiz yırtık kutu ile geldi ayrıca içinde fatura falan yoktu",
+      "rate": 1,
+      "createdAt": 1775055091120,
+      "tokens": [
+        "ayakkabı",
+        "aynı",
+        "şekilde",
+        "özensiz",
+        "yırtık",
+        "kutu",
+        "geldi",
+        "ayrıca",
+        "içinde",
+        "fatura",
+        "falan",
+        "yoktu"
+      ],
+      "tokenCount": 12
+    },
+    {
+      "reviewId": "277121015-41",
+      "comment": "Ürün orjinal değil kuar kodunu okumuyor hayal kırıklığı",
+      "normalizedComment": "ürün orjinal değil kuar kodunu okumuyor hayal kırıklığı",
+      "rate": 1,
+      "createdAt": 1694077413911,
+      "tokens": [
+        "ürün",
+        "orjinal",
+        "kuar",
+        "kodunu",
+        "okumuyor",
+        "hayal",
+        "kırıklığı"
+      ],
+      "tokenCount": 7
+    },
+    {
+      "reviewId": "277121015-42",
+      "comment": "Ürünün qr kodu okunmuyor. Orijinal olduğuna dair hiç bir şey yok. Bu kadar para ödeyip buradan alacağınıza orijinalliğine güvendiğiniz bir yerden alabilirsiniz.",
+      "normalizedComment": "ürünün qr kodu okunmuyor orijinal olduğuna dair hiç bir şey yok bu kadar para ödeyip buradan alacağınıza orijinalliğine güvendiğiniz bir yerden alabilirsiniz",
+      "rate": 1,
+      "createdAt": 1772539672876,
+      "tokens": [
+        "ürünün",
+        "qr",
+        "kodu",
+        "okunmuyor",
+        "orijinal",
+        "olduğuna",
+        "dair",
+        "yok",
+        "kadar",
+        "para",
+        "ödeyip",
+        "buradan",
+        "alacağınıza",
+        "orijinalliğine",
+        "güvendiğiniz",
+        "yerden",
+        "alabilirsiniz"
+      ],
+      "tokenCount": 17
+    },
+    {
+      "reviewId": "277121015-43",
+      "comment": "bu paraya degecek bir model oldugunu dusunmuyorum file yerleri cok ince sanki dayaniksiz gibi saticiyla alakasi yok bence new balance bu modelini iyi yapamamis",
+      "normalizedComment": "bu paraya degecek bir model oldugunu dusunmuyorum file yerleri cok ince sanki dayaniksiz gibi saticiyla alakasi yok bence new balance bu modelini iyi yapamamis",
+      "rate": 4,
+      "createdAt": 1773432834813,
+      "tokens": [
+        "paraya",
+        "degecek",
+        "model",
+        "oldugunu",
+        "dusunmuyorum",
+        "file",
+        "yerleri",
+        "ince",
+        "dayaniksiz",
+        "saticiyla",
+        "alakasi",
+        "yok",
+        "new",
+        "balance",
+        "modelini",
+        "yapamamis"
+      ],
+      "tokenCount": 16
+    },
+    {
+      "reviewId": "277121015-44",
+      "comment": "Ürün neden orijinal değil okadar para ödedim",
+      "normalizedComment": "ürün neden orijinal değil okadar para ödedim",
+      "rate": 1,
+      "createdAt": 1734624781350,
+      "tokens": [
+        "ürün",
+        "orijinal",
+        "okadar",
+        "para",
+        "ödedim"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "277121015-45",
+      "comment": "Ürün kesınlıkle orjinal degıl yazık bu kadar paramıza ya güvenerek alıyoruz bır geldı işcılık yapıskanlı bölümü her an acılacak gıbı yazık resmen kandırmaca orjinal asla degıl",
+      "normalizedComment": "ürün kesınlıkle orjinal degıl yazık bu kadar paramıza ya güvenerek alıyoruz bır geldı işcılık yapıskanlı bölümü her an acılacak gıbı yazık resmen kandırmaca orjinal asla degıl",
+      "rate": 1,
+      "createdAt": 1692215014388,
+      "tokens": [
+        "ürün",
+        "kesınlıkle",
+        "orjinal",
+        "degıl",
+        "yazık",
+        "kadar",
+        "paramıza",
+        "güvenerek",
+        "alıyoruz",
+        "bır",
+        "geldı",
+        "işcılık",
+        "yapıskanlı",
+        "bölümü",
+        "an",
+        "acılacak",
+        "gıbı",
+        "yazık",
+        "resmen",
+        "kandırmaca",
+        "orjinal",
+        "asla",
+        "degıl"
+      ],
+      "tokenCount": 23
+    },
+    {
+      "reviewId": "277121015-46",
+      "comment": "Ürün sahte çıktı",
+      "normalizedComment": "ürün sahte çıktı",
+      "rate": 1,
+      "createdAt": 1712066664771,
+      "tokens": [
+        "ürün",
+        "sahte",
+        "çıktı"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "277121015-47",
+      "comment": "Bu kadar para verip bir ürün alıyoruz orjinal deniliyor ama yeni aldığım ürünün kutusu bu şaka heralde kutunun içindeki kağıt bile yırtık neden ve nasıl bileceğim orjinal olduğunu ikinci elden alsam bu kutuya koymaz çünkü",
+      "normalizedComment": "bu kadar para verip bir ürün alıyoruz orjinal deniliyor ama yeni aldığım ürünün kutusu bu şaka heralde kutunun içindeki kağıt bile yırtık neden ve nasıl bileceğim orjinal olduğunu ikinci elden alsam bu kutuya koymaz çünkü",
+      "rate": 2,
+      "createdAt": 1771519049762,
+      "tokens": [
+        "kadar",
+        "para",
+        "verip",
+        "ürün",
+        "alıyoruz",
+        "orjinal",
+        "deniliyor",
+        "yeni",
+        "aldığım",
+        "ürünün",
+        "kutusu",
+        "şaka",
+        "heralde",
+        "kutunun",
+        "içindeki",
+        "kağıt",
+        "bile",
+        "yırtık",
+        "bileceğim",
+        "orjinal",
+        "olduğunu",
+        "ikinci",
+        "elden",
+        "alsam",
+        "kutuya",
+        "koymaz"
+      ],
+      "tokenCount": 26
+    },
+    {
+      "reviewId": "277121015-48",
+      "comment": "ayakkabi orjinal değil",
+      "normalizedComment": "ayakkabi orjinal değil",
+      "rate": 1,
+      "createdAt": 1746201176507,
+      "tokens": [
+        "ayakkabi",
+        "orjinal"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "277121015-49",
+      "comment": "Ürün yürürken hışırtı çıkarıyor",
+      "normalizedComment": "ürün yürürken hışırtı çıkarıyor",
+      "rate": 2,
+      "createdAt": 1745918040013,
+      "tokens": [
+        "ürün",
+        "yürürken",
+        "hışırtı",
+        "çıkarıyor"
+      ],
+      "tokenCount": 4
+    },
+    {
+      "reviewId": "277121015-50",
+      "comment": "Çakma kalitesiz.",
+      "normalizedComment": "çakma kalitesiz",
+      "rate": 1,
+      "createdAt": 1761207992114,
+      "tokens": [
+        "çakma",
+        "kalitesiz"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "277121015-51",
+      "comment": "Güzel değil",
+      "normalizedComment": "güzel değil",
+      "rate": 1,
+      "createdAt": 1742029895372,
+      "tokens": [
+        "güzel"
+      ],
+      "tokenCount": 1
+    },
+    {
+      "reviewId": "277121015-52",
+      "comment": "Aynı ayakkabı 1 hafta olmadan fiyatı nasıl yarıya düştü anlamadım 6500 aldım şuan 3bin küsur",
+      "normalizedComment": "aynı ayakkabı 1 hafta olmadan fiyatı nasıl yarıya düştü anlamadım 6500 aldım şuan 3bin küsur",
+      "rate": 5,
+      "createdAt": 1751559630015,
+      "tokens": [
+        "aynı",
+        "ayakkabı",
+        "hafta",
+        "olmadan",
+        "fiyatı",
+        "yarıya",
+        "düştü",
+        "anlamadım",
+        "aldım",
+        "şuan",
+        "3bin",
+        "küsur"
+      ],
+      "tokenCount": 12
+    }
+  ]
+}

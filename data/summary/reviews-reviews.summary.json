@@ -1,0 +1,392 @@
+{
+  "productUrl": null,
+  "contentId": "reviews",
+  "generatedAt": "2026-04-09T10:54:01.198Z",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\reviews.json",
+  "sourceAiSummary": null,
+  "sourceSummary": null,
+  "totalReviews": 322,
+  "averageRating": 4.1,
+  "confidenceScore": 89,
+  "headline": "Genel memnuniyet guclu, ancak bazi basliklarda cekinceler dikkat cekiyor.",
+  "sentiment": {
+    "positive": 236,
+    "neutral": 29,
+    "negative": 57
+  },
+  "sentimentPercentages": {
+    "positive": 73.29,
+    "neutral": 9.01,
+    "negative": 17.7
+  },
+  "sourceTags": [],
+  "ratingBreakdown": null,
+  "commentCoverage": null,
+  "topKeywords": [
+    {
+      "value": "guzel",
+      "count": 117
+    },
+    {
+      "value": "urun",
+      "count": 74
+    },
+    {
+      "value": "gayet",
+      "count": 45
+    },
+    {
+      "value": "aldim",
+      "count": 38
+    },
+    {
+      "value": "geldi",
+      "count": 37
+    },
+    {
+      "value": "urunu",
+      "count": 32
+    },
+    {
+      "value": "hizli",
+      "count": 32
+    },
+    {
+      "value": "yavas",
+      "count": 32
+    },
+    {
+      "value": "ederim",
+      "count": 31
+    },
+    {
+      "value": "fiyat",
+      "count": 29
+    },
+    {
+      "value": "bilgisayar",
+      "count": 29
+    },
+    {
+      "value": "gore",
+      "count": 27
+    },
+    {
+      "value": "performans",
+      "count": 24
+    },
+    {
+      "value": "elime",
+      "count": 24
+    },
+    {
+      "value": "ders",
+      "count": 23
+    },
+    {
+      "value": "yok",
+      "count": 23
+    },
+    {
+      "value": "tavsiye",
+      "count": 22
+    },
+    {
+      "value": "begendim",
+      "count": 22
+    },
+    {
+      "value": "ulasti",
+      "count": 21
+    },
+    {
+      "value": "kargo",
+      "count": 21
+    }
+  ],
+  "topPhrases": [
+    {
+      "value": "fiyat performans",
+      "count": 22
+    },
+    {
+      "value": "performans urunu",
+      "count": 20
+    },
+    {
+      "value": "fiyatina gore",
+      "count": 18
+    },
+    {
+      "value": "tavsiye ederim",
+      "count": 16
+    },
+    {
+      "value": "gayet guzel",
+      "count": 15
+    },
+    {
+      "value": "tesekkur ederim",
+      "count": 14
+    },
+    {
+      "value": "elime ulasti",
+      "count": 14
+    },
+    {
+      "value": "urun guzel",
+      "count": 12
+    },
+    {
+      "value": "ders calismak",
+      "count": 9
+    },
+    {
+      "value": "is gorur",
+      "count": 8
+    },
+    {
+      "value": "guzel urun",
+      "count": 8
+    },
+    {
+      "value": "biraz yavas",
+      "count": 8
+    }
+  ],
+  "aspects": [
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 69,
+      "positive": 60,
+      "neutral": 7,
+      "negative": 2,
+      "positiveRatio": 0.87,
+      "negativeRatio": 0.029,
+      "bestPositiveComment": {
+        "comment": "Ben günlük kullanımlarım ve ders çalışmak için aldım mükemmel bir ürün. Açılması hızlı ve tamamen sessiz aynı zamanda ağır bir laptop da değil. Fiyat performans ürünü tavsiye ederim",
+        "rate": 5,
+        "sentimentScore": 17
+      },
+      "strongestNegativeComment": {
+        "comment": "Kargoyu sadece köpüğe sarmışlar bu eksi. İkincisi bilgisayarın ekranında ölü piksel var, hoparlörün birisi çalışmıyor ve üründe çizik var. İade edemedim ülkeden gidecem diye. Neyse kimler almalı, bilgisayardan word vs tarzı basit şeyler yapan, internette takılanalar yani çok bir şey yapmayanlar. Kimler almamalı YouTube dan müzik dinleyenler dönüyor çünkü , oyuncular, performans bekleyenler ama ne kadar ekmek o kadar köfte diyorum fiyatına göre bence performans ürünü. Ekranın ışığı falan güzel, kasa kalitesi güzel.",
+        "rate": 2,
+        "sentimentScore": -7
+      }
+    },
+    {
+      "aspect": "performans",
+      "mentions": 61,
+      "positive": 58,
+      "neutral": 0,
+      "negative": 3,
+      "positiveRatio": 0.951,
+      "negativeRatio": 0.049,
+      "bestPositiveComment": {
+        "comment": "Ben günlük kullanımlarım ve ders çalışmak için aldım mükemmel bir ürün. Açılması hızlı ve tamamen sessiz aynı zamanda ağır bir laptop da değil. Fiyat performans ürünü tavsiye ederim",
+        "rate": 5,
+        "sentimentScore": 17
+      },
+      "strongestNegativeComment": {
+        "comment": "Kargoyu sadece köpüğe sarmışlar bu eksi. İkincisi bilgisayarın ekranında ölü piksel var, hoparlörün birisi çalışmıyor ve üründe çizik var. İade edemedim ülkeden gidecem diye. Neyse kimler almalı, bilgisayardan word vs tarzı basit şeyler yapan, internette takılanalar yani çok bir şey yapmayanlar. Kimler almamalı YouTube dan müzik dinleyenler dönüyor çünkü , oyuncular, performans bekleyenler ama ne kadar ekmek o kadar köfte diyorum fiyatına göre bence performans ürünü. Ekranın ışığı falan güzel, kasa kalitesi güzel.",
+        "rate": 2,
+        "sentimentScore": -7
+      }
+    },
+    {
+      "aspect": "kargo",
+      "mentions": 58,
+      "positive": 52,
+      "neutral": 2,
+      "negative": 4,
+      "positiveRatio": 0.897,
+      "negativeRatio": 0.069,
+      "bestPositiveComment": {
+        "comment": "gerçekte mükemmel bir bilgisayarr öncelikle çok güzel paketlenmişler ve kurulumu çok çabuk oldu artı ses görüntü çok iyiiiii alın aldırınnn rengi de çok hoş",
+        "rate": 5,
+        "sentimentScore": 14
+      },
+      "strongestNegativeComment": {
+        "comment": "Kargoyu sadece köpüğe sarmışlar bu eksi. İkincisi bilgisayarın ekranında ölü piksel var, hoparlörün birisi çalışmıyor ve üründe çizik var. İade edemedim ülkeden gidecem diye. Neyse kimler almalı, bilgisayardan word vs tarzı basit şeyler yapan, internette takılanalar yani çok bir şey yapmayanlar. Kimler almamalı YouTube dan müzik dinleyenler dönüyor çünkü , oyuncular, performans bekleyenler ama ne kadar ekmek o kadar köfte diyorum fiyatına göre bence performans ürünü. Ekranın ışığı falan güzel, kasa kalitesi güzel.",
+        "rate": 2,
+        "sentimentScore": -7
+      }
+    },
+    {
+      "aspect": "kullanim",
+      "mentions": 49,
+      "positive": 43,
+      "neutral": 1,
+      "negative": 5,
+      "positiveRatio": 0.878,
+      "negativeRatio": 0.102,
+      "bestPositiveComment": {
+        "comment": "Ben günlük kullanımlarım ve ders çalışmak için aldım mükemmel bir ürün. Açılması hızlı ve tamamen sessiz aynı zamanda ağır bir laptop da değil. Fiyat performans ürünü tavsiye ederim",
+        "rate": 5,
+        "sentimentScore": 17
+      },
+      "strongestNegativeComment": {
+        "comment": "Homofis için almıştım çok yavaş çalışamadım. İade edeceğim",
+        "rate": 2,
+        "sentimentScore": -7
+      }
+    },
+    {
+      "aspect": "malzeme-kalite",
+      "mentions": 21,
+      "positive": 16,
+      "neutral": 1,
+      "negative": 4,
+      "positiveRatio": 0.762,
+      "negativeRatio": 0.19,
+      "bestPositiveComment": {
+        "comment": "ürün çok kaliteli tam fiyat performans ürünü çocuğuma aldım çok beğendi işimizi fazlasıyla gördü tavsiye ederim",
+        "rate": 5,
+        "sentimentScore": 15
+      },
+      "strongestNegativeComment": {
+        "comment": "cok yavaş kasıyor haporloru çok kötü zaten kulaklik takmadan müzikde dinlenmez videoda izlenmez donma kasma problemleri var ekran kaliteside kötü",
+        "rate": 1,
+        "sentimentScore": -16
+      }
+    },
+    {
+      "aspect": "batarya",
+      "mentions": 16,
+      "positive": 12,
+      "neutral": 2,
+      "negative": 2,
+      "positiveRatio": 0.75,
+      "negativeRatio": 0.125,
+      "bestPositiveComment": {
+        "comment": "öncelikle şunu belirteyim siparişi verdikten 18 saat sonra bilgisayar elime ulaştı. hızlı kargo için teşekkürler. Özenli bir paketleme yapılmıştı... Bilgisayara gelirsek henüz 2 3 gün oldu fakat beklentimi fazlasıyla karşılıyor. bi kere çok şık, ki bu benim için önemliydi. şarj süresi çok çok iyi. 3 gündür henüz şarj etmedim. totalde muhtemelen 7 8 saatlik bir kullanım sonrası şarj etmem gerekecek. bilgisayar gayet hızlı. benim bu bilgisayarı almamdaki Tek amaç film dizi izlemek ki çok hızlı bir şekilde, bu ihtiyacı gideriyorum. son olarak açılma hızı da gayet iyi. açma tuşuna bastıktan 5 6 saniye sonra kullanıma hazır hale geliyor. gerçek manada bir fiyat performans ürünü...",
+        "rate": 5,
+        "sentimentScore": 13
+      },
+      "strongestNegativeComment": {
+        "comment": "yalnızca kutu açılımı yapıldığı için iademi kabul etmeyip iade inceleme sürecini 15 günün sonunda değerlendirdiler. ürün boyutuna bakılmadan nasıl iade yapacaktım merak konusu. asla alışveriş yapılacak bir yer değil.",
+        "rate": 1,
+        "sentimentScore": -6
+      }
+    },
+    {
+      "aspect": "ekran",
+      "mentions": 15,
+      "positive": 11,
+      "neutral": 0,
+      "negative": 4,
+      "positiveRatio": 0.733,
+      "negativeRatio": 0.267,
+      "bestPositiveComment": {
+        "comment": "gerçekte mükemmel bir bilgisayarr öncelikle çok güzel paketlenmişler ve kurulumu çok çabuk oldu artı ses görüntü çok iyiiiii alın aldırınnn rengi de çok hoş",
+        "rate": 5,
+        "sentimentScore": 14
+      },
+      "strongestNegativeComment": {
+        "comment": "cok yavaş kasıyor haporloru çok kötü zaten kulaklik takmadan müzikde dinlenmez videoda izlenmez donma kasma problemleri var ekran kaliteside kötü",
+        "rate": 1,
+        "sentimentScore": -16
+      }
+    }
+  ],
+  "strengths": [
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 69,
+      "positiveRatio": 0.87,
+      "example": {
+        "comment": "Ben günlük kullanımlarım ve ders çalışmak için aldım mükemmel bir ürün. Açılması hızlı ve tamamen sessiz aynı zamanda ağır bir laptop da değil. Fiyat performans ürünü tavsiye ederim",
+        "rate": 5,
+        "sentimentScore": 17
+      }
+    },
+    {
+      "aspect": "performans",
+      "mentions": 61,
+      "positiveRatio": 0.951,
+      "example": {
+        "comment": "Ben günlük kullanımlarım ve ders çalışmak için aldım mükemmel bir ürün. Açılması hızlı ve tamamen sessiz aynı zamanda ağır bir laptop da değil. Fiyat performans ürünü tavsiye ederim",
+        "rate": 5,
+        "sentimentScore": 17
+      }
+    },
+    {
+      "aspect": "kargo",
+      "mentions": 58,
+      "positiveRatio": 0.897,
+      "example": {
+        "comment": "gerçekte mükemmel bir bilgisayarr öncelikle çok güzel paketlenmişler ve kurulumu çok çabuk oldu artı ses görüntü çok iyiiiii alın aldırınnn rengi de çok hoş",
+        "rate": 5,
+        "sentimentScore": 14
+      }
+    },
+    {
+      "aspect": "kullanim",
+      "mentions": 49,
+      "positiveRatio": 0.878,
+      "example": {
+        "comment": "Ben günlük kullanımlarım ve ders çalışmak için aldım mükemmel bir ürün. Açılması hızlı ve tamamen sessiz aynı zamanda ağır bir laptop da değil. Fiyat performans ürünü tavsiye ederim",
+        "rate": 5,
+        "sentimentScore": 17
+      }
+    }
+  ],
+  "weaknesses": [
+    {
+      "aspect": "malzeme-kalite",
+      "mentions": 21,
+      "negativeRatio": 0.19,
+      "example": {
+        "comment": "cok yavaş kasıyor haporloru çok kötü zaten kulaklik takmadan müzikde dinlenmez videoda izlenmez donma kasma problemleri var ekran kaliteside kötü",
+        "rate": 1,
+        "sentimentScore": -16
+      }
+    },
+    {
+      "aspect": "ekran",
+      "mentions": 15,
+      "negativeRatio": 0.267,
+      "example": {
+        "comment": "cok yavaş kasıyor haporloru çok kötü zaten kulaklik takmadan müzikde dinlenmez videoda izlenmez donma kasma problemleri var ekran kaliteside kötü",
+        "rate": 1,
+        "sentimentScore": -16
+      }
+    }
+  ],
+  "samplePositiveReviews": [
+    {
+      "comment": "Ben günlük kullanımlarım ve ders çalışmak için aldım mükemmel bir ürün. Açılması hızlı ve tamamen sessiz aynı zamanda ağır bir laptop da değil. Fiyat performans ürünü tavsiye ederim",
+      "rate": 5,
+      "sentimentScore": 17
+    },
+    {
+      "comment": "ürün çok kaliteli tam fiyat performans ürünü çocuğuma aldım çok beğendi işimizi fazlasıyla gördü tavsiye ederim",
+      "rate": 5,
+      "sentimentScore": 15
+    },
+    {
+      "comment": "parasına göre çok çok uyguna aldık bence çok güzel çok kullanışlı ve yani ödevler videolar için çok mükemmel bir şey ama yüksek MB donar donuyor yani sadece dersler için de veya filmler için de çok güzel memnunum herkese tavsiye ederim",
+      "rate": 5,
+      "sentimentScore": 15
+    }
+  ],
+  "sampleNegativeReviews": [
+    {
+      "comment": "cok yavaş kasıyor haporloru çok kötü zaten kulaklik takmadan müzikde dinlenmez videoda izlenmez donma kasma problemleri var ekran kaliteside kötü",
+      "rate": 1,
+      "sentimentScore": -16
+    },
+    {
+      "comment": "Çok yavaş ve sürekli donuyor güvendiğim bir marka ama üründe donma sorunu var üzülerek iade ediyorum ama kutusu yok diye red edilmiş şikayetlerimi yaptım tüketici hakeme",
+      "rate": 1,
+      "sentimentScore": -15
+    },
+    {
+      "comment": "Kesinlikle almayın elime geldi 2 hündür bende aşırrı kasıyor çok pişmanım iade gibi iki saatir bilgisayarı kapatmaya çalışıyorum kendine gelsin diye",
+      "rate": 1,
+      "sentimentScore": -12
+    }
+  ],
+  "generalEvaluation": "Bu degerlendirme 322 yorum uzerinden olusturuldu ve ortalama puan 4.10 seviyesinde. Genel kullanici algisi cok olumlu; pozitif yorum orani %73.29, negatif yorum orani ise %17.7. Kullanicilar en cok fiyat/performans, performans, kargo, kullanim basliklarinda memnuniyet bildirirken, dikkat ceken gelistirme alanlari malzeme/kalite, ekran olarak one cikiyor.",
+  "displaySummary": "Urun, kullanici yorumlarinda genel olarak olumlu bir tablo ortaya koymaktadir. Yazili yorumlarda ozellikle fiyat/performans dengesi, gunluk kullanim performansi ve hizli teslimat ve paketleme tarafinda one cikan memnuniyet dikkat cekmektedir. Bununla birlikte bazi kullanicilar malzeme kalitesi ve ekran kalitesi konusunda elestirilerde bulunmaktadir. Genel olarak urun, beklentiyi buyuk olcude karsilayan ve gunluk kullanim icin tercih edilebilecek bir secenek olarak degerlendirilmektedir."
+}

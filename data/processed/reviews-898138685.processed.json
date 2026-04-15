@@ -1,0 +1,1507 @@
+{
+  "productUrl": "https://www.trendyol.com/puma/speedcat-og-unisex-kirmizi-spor-ayakkabi-p-898138685?boutiqueId=61&merchantId=125613",
+  "contentId": "898138685",
+  "fetchedAt": "2026-04-09T06:59:34.039Z",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-898138685.raw.json",
+  "stats": {
+    "rawReviewCount": 75,
+    "processedReviewCount": 75,
+    "duplicateCount": 0,
+    "droppedShortCount": 0,
+    "droppedEmptyCount": 0
+  },
+  "reviews": [
+    {
+      "reviewId": "898138685-1",
+      "comment": "Cok rahat bir ayakkabi tam bedeninizi alabilirsiniz",
+      "normalizedComment": "cok rahat bir ayakkabi tam bedeninizi alabilirsiniz",
+      "rate": 5,
+      "createdAt": 1771512972878,
+      "tokens": [
+        "rahat",
+        "ayakkabi",
+        "bedeninizi",
+        "alabilirsiniz"
+      ],
+      "tokenCount": 4
+    },
+    {
+      "reviewId": "898138685-2",
+      "comment": "Bayıldım mükemmel bir ayakkabı rengi duruşu harika",
+      "normalizedComment": "bayıldım mükemmel bir ayakkabı rengi duruşu harika",
+      "rate": 5,
+      "createdAt": 1746798018548,
+      "tokens": [
+        "bayıldım",
+        "mükemmel",
+        "ayakkabı",
+        "rengi",
+        "duruşu",
+        "harika"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "898138685-3",
+      "comment": "Tam beden alabilirsiniz",
+      "normalizedComment": "tam beden alabilirsiniz",
+      "rate": 5,
+      "createdAt": 1774035320624,
+      "tokens": [
+        "beden",
+        "alabilirsiniz"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898138685-4",
+      "comment": "çok severek kullanıyorum sorunsuz kargo tam bedeninizi alın",
+      "normalizedComment": "çok severek kullanıyorum sorunsuz kargo tam bedeninizi alın",
+      "rate": 5,
+      "createdAt": 1771381262889,
+      "tokens": [
+        "severek",
+        "kullanıyorum",
+        "sorunsuz",
+        "kargo",
+        "bedeninizi",
+        "alın"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "898138685-5",
+      "comment": "çok beğenerek aldım çok rahat tam beden alabilirsiniz beyaz kısımı çabuk kirlendi",
+      "normalizedComment": "çok beğenerek aldım çok rahat tam beden alabilirsiniz beyaz kısımı çabuk kirlendi",
+      "rate": 5,
+      "createdAt": 1764668965057,
+      "tokens": [
+        "beğenerek",
+        "aldım",
+        "rahat",
+        "beden",
+        "alabilirsiniz",
+        "beyaz",
+        "kısımı",
+        "çabuk",
+        "kirlendi"
+      ],
+      "tokenCount": 9
+    },
+    {
+      "reviewId": "898138685-6",
+      "comment": "ben çok beğendim sadcee kargo çok geç getirdi onun için kırdım puanı , kendi numaranızı alın",
+      "normalizedComment": "ben çok beğendim sadcee kargo çok geç getirdi onun için kırdım puanı kendi numaranızı alın",
+      "rate": 4,
+      "createdAt": 1775684521143,
+      "tokens": [
+        "beğendim",
+        "sadcee",
+        "kargo",
+        "geç",
+        "getirdi",
+        "onun",
+        "kırdım",
+        "puanı",
+        "kendi",
+        "numaranızı",
+        "alın"
+      ],
+      "tokenCount": 11
+    },
+    {
+      "reviewId": "898138685-7",
+      "comment": "Ürünü ilk giydiğim gibi boyası aktı bu normal mi?",
+      "normalizedComment": "ürünü ilk giydiğim gibi boyası aktı bu normal mi",
+      "rate": 1,
+      "createdAt": 1775637252299,
+      "tokens": [
+        "ürünü",
+        "ilk",
+        "giydiğim",
+        "boyası",
+        "aktı",
+        "normal"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "898138685-8",
+      "comment": "Boyası akıyor. Tek kullanımda kullanılmayacak bir hal aldı.",
+      "normalizedComment": "boyası akıyor tek kullanımda kullanılmayacak bir hal aldı",
+      "rate": 1,
+      "createdAt": 1775388348390,
+      "tokens": [
+        "boyası",
+        "akıyor",
+        "tek",
+        "kullanımda",
+        "kullanılmayacak",
+        "hal",
+        "aldı"
+      ],
+      "tokenCount": 7
+    },
+    {
+      "reviewId": "898138685-9",
+      "comment": "Ürünün hazırlanıp kargoya verilmesi gayet hızlıydı. Ayakkabılar ise o kadar güzel ki kullanmaya kıyamıyorum. Renginden dolayı çabuk kir tutabilir ve gösterebilir, özenli kullanılması lazım. Tabanı ince olduğundan bir beden büyük alıp tabanlıkla kullanıma da uygun bence.",
+      "normalizedComment": "ürünün hazırlanıp kargoya verilmesi gayet hızlıydı ayakkabılar ise o kadar güzel ki kullanmaya kıyamıyorum renginden dolayı çabuk kir tutabilir ve gösterebilir özenli kullanılması lazım tabanı ince olduğundan bir beden büyük alıp tabanlıkla kullanıma da uygun bence",
+      "rate": 5,
+      "createdAt": 1764865047725,
+      "tokens": [
+        "ürünün",
+        "hazırlanıp",
+        "kargoya",
+        "verilmesi",
+        "gayet",
+        "hızlıydı",
+        "ayakkabılar",
+        "kadar",
+        "güzel",
+        "kullanmaya",
+        "kıyamıyorum",
+        "renginden",
+        "dolayı",
+        "çabuk",
+        "kir",
+        "tutabilir",
+        "gösterebilir",
+        "özenli",
+        "kullanılması",
+        "lazım",
+        "tabanı",
+        "ince",
+        "olduğundan",
+        "beden",
+        "büyük",
+        "alıp",
+        "tabanlıkla",
+        "kullanıma",
+        "uygun"
+      ],
+      "tokenCount": 29
+    },
+    {
+      "reviewId": "898138685-10",
+      "comment": "Ayakkabı çok rahat ve kaliteli. Beklentimin üzerinde çıktı, memnun kaldım.",
+      "normalizedComment": "ayakkabı çok rahat ve kaliteli beklentimin üzerinde çıktı memnun kaldım",
+      "rate": 5,
+      "createdAt": 1770918006680,
+      "tokens": [
+        "ayakkabı",
+        "rahat",
+        "kaliteli",
+        "beklentimin",
+        "üzerinde",
+        "çıktı",
+        "memnun",
+        "kaldım"
+      ],
+      "tokenCount": 8
+    },
+    {
+      "reviewId": "898138685-11",
+      "comment": "tam kalıp ogluma aldım cok memnun kaldı",
+      "normalizedComment": "tam kalıp ogluma aldım cok memnun kaldı",
+      "rate": 5,
+      "createdAt": 1773304735567,
+      "tokens": [
+        "kalıp",
+        "ogluma",
+        "aldım",
+        "memnun",
+        "kaldı"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "898138685-12",
+      "comment": "cok guzel tam numara alabilirsiniz",
+      "normalizedComment": "cok guzel tam numara alabilirsiniz",
+      "rate": 5,
+      "createdAt": 1770819202710,
+      "tokens": [
+        "guzel",
+        "numara",
+        "alabilirsiniz"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "898138685-13",
+      "comment": "Çok begendim çok rahat",
+      "normalizedComment": "çok begendim çok rahat",
+      "rate": 5,
+      "createdAt": 1771834936705,
+      "tokens": [
+        "begendim",
+        "rahat"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898138685-14",
+      "comment": "ben buna bayildim tam kalip veya yarim büyük alabilirsiniz",
+      "normalizedComment": "ben buna bayildim tam kalip veya yarim büyük alabilirsiniz",
+      "rate": 4,
+      "createdAt": 1771252639121,
+      "tokens": [
+        "buna",
+        "bayildim",
+        "kalip",
+        "yarim",
+        "büyük",
+        "alabilirsiniz"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "898138685-15",
+      "comment": "çok güzel ayakkabı özellikle bu renginin göz alıcı olduğunu düşünüyorum, kargo çok hızlıydı 2 günde teslim edildi. Ayakkabıda da herhangi bir sorun yok yırtık vs tarzında sadece birazcık pahalı tabi ama ben çok beğendim kesinlikle parasına değdi. Normalde de 36,5 37 numara giyiyorum 37 tam oldu gönül rahatlığıyla kendi numaranızı alabilirsiniz.",
+      "normalizedComment": "çok güzel ayakkabı özellikle bu renginin göz alıcı olduğunu düşünüyorum kargo çok hızlıydı 2 günde teslim edildi ayakkabıda da herhangi bir sorun yok yırtık vs tarzında sadece birazcık pahalı tabi ama ben çok beğendim kesinlikle parasına değdi normalde de 36 5 37 numara giyiyorum 37 tam oldu gönül rahatlığıyla kendi numaranızı alabilirsiniz",
+      "rate": 5,
+      "createdAt": 1774515927726,
+      "tokens": [
+        "güzel",
+        "ayakkabı",
+        "özellikle",
+        "renginin",
+        "göz",
+        "alıcı",
+        "olduğunu",
+        "düşünüyorum",
+        "kargo",
+        "hızlıydı",
+        "günde",
+        "teslim",
+        "edildi",
+        "ayakkabıda",
+        "herhangi",
+        "sorun",
+        "yok",
+        "yırtık",
+        "vs",
+        "tarzında",
+        "sadece",
+        "birazcık",
+        "pahalı",
+        "tabi",
+        "beğendim",
+        "kesinlikle",
+        "parasına",
+        "değdi",
+        "normalde",
+        "numara",
+        "giyiyorum",
+        "gönül",
+        "rahatlığıyla",
+        "kendi",
+        "numaranızı",
+        "alabilirsiniz"
+      ],
+      "tokenCount": 36
+    },
+    {
+      "reviewId": "898138685-16",
+      "comment": "Çok güzel bayıldım ben 3699 TL ye aldım şimdi baya artmış fiyatı ama değer",
+      "normalizedComment": "çok güzel bayıldım ben 3699 tl ye aldım şimdi baya artmış fiyatı ama değer",
+      "rate": 5,
+      "createdAt": 1773479831777,
+      "tokens": [
+        "güzel",
+        "bayıldım",
+        "tl",
+        "ye",
+        "aldım",
+        "şimdi",
+        "baya",
+        "artmış",
+        "fiyatı",
+        "değer"
+      ],
+      "tokenCount": 10
+    },
+    {
+      "reviewId": "898138685-17",
+      "comment": "Fevkalade bir renk. Çok tarz, çok rahat çok beğendim.",
+      "normalizedComment": "fevkalade bir renk çok tarz çok rahat çok beğendim",
+      "rate": 5,
+      "createdAt": 1771599144395,
+      "tokens": [
+        "fevkalade",
+        "renk",
+        "tarz",
+        "rahat",
+        "beğendim"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "898138685-18",
+      "comment": "Cok guzel bi ayakkabi cokta rahat ben bi numara buyuk tercih ettim, boya akmamasi icin su itici sprey kullaniyorum ve suet ayakkabi fircasi ile temizliyorum",
+      "normalizedComment": "cok guzel bi ayakkabi cokta rahat ben bi numara buyuk tercih ettim boya akmamasi icin su itici sprey kullaniyorum ve suet ayakkabi fircasi ile temizliyorum",
+      "rate": 5,
+      "createdAt": 1771658745767,
+      "tokens": [
+        "guzel",
+        "bi",
+        "ayakkabi",
+        "cokta",
+        "rahat",
+        "bi",
+        "numara",
+        "buyuk",
+        "tercih",
+        "ettim",
+        "boya",
+        "akmamasi",
+        "su",
+        "itici",
+        "sprey",
+        "kullaniyorum",
+        "suet",
+        "ayakkabi",
+        "fircasi",
+        "temizliyorum"
+      ],
+      "tokenCount": 20
+    },
+    {
+      "reviewId": "898138685-19",
+      "comment": "Kesinlikle çok rahat bir ayakkabı ve alacak olanlara da tavsiye ediyorum. Satıcı da iyi kargo ile ilgili herhangi bir sorun yaşamadım.",
+      "normalizedComment": "kesinlikle çok rahat bir ayakkabı ve alacak olanlara da tavsiye ediyorum satıcı da iyi kargo ile ilgili herhangi bir sorun yaşamadım",
+      "rate": 5,
+      "createdAt": 1773097424421,
+      "tokens": [
+        "kesinlikle",
+        "rahat",
+        "ayakkabı",
+        "alacak",
+        "olanlara",
+        "tavsiye",
+        "ediyorum",
+        "satıcı",
+        "kargo",
+        "ilgili",
+        "herhangi",
+        "sorun",
+        "yaşamadım"
+      ],
+      "tokenCount": 13
+    },
+    {
+      "reviewId": "898138685-20",
+      "comment": "Ürüne bayıldım eşimle bırlıkte aldım unısex gıyecegiz muhteşem ötesi",
+      "normalizedComment": "ürüne bayıldım eşimle bırlıkte aldım unısex gıyecegiz muhteşem ötesi",
+      "rate": 5,
+      "createdAt": 1768819669790,
+      "tokens": [
+        "ürüne",
+        "bayıldım",
+        "eşimle",
+        "bırlıkte",
+        "aldım",
+        "unısex",
+        "gıyecegiz",
+        "muhteşem",
+        "ötesi"
+      ],
+      "tokenCount": 9
+    },
+    {
+      "reviewId": "898138685-21",
+      "comment": "kalibi kucuk yarim ya da bir numara buyuk alin",
+      "normalizedComment": "kalibi kucuk yarim ya da bir numara buyuk alin",
+      "rate": 4,
+      "createdAt": 1771168512508,
+      "tokens": [
+        "kalibi",
+        "kucuk",
+        "yarim",
+        "numara",
+        "buyuk",
+        "alin"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "898138685-22",
+      "comment": "Çok tatlı bir ayakkabı, hatta onu süslemeyi bile denedim.",
+      "normalizedComment": "çok tatlı bir ayakkabı hatta onu süslemeyi bile denedim",
+      "rate": 5,
+      "createdAt": 1749692579081,
+      "tokens": [
+        "tatlı",
+        "ayakkabı",
+        "hatta",
+        "süslemeyi",
+        "bile",
+        "denedim"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "898138685-23",
+      "comment": "oğlum çok beğendi teşekkür ederim",
+      "normalizedComment": "oğlum çok beğendi teşekkür ederim",
+      "rate": 5,
+      "createdAt": 1764936165699,
+      "tokens": [
+        "oğlum",
+        "beğendi",
+        "teşekkür",
+        "ederim"
+      ],
+      "tokenCount": 4
+    },
+    {
+      "reviewId": "898138685-24",
+      "comment": "rengi, rahatlığı harika",
+      "normalizedComment": "rengi rahatlığı harika",
+      "rate": 5,
+      "createdAt": 1762802595586,
+      "tokens": [
+        "rengi",
+        "rahatlığı",
+        "harika"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "898138685-25",
+      "comment": "Çok güzel bir ayakkabı, yapısından kaynaklı yarım numara büyük alınması önerimdir.",
+      "normalizedComment": "çok güzel bir ayakkabı yapısından kaynaklı yarım numara büyük alınması önerimdir",
+      "rate": 5,
+      "createdAt": 1772546244669,
+      "tokens": [
+        "güzel",
+        "ayakkabı",
+        "yapısından",
+        "kaynaklı",
+        "yarım",
+        "numara",
+        "büyük",
+        "alınması",
+        "önerimdir"
+      ],
+      "tokenCount": 9
+    },
+    {
+      "reviewId": "898138685-26",
+      "comment": "Bu ayakkabıyı aylardır indirime girmesini bekliyorum bence güzel bi ayakkabı sadece bence herkes kendi numarasından yarım numara büyük alsın ben 37giyiyorum 37.5 alsam daha ii olurmuş ama olsun",
+      "normalizedComment": "bu ayakkabıyı aylardır indirime girmesini bekliyorum bence güzel bi ayakkabı sadece bence herkes kendi numarasından yarım numara büyük alsın ben 37giyiyorum 37 5 alsam daha ii olurmuş ama olsun",
+      "rate": 5,
+      "createdAt": 1770893459460,
+      "tokens": [
+        "ayakkabıyı",
+        "aylardır",
+        "indirime",
+        "girmesini",
+        "bekliyorum",
+        "güzel",
+        "bi",
+        "ayakkabı",
+        "sadece",
+        "herkes",
+        "kendi",
+        "numarasından",
+        "yarım",
+        "numara",
+        "büyük",
+        "alsın",
+        "37giyiyorum",
+        "alsam",
+        "ii",
+        "olurmuş",
+        "olsun"
+      ],
+      "tokenCount": 21
+    },
+    {
+      "reviewId": "898138685-27",
+      "comment": "COOOOOKKKKKK GÜZELLERRRRR",
+      "normalizedComment": "coooookkkkkk güzellerrrrr",
+      "rate": 5,
+      "createdAt": 1768463210769,
+      "tokens": [
+        "coooookkkkkk",
+        "güzellerrrrr"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898138685-28",
+      "comment": "çok güzel çok beğendim huuhhhuuuuu",
+      "normalizedComment": "çok güzel çok beğendim huuhhhuuuuu",
+      "rate": 5,
+      "createdAt": 1771352709485,
+      "tokens": [
+        "güzel",
+        "beğendim",
+        "huuhhhuuuuu"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "898138685-29",
+      "comment": "Kızım çok begendi",
+      "normalizedComment": "kızım çok begendi",
+      "rate": 5,
+      "createdAt": 1770748750828,
+      "tokens": [
+        "kızım",
+        "begendi"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898138685-30",
+      "comment": "bayıldımmm rengineee",
+      "normalizedComment": "bayıldımmm rengineee",
+      "rate": 5,
+      "createdAt": 1771171873833,
+      "tokens": [
+        "bayıldımmm",
+        "rengineee"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898138685-31",
+      "comment": "sikicem ya indirim gitti super step geri indirim yap ramazan bayramına falan",
+      "normalizedComment": "sikicem ya indirim gitti super step geri indirim yap ramazan bayramına falan",
+      "rate": 1,
+      "createdAt": 1770993078386,
+      "tokens": [
+        "sikicem",
+        "indirim",
+        "gitti",
+        "super",
+        "step",
+        "geri",
+        "indirim",
+        "yap",
+        "ramazan",
+        "bayramına",
+        "falan"
+      ],
+      "tokenCount": 11
+    },
+    {
+      "reviewId": "898138685-32",
+      "comment": "MÜKEMMELLL",
+      "normalizedComment": "mükemmelll",
+      "rate": 5,
+      "createdAt": 1771246704248,
+      "tokens": [
+        "mükemmelll"
+      ],
+      "tokenCount": 1
+    },
+    {
+      "reviewId": "898138685-33",
+      "comment": "cokkkk guzel bir ayakkabi iyi ki almisim gorunurde rahat durmuyo ama cok rahat bi ayakkabi, sambadan daha rahat diyebilirim karsilastirmak adina. ayagimda goren herkes de cok begeniyo",
+      "normalizedComment": "cokkkk guzel bir ayakkabi iyi ki almisim gorunurde rahat durmuyo ama cok rahat bi ayakkabi sambadan daha rahat diyebilirim karsilastirmak adina ayagimda goren herkes de cok begeniyo",
+      "rate": 5,
+      "createdAt": 1772960107303,
+      "tokens": [
+        "cokkkk",
+        "guzel",
+        "ayakkabi",
+        "almisim",
+        "gorunurde",
+        "rahat",
+        "durmuyo",
+        "rahat",
+        "bi",
+        "ayakkabi",
+        "sambadan",
+        "rahat",
+        "diyebilirim",
+        "karsilastirmak",
+        "adina",
+        "ayagimda",
+        "goren",
+        "herkes",
+        "begeniyo"
+      ],
+      "tokenCount": 19
+    },
+    {
+      "reviewId": "898138685-34",
+      "comment": "Yarım numara büyük alınabilir",
+      "normalizedComment": "yarım numara büyük alınabilir",
+      "rate": 5,
+      "createdAt": 1773060346951,
+      "tokens": [
+        "yarım",
+        "numara",
+        "büyük",
+        "alınabilir"
+      ],
+      "tokenCount": 4
+    },
+    {
+      "reviewId": "898138685-35",
+      "comment": "BA YIL DIM",
+      "normalizedComment": "ba yıl dım",
+      "rate": 5,
+      "createdAt": 1771193155752,
+      "tokens": [
+        "ba",
+        "yıl",
+        "dım"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "898138685-36",
+      "comment": "çok güzel sadece tabanı biraz ince",
+      "normalizedComment": "çok güzel sadece tabanı biraz ince",
+      "rate": 5,
+      "createdAt": 1772923315756,
+      "tokens": [
+        "güzel",
+        "sadece",
+        "tabanı",
+        "biraz",
+        "ince"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "898138685-37",
+      "comment": "mükemmel bi ayakkabı",
+      "normalizedComment": "mükemmel bi ayakkabı",
+      "rate": 5,
+      "createdAt": 1770978688154,
+      "tokens": [
+        "mükemmel",
+        "bi",
+        "ayakkabı"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "898138685-38",
+      "comment": "çok güzellll",
+      "normalizedComment": "çok güzellll",
+      "rate": 5,
+      "createdAt": 1763853353531,
+      "tokens": [
+        "güzellll"
+      ],
+      "tokenCount": 1
+    },
+    {
+      "reviewId": "898138685-39",
+      "comment": "Çok güzel",
+      "normalizedComment": "çok güzel",
+      "rate": 5,
+      "createdAt": 1772101447470,
+      "tokens": [
+        "güzel"
+      ],
+      "tokenCount": 1
+    },
+    {
+      "reviewId": "898138685-40",
+      "comment": "Çok iyi ayakkabı",
+      "normalizedComment": "çok iyi ayakkabı",
+      "rate": 5,
+      "createdAt": 1773123464880,
+      "tokens": [
+        "ayakkabı"
+      ],
+      "tokenCount": 1
+    },
+    {
+      "reviewId": "898138685-41",
+      "comment": "Süper begendim",
+      "normalizedComment": "süper begendim",
+      "rate": 5,
+      "createdAt": 1772799930318,
+      "tokens": [
+        "süper",
+        "begendim"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898138685-42",
+      "comment": "Güzel ayakkabı",
+      "normalizedComment": "güzel ayakkabı",
+      "rate": 5,
+      "createdAt": 1763385119849,
+      "tokens": [
+        "güzel",
+        "ayakkabı"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898138685-43",
+      "comment": "Çok güzel çok şık",
+      "normalizedComment": "çok güzel çok şık",
+      "rate": 5,
+      "createdAt": 1768034592518,
+      "tokens": [
+        "güzel",
+        "şık"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898138685-44",
+      "comment": "Kombinlerin Star parçası",
+      "normalizedComment": "kombinlerin star parçası",
+      "rate": 5,
+      "createdAt": 1764534271766,
+      "tokens": [
+        "kombinlerin",
+        "star",
+        "parçası"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "898138685-45",
+      "comment": "Urun bi tık dar geldi",
+      "normalizedComment": "urun bi tık dar geldi",
+      "rate": 3,
+      "createdAt": 1773002279570,
+      "tokens": [
+        "urun",
+        "bi",
+        "tık",
+        "dar",
+        "geldi"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "898138685-46",
+      "comment": "begendim guzel",
+      "normalizedComment": "begendim guzel",
+      "rate": 5,
+      "createdAt": 1771328235072,
+      "tokens": [
+        "begendim",
+        "guzel"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "898138685-47",
+      "comment": "Ürün çok güzel ama kalıbı dar bir büyük numara ile değiştirebilir misiniz",
+      "normalizedComment": "ürün çok güzel ama kalıbı dar bir büyük numara ile değiştirebilir misiniz",
+      "rate": 5,
+      "createdAt": 1773346823784,
+      "tokens": [
+        "ürün",
+        "güzel",
+        "kalıbı",
+        "dar",
+        "büyük",
+        "numara",
+        "değiştirebilir",
+        "misiniz"
+      ],
+      "tokenCount": 8
+    },
+    {
+      "reviewId": "898138685-48",
+      "comment": "hızlı ve sağlam geldi ama ayağıma kücük geldi gibi değisim yapabilirim",
+      "normalizedComment": "hızlı ve sağlam geldi ama ayağıma kücük geldi gibi değisim yapabilirim",
+      "rate": 5,
+      "createdAt": 1770390652364,
+      "tokens": [
+        "hızlı",
+        "sağlam",
+        "geldi",
+        "ayağıma",
+        "kücük",
+        "geldi",
+        "değisim",
+        "yapabilirim"
+      ],
+      "tokenCount": 8
+    },
+    {
+      "reviewId": "898138685-49",
+      "comment": "3700e ayakkabı alıyorum her yerinden tutkal gözüküyor süpersiniz",
+      "normalizedComment": "3700e ayakkabı alıyorum her yerinden tutkal gözüküyor süpersiniz",
+      "rate": 3,
+      "createdAt": 1770500900195,
+      "tokens": [
+        "3700e",
+        "ayakkabı",
+        "alıyorum",
+        "yerinden",
+        "tutkal",
+        "gözüküyor",
+        "süpersiniz"
+      ],
+      "tokenCount": 7
+    },
+    {
+      "reviewId": "898138685-50",
+      "comment": "cabuk kirlenmese güzel",
+      "normalizedComment": "cabuk kirlenmese güzel",
+      "rate": 5,
+      "createdAt": 1772660660416,
+      "tokens": [
+        "cabuk",
+        "kirlenmese",
+        "güzel"
+      ],
+      "tokenCount": 3
+    },
+    {
+      "reviewId": "898138685-51",
+      "comment": "Ürün dışardaki fiyatın neredeyse yarısına satılıyor. Çok tereddüt ettim, bu mağazada bu ayakkabı için yorum yoktu çünkü. Ama mağaza güvenilirmiş onu teyit ettikten sonra sipariş verdim. Orijinal puma speedcat geldi. Çok teşekkür ediyorum. Bu fiyata başka bir yerde bulabileceğimi sanmıyorum. Normalde bütün ayakkabılarım 41 numara, stokta 42 vardı onu alıp tabanlıkla giyerim diyordum ama hiç gerek kalmadı. Ayağım taraklı olduğu için 42 tam oldu. Kargoya verilmesi 3-4 gün sürdü, ayakkabıyı zaten severek aldım, ayakkabıya 5 puan ama asıl 5 puan mağazaya vermek lazım. Bu fiyata orijinal speedcat bulmak çok zor.",
+      "normalizedComment": "ürün dışardaki fiyatın neredeyse yarısına satılıyor çok tereddüt ettim bu mağazada bu ayakkabı için yorum yoktu çünkü ama mağaza güvenilirmiş onu teyit ettikten sonra sipariş verdim orijinal puma speedcat geldi çok teşekkür ediyorum bu fiyata başka bir yerde bulabileceğimi sanmıyorum normalde bütün ayakkabılarım 41 numara stokta 42 vardı onu alıp tabanlıkla giyerim diyordum ama hiç gerek kalmadı ayağım taraklı olduğu için 42 tam oldu kargoya verilmesi 3 4 gün sürdü ayakkabıyı zaten severek aldım ayakkabıya 5 puan ama asıl 5 puan mağazaya vermek lazım bu fiyata orijinal speedcat bulmak çok zor",
+      "rate": 5,
+      "createdAt": 1773917222313,
+      "tokens": [
+        "ürün",
+        "dışardaki",
+        "fiyatın",
+        "neredeyse",
+        "yarısına",
+        "satılıyor",
+        "tereddüt",
+        "ettim",
+        "mağazada",
+        "ayakkabı",
+        "yorum",
+        "yoktu",
+        "mağaza",
+        "güvenilirmiş",
+        "teyit",
+        "ettikten",
+        "sonra",
+        "sipariş",
+        "verdim",
+        "orijinal",
+        "puma",
+        "speedcat",
+        "geldi",
+        "teşekkür",
+        "ediyorum",
+        "fiyata",
+        "başka",
+        "yerde",
+        "bulabileceğimi",
+        "sanmıyorum",
+        "normalde",
+        "bütün",
+        "ayakkabılarım",
+        "numara",
+        "stokta",
+        "vardı",
+        "alıp",
+        "tabanlıkla",
+        "giyerim",
+        "diyordum",
+        "gerek",
+        "kalmadı",
+        "ayağım",
+        "taraklı",
+        "kargoya",
+        "verilmesi",
+        "gün",
+        "sürdü",
+        "ayakkabıyı",
+        "zaten",
+        "severek",
+        "aldım",
+        "ayakkabıya",
+        "puan",
+        "asıl",
+        "puan",
+        "mağazaya",
+        "vermek",
+        "lazım",
+        "fiyata",
+        "orijinal",
+        "speedcat",
+        "bulmak",
+        "zor"
+      ],
+      "tokenCount": 64
+    },
+    {
+      "reviewId": "898138685-52",
+      "comment": "cok guuuzel",
+      "normalizedComment": "cok guuuzel",
+      "rate": 5,
+      "createdAt": 1773696187346,
+      "tokens": [
+        "guuuzel"
+      ],
+      "tokenCount": 1
+    },
+    {
+      "reviewId": "898138685-53",
+      "comment": "durmadan indirime giriyor ben pahalıya aldığımı düşünüyorum çok güzel ama fiyatını hakkeden nir ayakkabı değil iki günde beyaz kısmı leke oldu ve temizlemenin yolu yok",
+      "normalizedComment": "durmadan indirime giriyor ben pahalıya aldığımı düşünüyorum çok güzel ama fiyatını hakkeden nir ayakkabı değil iki günde beyaz kısmı leke oldu ve temizlemenin yolu yok",
+      "rate": 3,
+      "createdAt": 1772887740612,
+      "tokens": [
+        "durmadan",
+        "indirime",
+        "giriyor",
+        "pahalıya",
+        "aldığımı",
+        "düşünüyorum",
+        "güzel",
+        "fiyatını",
+        "hakkeden",
+        "nir",
+        "ayakkabı",
+        "iki",
+        "günde",
+        "beyaz",
+        "kısmı",
+        "leke",
+        "temizlemenin",
+        "yolu",
+        "yok"
+      ],
+      "tokenCount": 19
+    },
+    {
+      "reviewId": "898138685-54",
+      "comment": "Çok güzel ama renk veriyor ve biraz rahatsız ama giydikçe açılır eminim",
+      "normalizedComment": "çok güzel ama renk veriyor ve biraz rahatsız ama giydikçe açılır eminim",
+      "rate": 4,
+      "createdAt": 1771498355049,
+      "tokens": [
+        "güzel",
+        "renk",
+        "veriyor",
+        "biraz",
+        "rahatsız",
+        "giydikçe",
+        "açılır",
+        "eminim"
+      ],
+      "tokenCount": 8
+    },
+    {
+      "reviewId": "898138685-55",
+      "comment": "Ayakkabının görüntüsü çok güzel rahatlığını da sevdim ama su görünce boyası akma yapıyor. Hafif yagmur bile degse beyaz kısımları kırmızılasıyor",
+      "normalizedComment": "ayakkabının görüntüsü çok güzel rahatlığını da sevdim ama su görünce boyası akma yapıyor hafif yagmur bile degse beyaz kısımları kırmızılasıyor",
+      "rate": 3,
+      "createdAt": 1772799014594,
+      "tokens": [
+        "ayakkabının",
+        "görüntüsü",
+        "güzel",
+        "rahatlığını",
+        "sevdim",
+        "su",
+        "görünce",
+        "boyası",
+        "akma",
+        "yapıyor",
+        "hafif",
+        "yagmur",
+        "bile",
+        "degse",
+        "beyaz",
+        "kısımları",
+        "kırmızılasıyor"
+      ],
+      "tokenCount": 17
+    },
+    {
+      "reviewId": "898138685-56",
+      "comment": "Taban kırılma durumu yok kauçuk olduğu için 10 10",
+      "normalizedComment": "taban kırılma durumu yok kauçuk olduğu için 10 10",
+      "rate": 5,
+      "createdAt": 1771409340996,
+      "tokens": [
+        "taban",
+        "kırılma",
+        "durumu",
+        "yok",
+        "kauçuk"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "898138685-57",
+      "comment": "Tek kötü kısmı beyaz logo kısmı kırmızı ve siyah leke oluyor onun haricinde bu modelin en güzel rengi budur",
+      "normalizedComment": "tek kötü kısmı beyaz logo kısmı kırmızı ve siyah leke oluyor onun haricinde bu modelin en güzel rengi budur",
+      "rate": 5,
+      "createdAt": 1774128749481,
+      "tokens": [
+        "tek",
+        "kötü",
+        "kısmı",
+        "beyaz",
+        "logo",
+        "kısmı",
+        "kırmızı",
+        "siyah",
+        "leke",
+        "onun",
+        "haricinde",
+        "modelin",
+        "güzel",
+        "rengi",
+        "budur"
+      ],
+      "tokenCount": 15
+    },
+    {
+      "reviewId": "898138685-58",
+      "comment": "Kalıp çok küçük değişim istiyorum",
+      "normalizedComment": "kalıp çok küçük değişim istiyorum",
+      "rate": 1,
+      "createdAt": 1771438007561,
+      "tokens": [
+        "kalıp",
+        "küçük",
+        "değişim",
+        "istiyorum"
+      ],
+      "tokenCount": 4
+    },
+    {
+      "reviewId": "898138685-59",
+      "comment": "Puma da denediğim kıpkırmızıydı sanki uç kısımları biraz güneşte turunculaşmış gibi bir havası var. Bir yerinde de dikişleri biraz kötüydü fakat asla numaramı bulamadığım için iade etmedim.",
+      "normalizedComment": "puma da denediğim kıpkırmızıydı sanki uç kısımları biraz güneşte turunculaşmış gibi bir havası var bir yerinde de dikişleri biraz kötüydü fakat asla numaramı bulamadığım için iade etmedim",
+      "rate": 4,
+      "createdAt": 1744237234970,
+      "tokens": [
+        "puma",
+        "denediğim",
+        "kıpkırmızıydı",
+        "uç",
+        "kısımları",
+        "biraz",
+        "güneşte",
+        "turunculaşmış",
+        "havası",
+        "var",
+        "yerinde",
+        "dikişleri",
+        "biraz",
+        "kötüydü",
+        "fakat",
+        "asla",
+        "numaramı",
+        "bulamadığım",
+        "iade",
+        "etmedim"
+      ],
+      "tokenCount": 20
+    },
+    {
+      "reviewId": "898138685-60",
+      "comment": "Ben çok beğendim rahat bi ayakkabı ama kuru peçeteyle sürdüğümde bile rengi çıkıyor silmezseniz yada çok ayakkabı kirleten biriyse alımca üzülmesin",
+      "normalizedComment": "ben çok beğendim rahat bi ayakkabı ama kuru peçeteyle sürdüğümde bile rengi çıkıyor silmezseniz yada çok ayakkabı kirleten biriyse alımca üzülmesin",
+      "rate": 4,
+      "createdAt": 1774610485816,
+      "tokens": [
+        "beğendim",
+        "rahat",
+        "bi",
+        "ayakkabı",
+        "kuru",
+        "peçeteyle",
+        "sürdüğümde",
+        "bile",
+        "rengi",
+        "çıkıyor",
+        "silmezseniz",
+        "yada",
+        "ayakkabı",
+        "kirleten",
+        "biriyse",
+        "alımca",
+        "üzülmesin"
+      ],
+      "tokenCount": 17
+    },
+    {
+      "reviewId": "898138685-61",
+      "comment": "Tamamen şansınıza nasıl çıkarsa ayakkabısı aldığım ve mağazada denediğim arasında dağlar kadar fark var beyaz yerleri tam beyaz değil her yerinden iplikler çıkmış 36.5 giyiyorum 37 tam oldu",
+      "normalizedComment": "tamamen şansınıza nasıl çıkarsa ayakkabısı aldığım ve mağazada denediğim arasında dağlar kadar fark var beyaz yerleri tam beyaz değil her yerinden iplikler çıkmış 36 5 giyiyorum 37 tam oldu",
+      "rate": 2,
+      "createdAt": 1773323042218,
+      "tokens": [
+        "tamamen",
+        "şansınıza",
+        "çıkarsa",
+        "ayakkabısı",
+        "aldığım",
+        "mağazada",
+        "denediğim",
+        "arasında",
+        "dağlar",
+        "kadar",
+        "fark",
+        "var",
+        "beyaz",
+        "yerleri",
+        "beyaz",
+        "yerinden",
+        "iplikler",
+        "çıkmış",
+        "giyiyorum"
+      ],
+      "tokenCount": 19
+    },
+    {
+      "reviewId": "898138685-62",
+      "comment": "ilk giyişte rengi aktı beyaz cizgileri kırmızı oldu",
+      "normalizedComment": "ilk giyişte rengi aktı beyaz cizgileri kırmızı oldu",
+      "rate": 1,
+      "createdAt": 1772768200522,
+      "tokens": [
+        "ilk",
+        "giyişte",
+        "rengi",
+        "aktı",
+        "beyaz",
+        "cizgileri",
+        "kırmızı"
+      ],
+      "tokenCount": 7
+    },
+    {
+      "reviewId": "898138685-63",
+      "comment": "Satıcı kendine ait sorumluluğu nasıl kabul etmiyor sadece para tuzağısınız . Burayı iki günde ben nasıl yırtabilirim.",
+      "normalizedComment": "satıcı kendine ait sorumluluğu nasıl kabul etmiyor sadece para tuzağısınız burayı iki günde ben nasıl yırtabilirim",
+      "rate": 1,
+      "createdAt": 1774515617353,
+      "tokens": [
+        "satıcı",
+        "kendine",
+        "ait",
+        "sorumluluğu",
+        "kabul",
+        "etmiyor",
+        "sadece",
+        "para",
+        "tuzağısınız",
+        "burayı",
+        "iki",
+        "günde",
+        "yırtabilirim"
+      ],
+      "tokenCount": 13
+    },
+    {
+      "reviewId": "898138685-64",
+      "comment": "arkadaşlar üste çıksın diye 5 yıldız verdim ayakkabıyı sadece 2 kere giydim ve yanıları hemen açıldı 2 yıl garantisi olmasına rağmen de hiçbir şekilde yardımcı olmayıp iade işlemi gerçekleştirmemi söylediler kesinlikle almamalısınız",
+      "normalizedComment": "arkadaşlar üste çıksın diye 5 yıldız verdim ayakkabıyı sadece 2 kere giydim ve yanıları hemen açıldı 2 yıl garantisi olmasına rağmen de hiçbir şekilde yardımcı olmayıp iade işlemi gerçekleştirmemi söylediler kesinlikle almamalısınız",
+      "rate": 5,
+      "createdAt": 1773223912511,
+      "tokens": [
+        "arkadaşlar",
+        "üste",
+        "çıksın",
+        "yıldız",
+        "verdim",
+        "ayakkabıyı",
+        "sadece",
+        "kere",
+        "giydim",
+        "yanıları",
+        "hemen",
+        "açıldı",
+        "yıl",
+        "garantisi",
+        "olmasına",
+        "rağmen",
+        "hiçbir",
+        "şekilde",
+        "yardımcı",
+        "olmayıp",
+        "iade",
+        "işlemi",
+        "gerçekleştirmemi",
+        "söylediler",
+        "kesinlikle",
+        "almamalısınız"
+      ],
+      "tokenCount": 26
+    },
+    {
+      "reviewId": "898138685-65",
+      "comment": "bir defa giydim yağmur yağdı arabadan eve gelene kadar ön kısmı ıslandı süet olduğu için ön kısmının tüyleri döküldü şu an bir yıl Giymişim gibi görünüyor tavsiye etmem verdiğim paraya yazık",
+      "normalizedComment": "bir defa giydim yağmur yağdı arabadan eve gelene kadar ön kısmı ıslandı süet olduğu için ön kısmının tüyleri döküldü şu an bir yıl giymişim gibi görünüyor tavsiye etmem verdiğim paraya yazık",
+      "rate": 1,
+      "createdAt": 1743609355725,
+      "tokens": [
+        "giydim",
+        "yağmur",
+        "yağdı",
+        "arabadan",
+        "eve",
+        "gelene",
+        "kadar",
+        "ön",
+        "kısmı",
+        "ıslandı",
+        "süet",
+        "ön",
+        "kısmının",
+        "tüyleri",
+        "döküldü",
+        "an",
+        "yıl",
+        "giymişim",
+        "görünüyor",
+        "tavsiye",
+        "etmem",
+        "verdiğim",
+        "paraya",
+        "yazık"
+      ],
+      "tokenCount": 24
+    },
+    {
+      "reviewId": "898138685-66",
+      "comment": "Ürün gerçekten çok güzel fakat farklı renk gönderilmiş biri açık kırmızı bir koyu kırmızı ve kötü gösteriyor",
+      "normalizedComment": "ürün gerçekten çok güzel fakat farklı renk gönderilmiş biri açık kırmızı bir koyu kırmızı ve kötü gösteriyor",
+      "rate": 3,
+      "createdAt": 1774859027526,
+      "tokens": [
+        "ürün",
+        "gerçekten",
+        "güzel",
+        "fakat",
+        "farklı",
+        "renk",
+        "gönderilmiş",
+        "açık",
+        "kırmızı",
+        "koyu",
+        "kırmızı",
+        "kötü",
+        "gösteriyor"
+      ],
+      "tokenCount": 13
+    },
+    {
+      "reviewId": "898138685-67",
+      "comment": "Üründe silindiğinde boyası çıkıyor ön uç tarafda eziklik mevcut yapışkanlar mevcut kesinlikle tavsiye etmiyorum almanızı",
+      "normalizedComment": "üründe silindiğinde boyası çıkıyor ön uç tarafda eziklik mevcut yapışkanlar mevcut kesinlikle tavsiye etmiyorum almanızı",
+      "rate": 1,
+      "createdAt": 1773344917629,
+      "tokens": [
+        "üründe",
+        "silindiğinde",
+        "boyası",
+        "çıkıyor",
+        "ön",
+        "uç",
+        "tarafda",
+        "eziklik",
+        "mevcut",
+        "yapışkanlar",
+        "mevcut",
+        "kesinlikle",
+        "tavsiye",
+        "etmiyorum",
+        "almanızı"
+      ],
+      "tokenCount": 15
+    },
+    {
+      "reviewId": "898138685-68",
+      "comment": "Paketleme çok güzel ürünler muhteşem çok teşekkür ederim",
+      "normalizedComment": "paketleme çok güzel ürünler muhteşem çok teşekkür ederim",
+      "rate": 5,
+      "createdAt": 1770639016056,
+      "tokens": [
+        "paketleme",
+        "güzel",
+        "ürünler",
+        "muhteşem",
+        "teşekkür",
+        "ederim"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "898138685-69",
+      "comment": "Ürün orijinal arkadaşlar. Yetkili satıcı damgası olmayan yerden almayın yarım numara büyük alırsanız çok rahat edersiniz burnu değmez.Tabanı beklediğimden daha rahat. İndirimdeyken alın",
+      "normalizedComment": "ürün orijinal arkadaşlar yetkili satıcı damgası olmayan yerden almayın yarım numara büyük alırsanız çok rahat edersiniz burnu değmez tabanı beklediğimden daha rahat indirimdeyken alın",
+      "rate": 5,
+      "createdAt": 1771250467309,
+      "tokens": [
+        "ürün",
+        "orijinal",
+        "arkadaşlar",
+        "yetkili",
+        "satıcı",
+        "damgası",
+        "olmayan",
+        "yerden",
+        "almayın",
+        "yarım",
+        "numara",
+        "büyük",
+        "alırsanız",
+        "rahat",
+        "edersiniz",
+        "burnu",
+        "değmez",
+        "tabanı",
+        "beklediğimden",
+        "rahat",
+        "indirimdeyken",
+        "alın"
+      ],
+      "tokenCount": 22
+    },
+    {
+      "reviewId": "898138685-70",
+      "comment": "Ürün güzel kız kardeşime aldım,fotoğraftaki gibi henüz kullanmadı rahat mı bilemiyorum.kargo kötüydü ama kutu yırtılmıştı Allah tan ayakkabı da bi hasar yoktu o kadar para verdim Allah korudu",
+      "normalizedComment": "ürün güzel kız kardeşime aldım fotoğraftaki gibi henüz kullanmadı rahat mı bilemiyorum kargo kötüydü ama kutu yırtılmıştı allah tan ayakkabı da bi hasar yoktu o kadar para verdim allah korudu",
+      "rate": 4,
+      "createdAt": 1764534369588,
+      "tokens": [
+        "ürün",
+        "güzel",
+        "kız",
+        "kardeşime",
+        "aldım",
+        "fotoğraftaki",
+        "henüz",
+        "kullanmadı",
+        "rahat",
+        "bilemiyorum",
+        "kargo",
+        "kötüydü",
+        "kutu",
+        "yırtılmıştı",
+        "allah",
+        "tan",
+        "ayakkabı",
+        "bi",
+        "hasar",
+        "yoktu",
+        "kadar",
+        "para",
+        "verdim",
+        "allah",
+        "korudu"
+      ],
+      "tokenCount": 25
+    },
+    {
+      "reviewId": "898138685-71",
+      "comment": "hız da ürün de iyiydi sadece kutusu yamulmuştu. diğer puma ayakkabılarda da 38 giyiyorum bunu da 38 aldım oldu",
+      "normalizedComment": "hız da ürün de iyiydi sadece kutusu yamulmuştu diğer puma ayakkabılarda da 38 giyiyorum bunu da 38 aldım oldu",
+      "rate": 5,
+      "createdAt": 1771242144067,
+      "tokens": [
+        "hız",
+        "ürün",
+        "iyiydi",
+        "sadece",
+        "kutusu",
+        "yamulmuştu",
+        "diğer",
+        "puma",
+        "ayakkabılarda",
+        "giyiyorum",
+        "bunu",
+        "aldım"
+      ],
+      "tokenCount": 12
+    },
+    {
+      "reviewId": "898138685-72",
+      "comment": "İnanılmaz güzel bi ayakkabı sadece kutusu ezilmişti sorun etmedim",
+      "normalizedComment": "inanılmaz güzel bi ayakkabı sadece kutusu ezilmişti sorun etmedim",
+      "rate": 5,
+      "createdAt": 1771485838572,
+      "tokens": [
+        "inanılmaz",
+        "güzel",
+        "bi",
+        "ayakkabı",
+        "sadece",
+        "kutusu",
+        "ezilmişti",
+        "sorun",
+        "etmedim"
+      ],
+      "tokenCount": 9
+    },
+    {
+      "reviewId": "898138685-73",
+      "comment": "ayakkabının renkleri farklı geldi ucu ezilmiş bi yere sürtmüş gibi beyazlıklarda da renk değişikliği vardı hayal kırıklığına uğradım iade edecem",
+      "normalizedComment": "ayakkabının renkleri farklı geldi ucu ezilmiş bi yere sürtmüş gibi beyazlıklarda da renk değişikliği vardı hayal kırıklığına uğradım iade edecem",
+      "rate": 1,
+      "createdAt": 1771266905925,
+      "tokens": [
+        "ayakkabının",
+        "renkleri",
+        "farklı",
+        "geldi",
+        "ucu",
+        "ezilmiş",
+        "bi",
+        "yere",
+        "sürtmüş",
+        "beyazlıklarda",
+        "renk",
+        "değişikliği",
+        "vardı",
+        "hayal",
+        "kırıklığına",
+        "uğradım",
+        "iade",
+        "edecem"
+      ],
+      "tokenCount": 18
+    },
+    {
+      "reviewId": "898138685-74",
+      "comment": "İlk giydiğim gün mahvoldu!!! Orijinal mi bu nedir!!! iade",
+      "normalizedComment": "ilk giydiğim gün mahvoldu orijinal mi bu nedir iade",
+      "rate": 1,
+      "createdAt": 1771523609055,
+      "tokens": [
+        "ilk",
+        "giydiğim",
+        "gün",
+        "mahvoldu",
+        "orijinal",
+        "nedir",
+        "iade"
+      ],
+      "tokenCount": 7
+    },
+    {
+      "reviewId": "898138685-75",
+      "comment": "Koskoca superstep defolu ürün yolluyor, sıfır diye aldım üzerinde lekeler vardı",
+      "normalizedComment": "koskoca superstep defolu ürün yolluyor sıfır diye aldım üzerinde lekeler vardı",
+      "rate": 3,
+      "createdAt": 1763001660333,
+      "tokens": [
+        "koskoca",
+        "superstep",
+        "defolu",
+        "ürün",
+        "yolluyor",
+        "sıfır",
+        "aldım",
+        "üzerinde",
+        "lekeler",
+        "vardı"
+      ],
+      "tokenCount": 10
+    }
+  ]
+}

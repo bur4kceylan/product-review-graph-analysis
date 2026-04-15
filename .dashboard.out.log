@@ -1,0 +1,35 @@
+
+> vericekmebot@1.0.0 dashboard
+> node preview-dashboard.js
+
+Dashboard preview: http://localhost:4173
+Running pipeline for contentId 897494241...
+Fetching page 0...
+Page 0 fetched successfully. 8 review(s) collected.
+Fetching page 1...
+No reviews returned on page 1. Pagination finished.
+Done. 8 total review(s) saved to C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\raw\reviews-897494241.raw.json.
+Processed 8 review(s). Output saved to C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\processed\reviews-897494241.processed.json.
+Summary saved to C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\summary\reviews-897494241.summary.json.
+Kullanıcıların büyük kısmı üründen memnun görünüyor.
+Bu değerlendirme 8 yorum üzerinden oluşturuldu ve ortalama puan 4.75 seviyesinde. Genel kullanıcı algısı çok olumlu; pozitif yorum oranı %100, negatif yorum oranı ise %0. Kullanıcılar en çok günlük kullanım başlıklarında memnuniyet bildirirken, dikkat çeken geliştirme alanları belirgin bir olumsuz tema olarak öne çıkıyor.
+Ürün, kullanıcıların büyük bölümü tarafından olumlu değerlendirilmektedir. Yorumlarda ürünün günlük kullanım ihtiyaçlarını karşılaması olumlu bir nokta olarak öne çıkmaktadır. Olumsuz yorumlar sınırlı olsa da bazı kullanıcılar belirli kullanım senaryolarında geliştirme beklentisi dile getirmektedir. Genel olarak ürün, beklentiyi büyük ölçüde karşılayan ve günlük kullanım için tercih edilebilecek bir seçenek olarak değerlendirilmektedir.
+Pipeline completed successfully.
+Raw reviews: C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\raw\reviews-897494241.raw.json
+Processed reviews: C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\processed\reviews-897494241.processed.json
+Summary: C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\summary\reviews-897494241.summary.json
+Running pipeline for contentId 675847449...
+Fetching page 0...
+Page 0 fetched successfully. 10 review(s) collected.
+Fetching page 1...
+No reviews returned on page 1. Pagination finished.
+Done. 10 total review(s) saved to C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\raw\reviews-675847449.raw.json.
+Processed 10 review(s). Output saved to C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\processed\reviews-675847449.processed.json.
+Summary saved to C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\summary\reviews-675847449.summary.json.
+Yorumlarda urunle ilgili belirgin cekinceler bulunuyor.
+Urun, kullanicilar tarafindan genel olarak olumlu degerlendirilmistir. Toplam puanlamalarda da bu tablo desteklenmektedir; 4-5 yildiz orani %66.67, 1-2 yildiz orani ise %26.67 seviyesindedir. 5 kullanicinin sadece puan verip yorum birakmamasi, genel memnuniyetin yorum yazan kullanicilarla sinirli olmadigini da gostermektedir. Genel olarak urunun fiyat ve performans dengesi kullanicilarin buyuk bolumu tarafindan tatmin edici bulunmaktadir.
+Urun, kullanici yorumlarinda genel olarak olumlu bir tablo ortaya koymaktadir. Yorumlarda urunun gunluk kullanim ihtiyaclarini karsilamasi olumlu bir nokta olarak one cikmaktadir. Olumsuz yorumlar sinirli olsa da bazi kullanicilar belirli kullanim senaryolarinda gelistirme beklentisi dile getirmektedir. Ayrica 5 kullanicinin sadece puan verip yorum birakmamasi, toplam memnuniyetin yorum yazan kitleyle sinirli olmadigini da gosteriyor; Trendyol etiketlerinde Fiyat, Ekran Özellikleri, Çeyiz, Paketleme basliklari one cikiyor. Genel olarak urun, guclu yonleri one ciksa da satin alma kararinda beklentilerin dikkatle degerlendirilmesini gerektiren bir secenek olarak gorunmektedir.
+Pipeline completed successfully.
+Raw reviews: C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\raw\reviews-675847449.raw.json
+Processed reviews: C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\processed\reviews-675847449.processed.json
+Summary: C:\Users\mbcey\OneDrive\Masaüstü\vericekmebot\data\summary\reviews-675847449.summary.json

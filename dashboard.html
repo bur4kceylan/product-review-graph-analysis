@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ürün Değerlendirme Özeti</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Playfair+Display:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="dashboard.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <section class="input-shell glass-card" id="inputShell">
+        <div class="input-copy">
+          <p class="eyebrow">Trendyol Yorum Motoru</p>
+          <h1>Ürün linkini yapıştır, yorumları çekelim ve değerlendirme özetini oluşturalım.</h1>
+          <p class="hero-text">
+            Link girildiğinde sistem sırasıyla yorumları toplar, temizler, analiz eder ve
+            aşağıdaki tasarım ekranını otomatik olarak doldurur.
+          </p>
+        </div>
+        <form id="analyzeForm" class="input-form">
+          <label class="input-label" for="productUrl">Trendyol Ürün Linki</label>
+          <div class="input-row">
+            <input
+              id="productUrl"
+              name="productUrl"
+              type="url"
+              placeholder="https://www.trendyol.com/...-p-941342405/yorumlar"
+              required
+            />
+            <button type="submit" id="submitButton">Analizi Başlat</button>
+          </div>
+          <p class="helper-text">
+            Ürün linkini gir, gerisini sistem halletsin. İşlem tamamlanınca sonuç kartları
+            otomatik olarak aşağıda açılacak.
+          </p>
+        </form>
+      </section>
+
+      <div id="loadingOverlay" class="loading-overlay hidden" aria-live="polite">
+        <div class="loading-card glass-card">
+          <div class="loader-ring"></div>
+          <p class="eyebrow">Analiz Hazırlanıyor</p>
+          <h2 id="loadingTitle">Yorumlar çekiliyor...</h2>
+          <p id="loadingText">
+            Trendyol verileri toplanıyor, yorumlar temizleniyor ve özet ekranı hazırlanıyor.
+          </p>
+        </div>
+      </div>
+
+      <header class="hero hidden" id="resultsHero">
+        <div class="hero-copy">
+          <p class="eyebrow">NLP Destekli Trend Analizi</p>
+          <h1>Ürün yorumlarını görsel, okunabilir ve güvenilir bir özet haline getiriyoruz.</h1>
+          <p class="hero-text">
+            Bu ekran, Trendyol yorumlarından çıkarılan duygu dağılımını, güçlü ve zayıf
+            başlıkları ve kullanıcıya gösterilecek değerlendirme özetini tek bakışta sunar.
+          </p>
+        </div>
+        <div class="hero-meta glass-card">
+          <p class="meta-label">Özet Durumu</p>
+          <p id="headline" class="headline">Yükleniyor...</p>
+          <div class="meta-grid">
+            <div>
+              <span>Güven Skoru</span>
+              <strong id="confidenceScore">-</strong>
+            </div>
+            <div>
+              <span>Ortalama Puan</span>
+              <strong id="averageRating">-</strong>
+            </div>
+            <div>
+              <span>Toplam Yorum</span>
+              <strong id="totalReviews">-</strong>
+            </div>
+            <div>
+              <span>Ürün ID</span>
+              <strong id="contentId">-</strong>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <main class="dashboard-grid hidden" id="resultsGrid">
+        <section class="summary-panel glass-card feature-card">
+          <div class="section-header">
+            <span class="icon-badge">AI</span>
+            <div>
+              <p class="section-kicker">Değerlendirme Özeti</p>
+              <h2>Kullanıcıya gösterilecek doğal sonuç</h2>
+            </div>
+          </div>
+          <p id="displaySummary" class="display-summary">Özet hazırlanıyor...</p>
+          <div class="summary-footer">
+            <p id="generalEvaluation" class="technical-summary"></p>
+          </div>
+        </section>
+
+        <section class="sentiment-panel glass-card">
+          <div class="section-header">
+            <span class="icon-badge warm">%</span>
+            <div>
+              <p class="section-kicker">Duygu Dağılımı</p>
+              <h2>Yorum tonunun genel görünümü</h2>
+            </div>
+          </div>
+          <div class="sentiment-bars">
+            <div class="sentiment-row">
+              <div class="sentiment-label">
+                <span class="dot positive"></span>
+                <span>Pozitif</span>
+              </div>
+              <div class="bar-track"><div id="positiveBar" class="bar-fill positive"></div></div>
+              <strong id="positiveValue">0%</strong>
+            </div>
+            <div class="sentiment-row">
+              <div class="sentiment-label">
+                <span class="dot neutral"></span>
+                <span>Nötr</span>
+              </div>
+              <div class="bar-track"><div id="neutralBar" class="bar-fill neutral"></div></div>
+              <strong id="neutralValue">0%</strong>
+            </div>
+            <div class="sentiment-row">
+              <div class="sentiment-label">
+                <span class="dot negative"></span>
+                <span>Negatif</span>
+              </div>
+              <div class="bar-track"><div id="negativeBar" class="bar-fill negative"></div></div>
+              <strong id="negativeValue">0%</strong>
+            </div>
+          </div>
+        </section>
+
+        <section class="glass-card aspect-panel">
+          <div class="section-header">
+            <span class="icon-badge cool">+</span>
+            <div>
+              <p class="section-kicker">Güçlü Yönler</p>
+              <h2>En çok öne çıkan memnuniyet alanları</h2>
+            </div>
+          </div>
+          <div id="strengthsList" class="aspect-list"></div>
+        </section>
+
+        <section class="glass-card aspect-panel">
+          <div class="section-header">
+            <span class="icon-badge soft">-</span>
+            <div>
+              <p class="section-kicker">Geliştirme Alanları</p>
+              <h2>Kullanıcıların çekince belirttiği başlıklar</h2>
+            </div>
+          </div>
+          <div id="weaknessesList" class="aspect-list"></div>
+        </section>
+
+        <section class="glass-card keywords-panel">
+          <div class="section-header">
+            <span class="icon-badge accent">#</span>
+            <div>
+              <p class="section-kicker">Öne Çıkan İfadeler</p>
+              <h2>Yorumlarda tekrar eden kelime ve kalıplar</h2>
+            </div>
+          </div>
+          <div id="phraseCloud" class="pill-cloud"></div>
+        </section>
+
+        <section class="glass-card quote-panel">
+          <div class="section-header">
+            <span class="icon-badge quote">"</span>
+            <div>
+              <p class="section-kicker">Kanıt Yorumlar</p>
+              <h2>Özetin arkasındaki örnek kullanıcı sesleri</h2>
+            </div>
+          </div>
+          <div class="quote-grid">
+            <div>
+              <h3>Olumlu Örnekler</h3>
+              <div id="positiveQuotes" class="quote-list"></div>
+            </div>
+            <div>
+              <h3>Olumsuz Örnekler</h3>
+              <div id="negativeQuotes" class="quote-list"></div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="dashboard.js"></script>
+  </body>
+</html>

@@ -1,0 +1,644 @@
+{
+  "productUrl": "https://www.trendyol.com/oysho/kadin-siyah-flare-comfort-pantolon-p-52882006?boutiqueId=61&merchantId=140957",
+  "contentId": "52882006",
+  "generatedAt": "2026-04-09T11:12:09.166Z",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-52882006.raw.json",
+  "sourceAiSummary": "Ürün, rahatlığı ve yumuşak kumaşıyla öne çıkan, vücudu saran ve toparlayıcı özelliğiyle kullanıcıların beğenisini kazanan bir tayt olarak değerlendirilmiştir. Çoğu kullanıcı, ürünün kalitesini ve esnek yapısını takdir ederken, fiyatının da bu kaliteyi hak ettiğini belirtmiştir. Özellikle spor aktiviteleri ve günlük kullanım için ideal olduğu ifade edilmiştir. Ancak, bazı kullanıcılar ürünün kalıbının geniş olduğunu ve bir veya iki beden küçük alınmasının daha iyi sonuç verebileceğini dile getirmiştir. Genel olarak, ürünün konforu, kalitesi ve şık duruşuyla memnuniyet sağladığı gözlemlenmiştir.",
+  "sourceSummary": {
+    "averageRating": 4.5,
+    "averageRatingFixed": "4.5",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 2231,
+    "totalCommentCount": 1295,
+    "totalPages": 65,
+    "hasMediaFiles": true,
+    "totalImageReviewCount": 267,
+    "productSizes": [
+      {
+        "name": "S",
+        "count": 427
+      },
+      {
+        "name": "M",
+        "count": 335
+      },
+      {
+        "name": "XS",
+        "count": 271
+      },
+      {
+        "name": "L",
+        "count": 168
+      },
+      {
+        "name": "XL",
+        "count": 66
+      },
+      {
+        "name": "2XL",
+        "count": 23
+      },
+      {
+        "name": "XXL",
+        "count": 4
+      }
+    ],
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/30/30/mobile/reviewrating/kamera-emoji6x.png",
+    "heightTags": [
+      {
+        "name": "<150",
+        "count": 12
+      },
+      {
+        "name": "151-160",
+        "count": 207
+      },
+      {
+        "name": "161-170",
+        "count": 492
+      },
+      {
+        "name": "171-180",
+        "count": 101
+      },
+      {
+        "name": "181-190",
+        "count": 4
+      }
+    ],
+    "weightTags": [
+      {
+        "name": "<50",
+        "count": 118
+      },
+      {
+        "name": "51-60",
+        "count": 397
+      },
+      {
+        "name": "61-70",
+        "count": 180
+      },
+      {
+        "name": "71-80",
+        "count": 75
+      },
+      {
+        "name": "81-90",
+        "count": 29
+      },
+      {
+        "name": "91-100",
+        "count": 12
+      },
+      {
+        "name": "101-110",
+        "count": 2
+      },
+      {
+        "name": ">110",
+        "count": 3
+      }
+    ],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 1685
+      },
+      {
+        "rate": 4,
+        "count": 231
+      },
+      {
+        "rate": 3,
+        "count": 145
+      },
+      {
+        "rate": 2,
+        "count": 60
+      },
+      {
+        "rate": 1,
+        "count": 110
+      }
+    ],
+    "tags": [
+      {
+        "name": "tümü",
+        "count": 1295
+      },
+      {
+        "name": "fotoğraflı",
+        "count": 267,
+        "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png"
+      },
+      {
+        "name": "Beden Bilgisi",
+        "count": 408,
+        "sentiment": {
+          "positive": 215,
+          "negative": 160,
+          "ratio": 57
+        }
+      },
+      {
+        "name": "Rahatlık",
+        "count": 155,
+        "sentiment": {
+          "positive": 152,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Kumaş Kalitesi",
+        "count": 140,
+        "sentiment": {
+          "positive": 97,
+          "negative": 29,
+          "ratio": 77
+        }
+      },
+      {
+        "name": "İade",
+        "count": 67
+      },
+      {
+        "name": "Yumuşaklık/Sertlik",
+        "count": 63,
+        "sentiment": {
+          "positive": 62,
+          "negative": 1,
+          "ratio": 98
+        }
+      },
+      {
+        "name": "Fiyat",
+        "count": 58
+      },
+      {
+        "name": "Kalite",
+        "count": 52,
+        "sentiment": {
+          "positive": 45,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Paça Özellikleri",
+        "count": 50
+      },
+      {
+        "name": "Renk Özelliği",
+        "count": 37,
+        "sentiment": {
+          "positive": 14,
+          "negative": 13,
+          "ratio": 52
+        }
+      },
+      {
+        "name": "Farklı/Aynı Ürün",
+        "count": 34
+      }
+    ]
+  },
+  "totalReviews": 1254,
+  "averageRating": 4.35,
+  "confidenceScore": 92,
+  "headline": "Toplam puanlama tarafi guclu; yazili yorumlar da genel memnuniyeti destekliyor.",
+  "sentiment": {
+    "positive": 1010,
+    "neutral": 99,
+    "negative": 145
+  },
+  "sentimentPercentages": {
+    "positive": 80.54,
+    "neutral": 7.89,
+    "negative": 11.56
+  },
+  "sourceTags": [
+    {
+      "name": "Beden Bilgisi",
+      "count": 408,
+      "positive": 215,
+      "negative": 160,
+      "ratio": 57
+    },
+    {
+      "name": "Rahatlık",
+      "count": 155,
+      "positive": 152,
+      "negative": 0,
+      "ratio": 100
+    },
+    {
+      "name": "Kumaş Kalitesi",
+      "count": 140,
+      "positive": 97,
+      "negative": 29,
+      "ratio": 77
+    },
+    {
+      "name": "İade",
+      "count": 67,
+      "positive": 0,
+      "negative": 0,
+      "ratio": null
+    }
+  ],
+  "ratingBreakdown": {
+    "totalRatings": 2231,
+    "positiveCount": 1916,
+    "neutralCount": 145,
+    "negativeCount": 170,
+    "positivePercent": 85.88,
+    "neutralPercent": 6.5,
+    "negativePercent": 7.62,
+    "fiveStarPercent": 75.53,
+    "oneStarPercent": 4.93
+  },
+  "commentCoverage": {
+    "totalRatingCount": 2231,
+    "totalCommentCount": 1295,
+    "ratingsWithoutComment": 936,
+    "commentCoveragePercent": 58.05
+  },
+  "topKeywords": [
+    {
+      "value": "guzel",
+      "count": 419
+    },
+    {
+      "value": "beden",
+      "count": 295
+    },
+    {
+      "value": "uzun",
+      "count": 252
+    },
+    {
+      "value": "rahat",
+      "count": 232
+    },
+    {
+      "value": "urun",
+      "count": 177
+    },
+    {
+      "value": "aldim",
+      "count": 174
+    },
+    {
+      "value": "geldi",
+      "count": 152
+    },
+    {
+      "value": "boyu",
+      "count": 148
+    },
+    {
+      "value": "kucuk",
+      "count": 134
+    },
+    {
+      "value": "iade",
+      "count": 126
+    },
+    {
+      "value": "kumasi",
+      "count": 119
+    },
+    {
+      "value": "boy",
+      "count": 107
+    },
+    {
+      "value": "tayt",
+      "count": 102
+    },
+    {
+      "value": "kaliteli",
+      "count": 93
+    },
+    {
+      "value": "alin",
+      "count": 91
+    },
+    {
+      "value": "harika",
+      "count": 82
+    },
+    {
+      "value": "oysho",
+      "count": 82
+    },
+    {
+      "value": "kadar",
+      "count": 81
+    },
+    {
+      "value": "kisa",
+      "count": 79
+    },
+    {
+      "value": "begendim",
+      "count": 78
+    }
+  ],
+  "topPhrases": [
+    {
+      "value": "beden kucuk",
+      "count": 91
+    },
+    {
+      "value": "uzun geldi",
+      "count": 77
+    },
+    {
+      "value": "boyu uzun",
+      "count": 55
+    },
+    {
+      "value": "beden aldim",
+      "count": 44
+    },
+    {
+      "value": "urun guzel",
+      "count": 40
+    },
+    {
+      "value": "oysho kalitesi",
+      "count": 33
+    },
+    {
+      "value": "asiri rahat",
+      "count": 30
+    },
+    {
+      "value": "kucuk alin",
+      "count": 25
+    },
+    {
+      "value": "boyu kisa",
+      "count": 23
+    },
+    {
+      "value": "kisa geldi",
+      "count": 22
+    },
+    {
+      "value": "guzel urun",
+      "count": 21
+    },
+    {
+      "value": "iade ettim",
+      "count": 21
+    }
+  ],
+  "aspects": [
+    {
+      "aspect": "malzeme-kalite",
+      "mentions": 190,
+      "positive": 174,
+      "neutral": 4,
+      "negative": 12,
+      "positiveRatio": 0.916,
+      "negativeRatio": 0.063,
+      "bestPositiveComment": {
+        "comment": "Çok kaliteli. Kumaşı çok güzel. OYSHO OYSHO OYSHO HARİKASIN SÜPERSİN",
+        "rate": 5,
+        "sentimentScore": 12
+      },
+      "strongestNegativeComment": {
+        "comment": "Daha önce Oysho dan aldığım hiçbir üründe böyle bir şeyle karşılaşmamıştım kumaş kalitesi iyiydi. Gelen ürün inanılmaz kötü kokuyor, öyle ki paketi açtım bütün koridor koktu, ne kokuyor burası dedi annem. Tamam ürünün kumaşı petrol türevi de bu kadar kötü kokanıyla hiç denk gelmemiştim hele ki Oysho da olmasına şaşırdım, üzgünüm iade.",
+        "rate": 1,
+        "sentimentScore": -7
+      }
+    },
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 43,
+      "positive": 27,
+      "neutral": 6,
+      "negative": 10,
+      "positiveRatio": 0.628,
+      "negativeRatio": 0.233,
+      "bestPositiveComment": {
+        "comment": "hediye aldı erkek arkadaşım o kadar memnunum ki utanmasam her gün giyerim. nöbetletimde hep tercih ediyorum çok rahat ve kalıbı çok güzel oysho farkı gerçekten bu fiyat değil 2 katı olsa yine alınır o kadar güzel bi tayt",
+        "rate": 5,
+        "sentimentScore": 9
+      },
+      "strongestNegativeComment": {
+        "comment": "Ürünün 83 polyester olduğunu aldıktan sonra fark ettim bu fiyata değmediğini düşünüyorum. Polyester ürün bildiğin plastik kokuyor ayrıca giydikten sonra da elektriklenip vücuda yapıyor rahatsız edici bir his bilen bilir maalesef iade",
+        "rate": 1,
+        "sentimentScore": -6
+      }
+    },
+    {
+      "aspect": "kargo",
+      "mentions": 37,
+      "positive": 20,
+      "neutral": 5,
+      "negative": 12,
+      "positiveRatio": 0.541,
+      "negativeRatio": 0.324,
+      "bestPositiveComment": {
+        "comment": "L beden aldım. Hafif beli bol geldi ama yine olur. M de olabilirmiş çok begendim tavsiye ederim. Paketlemeyı de begendim . Kargo da hızlı",
+        "rate": 5,
+        "sentimentScore": 13
+      },
+      "strongestNegativeComment": {
+        "comment": "En uzun boyu gönderilmiş, boy seçilememesi çok kötü. İade etmek zorunda kaldım.",
+        "rate": 1,
+        "sentimentScore": -12
+      }
+    },
+    {
+      "aspect": "performans",
+      "mentions": 22,
+      "positive": 21,
+      "neutral": 1,
+      "negative": 0,
+      "positiveRatio": 0.955,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "L beden aldım. Hafif beli bol geldi ama yine olur. M de olabilirmiş çok begendim tavsiye ederim. Paketlemeyı de begendim . Kargo da hızlı",
+        "rate": 5,
+        "sentimentScore": 13
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "kullanim",
+      "mentions": 7,
+      "positive": 6,
+      "neutral": 0,
+      "negative": 1,
+      "positiveRatio": 0.857,
+      "negativeRatio": 0.143,
+      "bestPositiveComment": {
+        "comment": "Mükemmel ötesi, asla katlanma yapmıyor günlük sporda sürekli giymek istiyorum HARİKAAAA",
+        "rate": 5,
+        "sentimentScore": 9
+      },
+      "strongestNegativeComment": {
+        "comment": "herkese regular gönderilen tayt bana tall gönderilmiş, kuponla aldım iade edersem kuponum gidecek iade etmek istiyorum. terziye verip taytı da bozmak istemiyorum SATICI İLETİŞİME GEÇEBİLİR Mİ?????",
+        "rate": 1,
+        "sentimentScore": -6
+      }
+    },
+    {
+      "aspect": "ekran",
+      "mentions": 5,
+      "positive": 3,
+      "neutral": 1,
+      "negative": 1,
+      "positiveRatio": 0.6,
+      "negativeRatio": 0.2,
+      "bestPositiveComment": {
+        "comment": "Çok rahat, kumaşı çok güzel fakat giyebilmek için güzel bir vücudunuz olması lazım. En ufak kusuru belli ediyor, toparlamıyor. Eğer ben rahatlığına bakarım, görüntü önemli değil diyorsanız tam size göre. Ben 54kg 1,63 S beden aldım ama duruşunu beğenmediğim için iade ettim.",
+        "rate": 4,
+        "sentimentScore": 3
+      },
+      "strongestNegativeComment": {
+        "comment": "ürün çok ince sıkı bir görüntü oluşturmuyor iadeye gönderdim iade işlemi çok uzun sürdü firma aynı zamanda çok ilgisizdi mesajlara cevap vermiyor bile",
+        "rate": 1,
+        "sentimentScore": -6
+      }
+    },
+    {
+      "aspect": "batarya",
+      "mentions": 5,
+      "positive": 4,
+      "neutral": 0,
+      "negative": 1,
+      "positiveRatio": 0.8,
+      "negativeRatio": 0.2,
+      "bestPositiveComment": {
+        "comment": "Harika bir ürün. Üzerimde yokmuş gibi bir his çok rahat. Kaliteli. Tam beden. Paçaları uzun sadece oda yapılır zaten hiç önemli değil. Aşırı rahat bir parça. Bayılırsınız.",
+        "rate": 5,
+        "sentimentScore": 8
+      },
+      "strongestNegativeComment": {
+        "comment": "Sevgili Oysho size iade olarak gelen ürünün, incelemesi yapılmadan otomatik olarak para iadesi yapmışsınız fakat kargo firması verilen iki kargonun kodlarını karıştırdığı için para iadesi yaptığınız ürün size ait bir ürün değil mango firmasına ait bir üründür. Umuyorum en kısa sürede bu yanlışlığı düzeltip bir çözüme kavusturursunuz. Bilginize",
+        "rate": 1,
+        "sentimentScore": -6
+      }
+    }
+  ],
+  "strengths": [
+    {
+      "aspect": "malzeme-kalite",
+      "mentions": 190,
+      "positiveRatio": 0.916,
+      "example": {
+        "comment": "Çok kaliteli. Kumaşı çok güzel. OYSHO OYSHO OYSHO HARİKASIN SÜPERSİN",
+        "rate": 5,
+        "sentimentScore": 12
+      }
+    },
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 43,
+      "positiveRatio": 0.628,
+      "example": {
+        "comment": "hediye aldı erkek arkadaşım o kadar memnunum ki utanmasam her gün giyerim. nöbetletimde hep tercih ediyorum çok rahat ve kalıbı çok güzel oysho farkı gerçekten bu fiyat değil 2 katı olsa yine alınır o kadar güzel bi tayt",
+        "rate": 5,
+        "sentimentScore": 9
+      }
+    },
+    {
+      "aspect": "performans",
+      "mentions": 22,
+      "positiveRatio": 0.955,
+      "example": {
+        "comment": "L beden aldım. Hafif beli bol geldi ama yine olur. M de olabilirmiş çok begendim tavsiye ederim. Paketlemeyı de begendim . Kargo da hızlı",
+        "rate": 5,
+        "sentimentScore": 13
+      }
+    }
+  ],
+  "weaknesses": [
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 43,
+      "negativeRatio": 0.233,
+      "example": {
+        "comment": "Ürünün 83 polyester olduğunu aldıktan sonra fark ettim bu fiyata değmediğini düşünüyorum. Polyester ürün bildiğin plastik kokuyor ayrıca giydikten sonra da elektriklenip vücuda yapıyor rahatsız edici bir his bilen bilir maalesef iade",
+        "rate": 1,
+        "sentimentScore": -6
+      }
+    },
+    {
+      "aspect": "kargo",
+      "mentions": 37,
+      "negativeRatio": 0.324,
+      "example": {
+        "comment": "En uzun boyu gönderilmiş, boy seçilememesi çok kötü. İade etmek zorunda kaldım.",
+        "rate": 1,
+        "sentimentScore": -12
+      }
+    },
+    {
+      "aspect": "ekran",
+      "mentions": 5,
+      "negativeRatio": 0.2,
+      "example": {
+        "comment": "ürün çok ince sıkı bir görüntü oluşturmuyor iadeye gönderdim iade işlemi çok uzun sürdü firma aynı zamanda çok ilgisizdi mesajlara cevap vermiyor bile",
+        "rate": 1,
+        "sentimentScore": -6
+      }
+    },
+    {
+      "aspect": "batarya",
+      "mentions": 5,
+      "negativeRatio": 0.2,
+      "example": {
+        "comment": "Sevgili Oysho size iade olarak gelen ürünün, incelemesi yapılmadan otomatik olarak para iadesi yapmışsınız fakat kargo firması verilen iki kargonun kodlarını karıştırdığı için para iadesi yaptığınız ürün size ait bir ürün değil mango firmasına ait bir üründür. Umuyorum en kısa sürede bu yanlışlığı düzeltip bir çözüme kavusturursunuz. Bilginize",
+        "rate": 1,
+        "sentimentScore": -6
+      }
+    }
+  ],
+  "samplePositiveReviews": [
+    {
+      "comment": "Gayet güzel ve şık duruyor, 1.62 boy 55 kg a s beden tam oldu , popoyu da çok güzel gösteriyor , beğendim ve tavsiye ederim",
+      "rate": 5,
+      "sentimentScore": 18
+    },
+    {
+      "comment": "L beden aldım. Hafif beli bol geldi ama yine olur. M de olabilirmiş çok begendim tavsiye ederim. Paketlemeyı de begendim . Kargo da hızlı",
+      "rate": 5,
+      "sentimentScore": 13
+    },
+    {
+      "comment": "Çok beğendim çok rahat iyiki almışım herkese tavsiye ederim",
+      "rate": 5,
+      "sentimentScore": 13
+    }
+  ],
+  "sampleNegativeReviews": [
+    {
+      "comment": "En uzun boyu gönderilmiş, boy seçilememesi çok kötü. İade etmek zorunda kaldım.",
+      "rate": 1,
+      "sentimentScore": -12
+    },
+    {
+      "comment": "Ağ kısmı çok kötü gösteriyor iade",
+      "rate": 2,
+      "sentimentScore": -11
+    },
+    {
+      "comment": "Öne çıksın diye kötü yapıyorum, iade sürecini kaçırdım elimde kaldı üstüne dolapta da satamıyorum geçersiz sipariş numarası diyor. Ayrıca 63 kilo olmama rağmen S beden büyük geldi",
+      "rate": 1,
+      "sentimentScore": -8
+    }
+  ],
+  "generalEvaluation": "Urun, tasarim ve malzeme hissi, fiyat/performans dengesi ve gunluk kullanim performansi ile kullanicilar tarafindan genel olarak olumlu degerlendirilmistir. Ozellikle fiyat/performans odakli alisveris ve ofis ve temel isler icin yeterli ve tercih edilebilir bir secenek oldugu belirtilmistir. Toplam puanlamalarda da bu tablo desteklenmektedir; 4-5 yildiz orani %85.88, 1-2 yildiz orani ise %7.62 seviyesindedir. Bununla birlikte bazi kullanicilar fiyat dengesine dair beklentiler, teslimat sureci, ekran kalitesi ve sarj suresi konusunda elestirilerde bulunmustur. 936 kullanicinin sadece puan verip yorum birakmamasi, genel memnuniyetin yorum yazan kullanicilarla sinirli olmadigini da gostermektedir. Genel olarak urunun fiyat ve performans dengesi tatmin edici bulunsa da, bazi teknik ve donanimsal detaylarda iyilestirme beklentisi oldugu gorulmektedir.",
+  "displaySummary": "Urunun genel resmi olumlu: toplam degerlendirmelerin %85.88 kadari 4-5 yildiz, yalnizca %7.62 kadari 1-2 yildiz seviyesinde. Yazili yorumlarda en guclu taraf olarak tasarim ve malzeme hissi, fiyat/performans dengesi ve gunluk kullanim performansi one cikmaktadir. Zayif tarafta ise kullanicilar en cok fiyat dengesine dair beklentiler ve teslimat sureci konusunda elestiri getirmektedir. Ayrica 936 kullanicinin sadece puan verip yorum birakmamasi, toplam memnuniyetin yorum yazan kitleyle sinirli olmadigini da gosteriyor; Trendyol etiketlerinde Beden Bilgisi, Rahatlık, Kumaş Kalitesi, İade basliklari one cikiyor. Kisacasi urun, tasarim ve malzeme hissi arayan kullanicilar icin mantikli bir tercih; ancak satin almadan once fiyat dengesine dair beklentiler tarafindaki beklentiyi dogru ayarlamak gerekiyor."
+}

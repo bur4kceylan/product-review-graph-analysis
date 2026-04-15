@@ -1,0 +1,205 @@
+{
+  "productUrl": "https://www.trendyol.com/petlas/205-55-r16-91v-multi-action-pt565-oto-4-mevsim-lastigi-uretim-yili-2025-p-897494241?boutiqueId=61&merchantId=203775",
+  "contentId": "897494241",
+  "fetchedAt": "2026-04-09T11:10:11.908Z",
+  "sourceSummary": {
+    "averageRating": 4.6,
+    "averageRatingFixed": "4.6",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 15,
+    "totalCommentCount": 8,
+    "totalPages": 1,
+    "hasMediaFiles": false,
+    "totalImageReviewCount": 0,
+    "productSizes": [],
+    "heightTags": [],
+    "weightTags": [],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 12
+      },
+      {
+        "rate": 4,
+        "count": 2
+      },
+      {
+        "rate": 3,
+        "count": 0
+      },
+      {
+        "rate": 2,
+        "count": 0
+      },
+      {
+        "rate": 1,
+        "count": 1
+      }
+    ],
+    "tags": []
+  },
+  "sourceAiSummary": null,
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-897494241.raw.json",
+  "stats": {
+    "rawReviewCount": 8,
+    "processedReviewCount": 8,
+    "duplicateCount": 0,
+    "droppedShortCount": 0,
+    "droppedEmptyCount": 0
+  },
+  "reviews": [
+    {
+      "reviewId": "897494241-1",
+      "comment": "4 takım almıştım sitepne içinde aldım",
+      "normalizedComment": "4 takım almıştım sitepne içinde aldım",
+      "rate": 4,
+      "createdAt": 1747725278641,
+      "tokens": [
+        "takım",
+        "almıştım",
+        "sitepne",
+        "içinde",
+        "aldım"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "897494241-2",
+      "comment": "Lastikler geldi gerçekten tarihleri yeni satıcıya ve trendyola çok teşekkür ediyorum güvenle alabilirsiniz. Fiyat konusunda da gayet memnunum",
+      "normalizedComment": "lastikler geldi gerçekten tarihleri yeni satıcıya ve trendyola çok teşekkür ediyorum güvenle alabilirsiniz fiyat konusunda da gayet memnunum",
+      "rate": 5,
+      "createdAt": 1767303921660,
+      "tokens": [
+        "lastikler",
+        "geldi",
+        "gerçekten",
+        "tarihleri",
+        "yeni",
+        "satıcıya",
+        "trendyola",
+        "teşekkür",
+        "ediyorum",
+        "güvenle",
+        "alabilirsiniz",
+        "fiyat",
+        "konusunda",
+        "gayet",
+        "memnunum"
+      ],
+      "tokenCount": 15
+    },
+    {
+      "reviewId": "897494241-3",
+      "comment": "ürün gorseldeki gibi ve tahmini teslimattan önce geldi tşkl.",
+      "normalizedComment": "ürün gorseldeki gibi ve tahmini teslimattan önce geldi tşkl",
+      "rate": 5,
+      "createdAt": 1742244345727,
+      "tokens": [
+        "ürün",
+        "gorseldeki",
+        "tahmini",
+        "teslimattan",
+        "önce",
+        "geldi",
+        "tşkl"
+      ],
+      "tokenCount": 7
+    },
+    {
+      "reviewId": "897494241-4",
+      "comment": "lastikler açıklamada belirtildiği gibi yeni tarihli.gayet güzel.fiyatida uygun.ben beğendim.",
+      "normalizedComment": "lastikler açıklamada belirtildiği gibi yeni tarihli gayet güzel fiyatida uygun ben beğendim",
+      "rate": 5,
+      "createdAt": 1771692199337,
+      "tokens": [
+        "lastikler",
+        "açıklamada",
+        "belirtildiği",
+        "yeni",
+        "tarihli",
+        "gayet",
+        "güzel",
+        "fiyatida",
+        "uygun",
+        "beğendim"
+      ],
+      "tokenCount": 10
+    },
+    {
+      "reviewId": "897494241-5",
+      "comment": "Çok kaliteli",
+      "normalizedComment": "çok kaliteli",
+      "rate": 5,
+      "createdAt": 1764631512527,
+      "tokens": [
+        "kaliteli"
+      ],
+      "tokenCount": 1
+    },
+    {
+      "reviewId": "897494241-6",
+      "comment": "düşünmeden alabilirsiniz teşekkür ediyorum",
+      "normalizedComment": "düşünmeden alabilirsiniz teşekkür ediyorum",
+      "rate": 5,
+      "createdAt": 1775379734865,
+      "tokens": [
+        "düşünmeden",
+        "alabilirsiniz",
+        "teşekkür",
+        "ediyorum"
+      ],
+      "tokenCount": 4
+    },
+    {
+      "reviewId": "897494241-7",
+      "comment": "Çok güzelbeyendimmmm",
+      "normalizedComment": "çok güzelbeyendimmmm",
+      "rate": 5,
+      "createdAt": 1766759376649,
+      "tokens": [
+        "güzelbeyendimmmm"
+      ],
+      "tokenCount": 1
+    },
+    {
+      "reviewId": "897494241-8",
+      "comment": "Ürün güzel ben aldıktan sonra 800 indirime girdi keşle almadan önce düşseydi fiyatı 800 4 lastikte zarar ettim bir puan oradan kırdım ama lastik kalite ve yıl güzel satıcı ilgili hızlı kargo",
+      "normalizedComment": "ürün güzel ben aldıktan sonra 800 indirime girdi keşle almadan önce düşseydi fiyatı 800 4 lastikte zarar ettim bir puan oradan kırdım ama lastik kalite ve yıl güzel satıcı ilgili hızlı kargo",
+      "rate": 4,
+      "createdAt": 1770925511706,
+      "tokens": [
+        "ürün",
+        "güzel",
+        "aldıktan",
+        "sonra",
+        "indirime",
+        "girdi",
+        "keşle",
+        "almadan",
+        "önce",
+        "düşseydi",
+        "fiyatı",
+        "lastikte",
+        "zarar",
+        "ettim",
+        "puan",
+        "oradan",
+        "kırdım",
+        "lastik",
+        "kalite",
+        "yıl",
+        "güzel",
+        "satıcı",
+        "ilgili",
+        "hızlı",
+        "kargo"
+      ],
+      "tokenCount": 25
+    }
+  ]
+}

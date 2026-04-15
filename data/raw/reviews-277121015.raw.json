@@ -1,0 +1,424 @@
+{
+  "productUrl": "https://www.trendyol.com/new-balance/unisex-ayakkabi-mr530sg-p-277121015?boutiqueId=61&merchantId=798447",
+  "contentId": "277121015",
+  "totalReviews": 52,
+  "fetchedAt": "2026-04-15T13:08:51.460Z",
+  "sourceSummary": {
+    "averageRating": 4.3,
+    "averageRatingFixed": "4.3",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 382,
+    "totalCommentCount": 52,
+    "totalPages": 3,
+    "hasMediaFiles": true,
+    "totalImageReviewCount": 22,
+    "productSizes": [
+      {
+        "name": "38",
+        "count": 6
+      },
+      {
+        "name": "37,5",
+        "count": 8
+      },
+      {
+        "name": "38,5",
+        "count": 7
+      },
+      {
+        "name": "39,5",
+        "count": 6
+      },
+      {
+        "name": "37",
+        "count": 3
+      },
+      {
+        "name": "36",
+        "count": 5
+      },
+      {
+        "name": "40",
+        "count": 2
+      },
+      {
+        "name": "40,5",
+        "count": 1
+      },
+      {
+        "name": "39",
+        "count": 2
+      },
+      {
+        "name": "41,5",
+        "count": 2
+      }
+    ],
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/30/30/mobile/reviewrating/kamera-emoji6x.png",
+    "heightTags": [
+      {
+        "name": "<150",
+        "count": 1
+      },
+      {
+        "name": "161-170",
+        "count": 1
+      }
+    ],
+    "weightTags": [
+      {
+        "name": "<50",
+        "count": 1
+      },
+      {
+        "name": "71-80",
+        "count": 1
+      }
+    ],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 293
+      },
+      {
+        "rate": 4,
+        "count": 20
+      },
+      {
+        "rate": 3,
+        "count": 18
+      },
+      {
+        "rate": 2,
+        "count": 5
+      },
+      {
+        "rate": 1,
+        "count": 46
+      }
+    ],
+    "tags": [
+      {
+        "name": "tümü",
+        "count": 52
+      },
+      {
+        "name": "fotoğraflı",
+        "count": 22,
+        "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png"
+      },
+      {
+        "name": "Orijinallik",
+        "count": 26
+      },
+      {
+        "name": "Rahatlık",
+        "count": 7,
+        "sentiment": {
+          "positive": 7,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Beden Bilgisi",
+        "count": 10
+      },
+      {
+        "name": "Kalite",
+        "count": 1
+      },
+      {
+        "name": "Ağırlık",
+        "count": 2
+      },
+      {
+        "name": "Fiyat",
+        "count": 4
+      },
+      {
+        "name": "Teslimat Süresi",
+        "count": 3,
+        "sentiment": {
+          "positive": 3,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Farklı/Aynı Ürün",
+        "count": 2
+      },
+      {
+        "name": "İade",
+        "count": 5
+      }
+    ]
+  },
+  "sourceAiSummary": "• Ürün genellikle rahat ve konforlu olarak değerlendiriliyor.\n• Birçok kullanıcı, ayakkabının orijinal olup olmadığı konusunda şüphelerini dile getiriyor.\n• Ayakkabının kalıbının dar olduğu ve yarım veya bir numara büyük alınmasının tavsiye edildiği belirtiliyor.\n• Bazı müşteriler, ürünün ambalajının özensiz veya hasarlı geldiğini ifade ediyor.\n• Satıcıyla iletişimde sorunlar yaşandığı ve kargo süreciyle ilgili gecikmelerin olduğu bildiriliyor.",
+  "reviews": [
+    {
+      "comment": "QR okuyor ürün orijinal arkadaşlar geldiği gibi kullandım çok rahat ve hafif bir ayakkabı tavsiye ederim gayet güzel de paketlenmişti hızlı elime ulaştı teşekkür ediyorum 💕",
+      "rate": 5,
+      "createdAt": 1773786976533
+    },
+    {
+      "comment": "Teşekkür ederim çok kulllanışlı ve çok rahat acayip güzel😊😘",
+      "rate": 5,
+      "createdAt": 1768634785316
+    },
+    {
+      "comment": "on numara rahat ayakkabı  tavsiye ederim",
+      "rate": 5,
+      "createdAt": 1727283156083
+    },
+    {
+      "comment": "Fotoğraftaki gibiydi beğendik",
+      "rate": 5,
+      "createdAt": 1745824165298
+    },
+    {
+      "comment": "Çok rahat bir ayakkabı çok beğendim hızlı kargo için firmaya teşekkür ederim",
+      "rate": 4,
+      "createdAt": 1733461277579
+    },
+    {
+      "comment": "korayspor satıcısından aldım hızlı teslimat orijinal ürün.hafif dar kalıp bir ayakkabı yarım numara buyuk alınabilir.çok hafif cok rahat ayrıca cok şık bir ayakkabı",
+      "rate": 5,
+      "createdAt": 1758207151968
+    },
+    {
+      "comment": "Ürün ve paketleme gayet iyi teşekkür ederim",
+      "rate": 5,
+      "createdAt": 1775202900053
+    },
+    {
+      "comment": "Eşime aldım çok beğenerek giyiyor",
+      "rate": 5,
+      "createdAt": 1761198428920
+    },
+    {
+      "comment": "çok beğendik eşime aldım orjinal barkod okuttuk teşekkürler korayspor",
+      "rate": 5,
+      "createdAt": 1765387570255
+    },
+    {
+      "comment": "Hem rahat hem kıyafetlere uygun. Kesin alın derim",
+      "rate": 5,
+      "createdAt": 1769332066132
+    },
+    {
+      "comment": "Çok güzel memnun kaldım 1 numara büyük alınabilir",
+      "rate": 5,
+      "createdAt": 1775565038692
+    },
+    {
+      "comment": "Urun orjınal cok guzel ve rahttı numara buyuk geldıgı ıcın ıade etmek zorunda kaldım",
+      "rate": 5,
+      "createdAt": 1775051414099
+    },
+    {
+      "comment": "3 farklı mağaza deneyimi hüsranla sonuçlandıktan sonra nihayet ürünü orjinal ve sorunsuz bir şekilde satın alabildik. satıcı arkadaşımıza teşekkür ederim.",
+      "rate": 5,
+      "createdAt": 1765024116706
+    },
+    {
+      "comment": "Çok güzel herkes bir numara büyük demiş ben 40.5 aldım bol geldi iade edip 40 nosunu alıcam",
+      "rate": 5,
+      "createdAt": 1774622266332
+    },
+    {
+      "comment": "ürün güzel orijinal satıcıda çok ilgili numara büyük geldiği için iade etmek zorunda kaldım",
+      "rate": 5,
+      "createdAt": 1745242910942
+    },
+    {
+      "comment": "Kalıbı büyük çok beğenmeme rağmen iade etmek zorunda kaldım",
+      "rate": 5,
+      "createdAt": 1711007678140
+    },
+    {
+      "comment": "mükemmel teşekkürler",
+      "rate": 5,
+      "createdAt": 1735506250964
+    },
+    {
+      "comment": "Çok iyi beğendim",
+      "rate": 3,
+      "createdAt": 1744866523160
+    },
+    {
+      "comment": "Beden uymadığı için iade ettim, bir beden büyük alın kalıp dar",
+      "rate": 5,
+      "createdAt": 1691079817333
+    },
+    {
+      "comment": "beğendim çok güzel. Giydikçe daha iyi yorum yapılır aslında",
+      "rate": 5,
+      "createdAt": 1774170089876
+    },
+    {
+      "comment": "arkadaşlar ürün orijinal ayakta yok gibi rahat bir ürün boyu 4-5 cm uzatıyor . ama bana yarım numaradan daha az olacak şekilde büyük geldi 39 numarası da küçük gelir gibi açılır gibi de durmuyor giydikçe formunu korur aslında böyle olması iyi ama iade edip etmemeye karar veremedim. kargo tertemiz ve hızlı geldi",
+      "rate": 5,
+      "createdAt": 1774981994911
+    },
+    {
+      "comment": "iyi kalitesi beyendim",
+      "rate": 5,
+      "createdAt": 1718113745731
+    },
+    {
+      "comment": "çok beğendim",
+      "rate": 5,
+      "createdAt": 1768303629924
+    },
+    {
+      "comment": "çok güzel ayağımda sanki yokmuş gibi",
+      "rate": 5,
+      "createdAt": 1715426658238
+    },
+    {
+      "comment": "Rahat güzel ayakkabı. Hızlı gönderi yapılıyor.",
+      "rate": 5,
+      "createdAt": 1759758991786
+    },
+    {
+      "comment": "Barkod numarasıyla kontrol ettirdim orijinal ürün.",
+      "rate": 5,
+      "createdAt": 1692431569644
+    },
+    {
+      "comment": "ayakkabı çok rahat  ayak agrısı yapmıyor hiç orjinal ürün",
+      "rate": 5,
+      "createdAt": 1774546298061
+    },
+    {
+      "comment": "Barkod okuttum new balance çıkmıyor çok üzüldüm oijinal figatına sahte ürün almış olmak istemiyorum satıcıdan bilgi bekliyorum",
+      "rate": 1,
+      "createdAt": 1735803153851
+    },
+    {
+      "comment": "Orijinal ürün göndermiyorlar barkod okumuyor iadede kabul etmiyorlar kesinlikle almayın, barkod gerçek bir karekod değil",
+      "rate": 1,
+      "createdAt": 1771493463099
+    },
+    {
+      "comment": "Ürün orijinal mi bilemedim ama tabanını deri arasında ton farkı var sebebini bilen var mı? kullanımı rahat gibi giyince tekrar yorumumu guncellerim , eğer satıcı yorumumu okuyor ise lütfen bana yardımcı olsun",
+      "rate": 5,
+      "createdAt": 1729613332559
+    },
+    {
+      "comment": "Ürünü Dila Ketenci linkiyle metro marketten aldım.Kendisinin Tavsiyelerini çok beğenirim fakat lütfen orjinalliğinden emin olmadığınız ürünleri linklemeyin ya.Metro Türkiye diyor ama bence çok şüpheli.Ürünü hem hatalı hemde orjinal değil.Kesinlikle tavsiye etmiyorum",
+      "rate": 5,
+      "createdAt": 1773249717046
+    },
+    {
+      "comment": "Ürünü 39 numara istedim 39.5 gönderdiler mağdur ettiler ürünü iade ediyorum hiç bir şekilde memnun kalmadım",
+      "rate": 1,
+      "createdAt": 1760622841338
+    },
+    {
+      "comment": "ürünün orjinallikle bir alakası yoktu geri iade ettim almayın aldırmayın",
+      "rate": 1,
+      "createdAt": 1764162217090
+    },
+    {
+      "comment": "Ürün orjinal yarım numara büyük alınmalı",
+      "rate": 5,
+      "createdAt": 1747942554448
+    },
+    {
+      "comment": "Ürün güzel ama büyük geldi",
+      "rate": 3,
+      "createdAt": 1746770334041
+    },
+    {
+      "comment": "ayağıma küçük geldi ayrıca orijinal değil",
+      "rate": 1,
+      "createdAt": 1692189454266
+    },
+    {
+      "comment": "Arkadaşlar öncelikle Allah herkese atanıp kendi parasıyla hayallerindeki ayakkabıyı almayı nasip etsin çok şükür bana nasip oldu 👍 ayakkabıya gelecek olursak ayağım 38.5 buna dayanarak 39 söyledim onlarda bana 39/2 yollamışlar ahahha ayağıma çok rahat oldu hafifte büyük kaldı ama değiştirmem bir başka mevzuda ürün orjinal mi anlamadım orjinallik tespit talebinde bulundum müşteri hizmetlerinden sahteyse yorumu güncellerim",
+      "rate": 5,
+      "createdAt": 1734638475915
+    },
+    {
+      "comment": "Ürün orjinal değil,barkod resmini bırakıyorum,ona göre alın.",
+      "rate": 1,
+      "createdAt": 1764412611378
+    },
+    {
+      "comment": "Bu nasıl Metro market anlamadım. 12 bin küsür para verdim hem kendime hem eşime aldım. Kargo kutusunu sanki parçalamışlar . İç etiketteki barkod açılmıyor . Orijinal mi değil mi belli değil fatura vs çıkmadı içinden gönderenin Metro olduğuna dair .O kadar para verip peşine de koşturmak istiyorsanız alın .",
+      "rate": 1,
+      "createdAt": 1772905050659
+    },
+    {
+      "comment": "Bu ayakkabı da aynı şekilde çok özensiz yırtık kutu ile geldi ayrıca içinde fatura falan yoktu",
+      "rate": 1,
+      "createdAt": 1775055091120
+    },
+    {
+      "comment": "Ürün orjinal değil kuar kodunu okumuyor hayal kırıklığı 🫤",
+      "rate": 1,
+      "createdAt": 1694077413911
+    },
+    {
+      "comment": "Ürünün  qr kodu okunmuyor. Orijinal olduğuna dair hiç bir şey yok. Bu kadar para ödeyip buradan alacağınıza orijinalliğine güvendiğiniz bir yerden alabilirsiniz.",
+      "rate": 1,
+      "createdAt": 1772539672876
+    },
+    {
+      "comment": "bu paraya degecek bir model oldugunu dusunmuyorum file yerleri cok ince sanki dayaniksiz gibi saticiyla alakasi yok bence new balance bu modelini iyi yapamamis",
+      "rate": 4,
+      "createdAt": 1773432834813
+    },
+    {
+      "comment": "Ürün neden orijinal değil okadar para ödedim",
+      "rate": 1,
+      "createdAt": 1734624781350
+    },
+    {
+      "comment": "Ürün kesınlıkle orjinal degıl yazık bu kadar paramıza ya güvenerek alıyoruz  bır geldı işcılık yapıskanlı bölümü her an acılacak gıbı yazık resmen kandırmaca orjinal asla degıl",
+      "rate": 1,
+      "createdAt": 1692215014388
+    },
+    {
+      "comment": "Ürün sahte çıktı",
+      "rate": 1,
+      "createdAt": 1712066664771
+    },
+    {
+      "comment": "Bu kadar para verip bir ürün alıyoruz orjinal deniliyor ama yeni aldığım ürünün kutusu bu şaka heralde kutunun içindeki kağıt bile yırtık neden ve  nasıl bileceğim orjinal olduğunu ikinci elden alsam bu kutuya koymaz çünkü",
+      "rate": 2,
+      "createdAt": 1771519049762
+    },
+    {
+      "comment": "ayakkabi orjinal değil",
+      "rate": 1,
+      "createdAt": 1746201176507
+    },
+    {
+      "comment": "Ürün yürürken hışırtı çıkarıyor",
+      "rate": 2,
+      "createdAt": 1745918040013
+    },
+    {
+      "comment": "Çakma kalitesiz.",
+      "rate": 1,
+      "createdAt": 1761207992114
+    },
+    {
+      "comment": "Güzel değil",
+      "rate": 1,
+      "createdAt": 1742029895372
+    },
+    {
+      "comment": "Aynı ayakkabı 1 hafta olmadan fiyatı nasıl yarıya düştü anlamadım 6500₺ aldım şuan 3bin küsur 🤦🏻‍♀️",
+      "rate": 5,
+      "createdAt": 1751559630015
+    }
+  ]
+}

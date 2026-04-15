@@ -1,0 +1,23 @@
+{
+  "name": "vericekmebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch-trendyol-reviews.js",
+  "scripts": {
+    "start": "node fetch-trendyol-reviews.js",
+    "fetch": "node fetch-trendyol-reviews.js",
+    "clean": "node clean-reviews.js",
+    "analyze": "node analyze-reviews.js",
+    "pipeline": "node run-pipeline.js",
+    "dashboard": "node preview-dashboard.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.14.0",
+    "playwright": "^1.59.1"
+  }
+}

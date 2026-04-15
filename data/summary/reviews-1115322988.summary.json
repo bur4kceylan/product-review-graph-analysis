@@ -1,0 +1,69 @@
+{
+  "productUrl": "https://www.trendyol.com/new-balance/unisex-sneaker-spor-ayakkabi-26y-ml565-kahve-p-1115322988?boutiqueId=61&merchantId=116520",
+  "contentId": "1115322988",
+  "generatedAt": "2026-04-15T14:06:14.025Z",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-1115322988.raw.json",
+  "sourceAiSummary": null,
+  "sourceSummary": {
+    "averageRating": 0,
+    "averageRatingFixed": "0.0",
+    "countries": [],
+    "totalRatingCount": 0,
+    "totalCommentCount": 0,
+    "totalPages": 0,
+    "hasMediaFiles": false,
+    "totalImageReviewCount": 0,
+    "productSizes": [],
+    "heightTags": [],
+    "weightTags": [],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 0
+      },
+      {
+        "rate": 4,
+        "count": 0
+      },
+      {
+        "rate": 3,
+        "count": 0
+      },
+      {
+        "rate": 2,
+        "count": 0
+      },
+      {
+        "rate": 1,
+        "count": 0
+      }
+    ],
+    "tags": []
+  },
+  "totalReviews": 0,
+  "averageRating": 0,
+  "confidenceScore": 0,
+  "headline": "Genel algi olumlu olsa da urunle ilgili karisik sinyaller de var.",
+  "sentiment": {
+    "positive": 0,
+    "neutral": 0,
+    "negative": 0
+  },
+  "sentimentPercentages": {
+    "positive": 0,
+    "neutral": 0,
+    "negative": 0
+  },
+  "sourceTags": [],
+  "ratingBreakdown": null,
+  "commentCoverage": null,
+  "topKeywords": [],
+  "topPhrases": [],
+  "aspects": [],
+  "strengths": [],
+  "weaknesses": [],
+  "samplePositiveReviews": [],
+  "sampleNegativeReviews": [],
+  "generalEvaluation": "Urun, kullanicilar tarafindan genel olarak olumlu degerlendirilmistir. Genel olarak urunun fiyat ve performans dengesi kullanicilarin buyuk bolumu tarafindan tatmin edici bulunmaktadir.",
+  "displaySummary": "Urun, kullanici yorumlarinda genel olarak olumlu bir tablo ortaya koymaktadir. Yorumlarda urunun gunluk kullanim ihtiyaclarini karsilamasi olumlu bir nokta olarak one cikmaktadir. Olumsuz yorumlar sinirli olsa da bazi kullanicilar belirli kullanim senaryolarinda gelistirme beklentisi dile getirmektedir. Genel olarak urun, guclu yonleri one ciksa da satin alma kararinda beklentilerin dikkatle degerlendirilmesini gerektiren bir secenek olarak gorunmektedir."
+}

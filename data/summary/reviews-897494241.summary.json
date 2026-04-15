@@ -1,0 +1,296 @@
+{
+  "productUrl": "https://www.trendyol.com/petlas/205-55-r16-91v-multi-action-pt565-oto-4-mevsim-lastigi-uretim-yili-2025-p-897494241?boutiqueId=61&merchantId=203775",
+  "contentId": "897494241",
+  "generatedAt": "2026-04-09T11:10:13.405Z",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-897494241.raw.json",
+  "sourceAiSummary": null,
+  "sourceSummary": {
+    "averageRating": 4.6,
+    "averageRatingFixed": "4.6",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 15,
+    "totalCommentCount": 8,
+    "totalPages": 1,
+    "hasMediaFiles": false,
+    "totalImageReviewCount": 0,
+    "productSizes": [],
+    "heightTags": [],
+    "weightTags": [],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 12
+      },
+      {
+        "rate": 4,
+        "count": 2
+      },
+      {
+        "rate": 3,
+        "count": 0
+      },
+      {
+        "rate": 2,
+        "count": 0
+      },
+      {
+        "rate": 1,
+        "count": 1
+      }
+    ],
+    "tags": []
+  },
+  "totalReviews": 8,
+  "averageRating": 4.75,
+  "confidenceScore": 42,
+  "headline": "Toplam puanlama tarafi guclu; yazili yorumlar da genel memnuniyeti destekliyor.",
+  "sentiment": {
+    "positive": 8,
+    "neutral": 0,
+    "negative": 0
+  },
+  "sentimentPercentages": {
+    "positive": 100,
+    "neutral": 0,
+    "negative": 0
+  },
+  "sourceTags": [],
+  "ratingBreakdown": {
+    "totalRatings": 15,
+    "positiveCount": 14,
+    "neutralCount": 0,
+    "negativeCount": 1,
+    "positivePercent": 93.33,
+    "neutralPercent": 0,
+    "negativePercent": 6.67,
+    "fiveStarPercent": 80,
+    "oneStarPercent": 6.67
+  },
+  "commentCoverage": {
+    "totalRatingCount": 15,
+    "totalCommentCount": 8,
+    "ratingsWithoutComment": 7,
+    "commentCoveragePercent": 53.33
+  },
+  "topKeywords": [
+    {
+      "value": "guzel",
+      "count": 3
+    },
+    {
+      "value": "lastikler",
+      "count": 2
+    },
+    {
+      "value": "geldi",
+      "count": 2
+    },
+    {
+      "value": "yeni",
+      "count": 2
+    },
+    {
+      "value": "tesekkur",
+      "count": 2
+    },
+    {
+      "value": "ediyorum",
+      "count": 2
+    },
+    {
+      "value": "alabilirsiniz",
+      "count": 2
+    },
+    {
+      "value": "gayet",
+      "count": 2
+    },
+    {
+      "value": "urun",
+      "count": 2
+    },
+    {
+      "value": "once",
+      "count": 2
+    },
+    {
+      "value": "takim",
+      "count": 1
+    },
+    {
+      "value": "almistim",
+      "count": 1
+    },
+    {
+      "value": "sitepne",
+      "count": 1
+    },
+    {
+      "value": "icinde",
+      "count": 1
+    },
+    {
+      "value": "aldim",
+      "count": 1
+    },
+    {
+      "value": "gercekten",
+      "count": 1
+    },
+    {
+      "value": "tarihleri",
+      "count": 1
+    },
+    {
+      "value": "saticiya",
+      "count": 1
+    },
+    {
+      "value": "trendyola",
+      "count": 1
+    },
+    {
+      "value": "guvenle",
+      "count": 1
+    }
+  ],
+  "topPhrases": [
+    {
+      "value": "tesekkur ediyorum",
+      "count": 2
+    },
+    {
+      "value": "takim almistim",
+      "count": 1
+    },
+    {
+      "value": "almistim sitepne",
+      "count": 1
+    },
+    {
+      "value": "sitepne icinde",
+      "count": 1
+    },
+    {
+      "value": "icinde aldim",
+      "count": 1
+    },
+    {
+      "value": "lastikler geldi",
+      "count": 1
+    },
+    {
+      "value": "geldi gercekten",
+      "count": 1
+    },
+    {
+      "value": "gercekten tarihleri",
+      "count": 1
+    },
+    {
+      "value": "tarihleri yeni",
+      "count": 1
+    },
+    {
+      "value": "yeni saticiya",
+      "count": 1
+    },
+    {
+      "value": "saticiya trendyola",
+      "count": 1
+    },
+    {
+      "value": "trendyola tesekkur",
+      "count": 1
+    }
+  ],
+  "aspects": [
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 3,
+      "positive": 3,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "lastikler açıklamada belirtildiği gibi yeni tarihli.gayet güzel.fiyatida uygun.ben beğendim.",
+        "rate": 5,
+        "sentimentScore": 11
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "kargo",
+      "mentions": 2,
+      "positive": 2,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Ürün güzel ben aldıktan sonra 800 indirime girdi keşle almadan önce düşseydi fiyatı 800 4 lastikte zarar ettim bir puan oradan kırdım ama lastik kalite ve yıl güzel satıcı ilgili hızlı kargo",
+        "rate": 4,
+        "sentimentScore": 4
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "malzeme-kalite",
+      "mentions": 2,
+      "positive": 2,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Çok kaliteli",
+        "rate": 5,
+        "sentimentScore": 5
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "performans",
+      "mentions": 1,
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Ürün güzel ben aldıktan sonra 800 indirime girdi keşle almadan önce düşseydi fiyatı 800 4 lastikte zarar ettim bir puan oradan kırdım ama lastik kalite ve yıl güzel satıcı ilgili hızlı kargo",
+        "rate": 4,
+        "sentimentScore": 4
+      },
+      "strongestNegativeComment": null
+    }
+  ],
+  "strengths": [],
+  "weaknesses": [],
+  "samplePositiveReviews": [
+    {
+      "comment": "lastikler açıklamada belirtildiği gibi yeni tarihli.gayet güzel.fiyatida uygun.ben beğendim.",
+      "rate": 5,
+      "sentimentScore": 11
+    },
+    {
+      "comment": "Çok güzelbeyendimmmm",
+      "rate": 5,
+      "sentimentScore": 7
+    },
+    {
+      "comment": "Lastikler geldi gerçekten tarihleri yeni satıcıya ve trendyola çok teşekkür ediyorum güvenle alabilirsiniz. Fiyat konusunda da gayet memnunum",
+      "rate": 5,
+      "sentimentScore": 5
+    }
+  ],
+  "sampleNegativeReviews": [],
+  "generalEvaluation": "Urun, kullanicilar tarafindan genel olarak olumlu degerlendirilmistir. Toplam puanlamalarda da bu tablo desteklenmektedir; 4-5 yildiz orani %93.33, 1-2 yildiz orani ise %6.67 seviyesindedir. 7 kullanicinin sadece puan verip yorum birakmamasi, genel memnuniyetin yorum yazan kullanicilarla sinirli olmadigini da gostermektedir. Genel olarak urunun fiyat ve performans dengesi kullanicilarin buyuk bolumu tarafindan tatmin edici bulunmaktadir.",
+  "displaySummary": "Urunun genel resmi olumlu: toplam degerlendirmelerin %93.33 kadari 4-5 yildiz, yalnizca %6.67 kadari 1-2 yildiz seviyesinde. Yorumlarda urunun gunluk kullanim ihtiyaclarini karsilamasi olumlu bir nokta olarak one cikmaktadir. Olumsuz yorumlar sinirli olsa da bazi kullanicilar belirli kullanim senaryolarinda gelistirme beklentisi dile getirmektedir. Bu ozet, 15 toplam puanlama icindeki yorumlu bolum dikkate alinarak hazirlanmistir. Genel olarak urun, beklentiyi buyuk olcude karsilayan ve gunluk kullanim icin tercih edilebilecek bir secenek olarak degerlendirilmektedir."
+}

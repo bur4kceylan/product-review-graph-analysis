@@ -1,0 +1,387 @@
+{
+  "productUrl": "https://www.trendyol.com/hometech/alfa-620c-notebook-celeron-4ram-128gb-p-675847449?boutiqueId=61&merchantId=449692",
+  "contentId": "675847449",
+  "generatedAt": "2026-04-09T13:51:15.789Z",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-675847449.raw.json",
+  "sourceAiSummary": null,
+  "sourceSummary": {
+    "averageRating": 3.5,
+    "averageRatingFixed": "3.5",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 15,
+    "totalCommentCount": 10,
+    "totalPages": 1,
+    "hasMediaFiles": true,
+    "totalImageReviewCount": 3,
+    "productSizes": [],
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/30/30/mobile/reviewrating/kamera-emoji6x.png",
+    "heightTags": [],
+    "weightTags": [],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 5
+      },
+      {
+        "rate": 4,
+        "count": 5
+      },
+      {
+        "rate": 3,
+        "count": 1
+      },
+      {
+        "rate": 2,
+        "count": 0
+      },
+      {
+        "rate": 1,
+        "count": 4
+      }
+    ],
+    "tags": [
+      {
+        "name": "tümü",
+        "count": 10
+      },
+      {
+        "name": "fotoğraflı",
+        "count": 3,
+        "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png"
+      },
+      {
+        "name": "Fiyat",
+        "count": 4,
+        "sentiment": {
+          "positive": 4,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Ekran Özellikleri",
+        "count": 3
+      },
+      {
+        "name": "Çeyiz",
+        "count": 1
+      },
+      {
+        "name": "Paketleme",
+        "count": 1
+      }
+    ]
+  },
+  "totalReviews": 10,
+  "averageRating": 3,
+  "confidenceScore": 18,
+  "headline": "Yorumlarda urunle ilgili belirgin cekinceler bulunuyor.",
+  "sentiment": {
+    "positive": 4,
+    "neutral": 2,
+    "negative": 4
+  },
+  "sentimentPercentages": {
+    "positive": 40,
+    "neutral": 20,
+    "negative": 40
+  },
+  "sourceTags": [
+    {
+      "name": "Fiyat",
+      "count": 4,
+      "positive": 4,
+      "negative": 0,
+      "ratio": 100
+    },
+    {
+      "name": "Ekran Özellikleri",
+      "count": 3,
+      "positive": 0,
+      "negative": 0,
+      "ratio": null
+    },
+    {
+      "name": "Çeyiz",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "ratio": null
+    },
+    {
+      "name": "Paketleme",
+      "count": 1,
+      "positive": 0,
+      "negative": 0,
+      "ratio": null
+    }
+  ],
+  "ratingBreakdown": {
+    "totalRatings": 15,
+    "positiveCount": 10,
+    "neutralCount": 1,
+    "negativeCount": 4,
+    "positivePercent": 66.67,
+    "neutralPercent": 6.67,
+    "negativePercent": 26.67,
+    "fiveStarPercent": 33.33,
+    "oneStarPercent": 26.67
+  },
+  "commentCoverage": {
+    "totalRatingCount": 15,
+    "totalCommentCount": 10,
+    "ratingsWithoutComment": 5,
+    "commentCoveragePercent": 66.67
+  },
+  "topKeywords": [
+    {
+      "value": "ekran",
+      "count": 3
+    },
+    {
+      "value": "kotu",
+      "count": 3
+    },
+    {
+      "value": "gayet",
+      "count": 3
+    },
+    {
+      "value": "urunden",
+      "count": 2
+    },
+    {
+      "value": "memnun",
+      "count": 2
+    },
+    {
+      "value": "guzel",
+      "count": 2
+    },
+    {
+      "value": "gun",
+      "count": 2
+    },
+    {
+      "value": "sadece",
+      "count": 2
+    },
+    {
+      "value": "acilmiyor",
+      "count": 2
+    },
+    {
+      "value": "fiyatina",
+      "count": 2
+    },
+    {
+      "value": "gore",
+      "count": 2
+    },
+    {
+      "value": "bilgisayar",
+      "count": 2
+    },
+    {
+      "value": "bunu",
+      "count": 2
+    },
+    {
+      "value": "resmen",
+      "count": 2
+    },
+    {
+      "value": "geldi",
+      "count": 2
+    },
+    {
+      "value": "esim",
+      "count": 1
+    },
+    {
+      "value": "kendi",
+      "count": 1
+    },
+    {
+      "value": "isi",
+      "count": 1
+    },
+    {
+      "value": "aldi",
+      "count": 1
+    },
+    {
+      "value": "kaldi",
+      "count": 1
+    }
+  ],
+  "topPhrases": [
+    {
+      "value": "fiyatina gore",
+      "count": 2
+    },
+    {
+      "value": "kotu bilgisayar",
+      "count": 2
+    },
+    {
+      "value": "esim kendi",
+      "count": 1
+    },
+    {
+      "value": "kendi isi",
+      "count": 1
+    },
+    {
+      "value": "isi aldi",
+      "count": 1
+    },
+    {
+      "value": "aldi urunden",
+      "count": 1
+    },
+    {
+      "value": "urunden memnun",
+      "count": 1
+    },
+    {
+      "value": "memnun kaldi",
+      "count": 1
+    },
+    {
+      "value": "fiyat guzel",
+      "count": 1
+    },
+    {
+      "value": "urunu ogrenci",
+      "count": 1
+    },
+    {
+      "value": "ogrenci iseniz",
+      "count": 1
+    },
+    {
+      "value": "iseniz tercih",
+      "count": 1
+    }
+  ],
+  "aspects": [
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 4,
+      "positive": 4,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Ben gayet memnun kaldım üründen fiyatına göre iyi bence ancak hâlâ daha emin değilim bu mu yoksa alfa 420 c mi hangisi daha iyidi diye bunu sectim bakalim tesekkurler bu arada gayet guzel geldi paketleme filan gayet iyiydi",
+        "rate": 5,
+        "sentimentScore": 11
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "ekran",
+      "mentions": 4,
+      "positive": 0,
+      "neutral": 1,
+      "negative": 3,
+      "positiveRatio": 0,
+      "negativeRatio": 0.75,
+      "bestPositiveComment": null,
+      "strongestNegativeComment": {
+        "comment": "çok kötü bir bilgisayar kesinlikle tavsiye etmiyorum, aldığım gün sadece kapağını açmaya çalıştım ama ekranı kırıldı. Gördüğüm en kötü bilgisayar markası, muhatap bulamıyorsunuz ki durumu anlatalım",
+        "rate": 1,
+        "sentimentScore": -7
+      }
+    },
+    {
+      "aspect": "batarya",
+      "mentions": 1,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1,
+      "positiveRatio": 0,
+      "negativeRatio": 1,
+      "bestPositiveComment": null,
+      "strongestNegativeComment": {
+        "comment": "güncellemesi yapılmadığı için ekran kartı arıza ile karşılaştım",
+        "rate": 1,
+        "sentimentScore": -3
+      }
+    },
+    {
+      "aspect": "kargo",
+      "mentions": 1,
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Ben gayet memnun kaldım üründen fiyatına göre iyi bence ancak hâlâ daha emin değilim bu mu yoksa alfa 420 c mi hangisi daha iyidi diye bunu sectim bakalim tesekkurler bu arada gayet guzel geldi paketleme filan gayet iyiydi",
+        "rate": 5,
+        "sentimentScore": 11
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "kullanim",
+      "mentions": 1,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1,
+      "positiveRatio": 0,
+      "negativeRatio": 1,
+      "bestPositiveComment": null,
+      "strongestNegativeComment": {
+        "comment": "aşırı kötü bunu almak yerine ikinci elden alsanız işinizi daha iyi görür bir sayfa acana kadar ölüp diriliyor resmen donuyor surekli ders çalışırken kullanırım diye aldım resmen yavaşlatıyor beni",
+        "rate": 1,
+        "sentimentScore": -9
+      }
+    }
+  ],
+  "strengths": [],
+  "weaknesses": [],
+  "samplePositiveReviews": [
+    {
+      "comment": "Ben gayet memnun kaldım üründen fiyatına göre iyi bence ancak hâlâ daha emin değilim bu mu yoksa alfa 420 c mi hangisi daha iyidi diye bunu sectim bakalim tesekkurler bu arada gayet guzel geldi paketleme filan gayet iyiydi",
+      "rate": 5,
+      "sentimentScore": 11
+    },
+    {
+      "comment": "Eşim kendi işi için aldı üründen memnun kaldı",
+      "rate": 5,
+      "sentimentScore": 5
+    },
+    {
+      "comment": "bu fiyat için güzel",
+      "rate": 4,
+      "sentimentScore": 3
+    }
+  ],
+  "sampleNegativeReviews": [
+    {
+      "comment": "aşırı kötü bunu almak yerine ikinci elden alsanız işinizi daha iyi görür bir sayfa acana kadar ölüp diriliyor resmen donuyor surekli ders çalışırken kullanırım diye aldım resmen yavaşlatıyor beni",
+      "rate": 1,
+      "sentimentScore": -9
+    },
+    {
+      "comment": "çok kötü bir bilgisayar kesinlikle tavsiye etmiyorum, aldığım gün sadece kapağını açmaya çalıştım ama ekranı kırıldı. Gördüğüm en kötü bilgisayar markası, muhatap bulamıyorsunuz ki durumu anlatalım",
+      "rate": 1,
+      "sentimentScore": -7
+    },
+    {
+      "comment": "3 gün oldu alalı ekran sadece çıkıyor ve açılmıyor",
+      "rate": 1,
+      "sentimentScore": -3
+    }
+  ],
+  "generalEvaluation": "Urun, kullanicilar tarafindan genel olarak olumlu degerlendirilmistir. Toplam puanlamalarda da bu tablo desteklenmektedir; 4-5 yildiz orani %66.67, 1-2 yildiz orani ise %26.67 seviyesindedir. 5 kullanicinin sadece puan verip yorum birakmamasi, genel memnuniyetin yorum yazan kullanicilarla sinirli olmadigini da gostermektedir. Genel olarak urunun fiyat ve performans dengesi kullanicilarin buyuk bolumu tarafindan tatmin edici bulunmaktadir.",
+  "displaySummary": "Urun, kullanici yorumlarinda genel olarak olumlu bir tablo ortaya koymaktadir. Yorumlarda urunun gunluk kullanim ihtiyaclarini karsilamasi olumlu bir nokta olarak one cikmaktadir. Olumsuz yorumlar sinirli olsa da bazi kullanicilar belirli kullanim senaryolarinda gelistirme beklentisi dile getirmektedir. Ayrica 5 kullanicinin sadece puan verip yorum birakmamasi, toplam memnuniyetin yorum yazan kitleyle sinirli olmadigini da gosteriyor; Trendyol etiketlerinde Fiyat, Ekran Özellikleri, Çeyiz, Paketleme basliklari one cikiyor. Genel olarak urun, guclu yonleri one ciksa da satin alma kararinda beklentilerin dikkatle degerlendirilmesini gerektiren bir secenek olarak gorunmektedir."
+}

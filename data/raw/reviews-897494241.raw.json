@@ -1,0 +1,90 @@
+{
+  "productUrl": "https://www.trendyol.com/petlas/205-55-r16-91v-multi-action-pt565-oto-4-mevsim-lastigi-uretim-yili-2025-p-897494241?boutiqueId=61&merchantId=203775",
+  "contentId": "897494241",
+  "totalReviews": 8,
+  "fetchedAt": "2026-04-09T11:10:11.908Z",
+  "sourceSummary": {
+    "averageRating": 4.6,
+    "averageRatingFixed": "4.6",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 15,
+    "totalCommentCount": 8,
+    "totalPages": 1,
+    "hasMediaFiles": false,
+    "totalImageReviewCount": 0,
+    "productSizes": [],
+    "heightTags": [],
+    "weightTags": [],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 12
+      },
+      {
+        "rate": 4,
+        "count": 2
+      },
+      {
+        "rate": 3,
+        "count": 0
+      },
+      {
+        "rate": 2,
+        "count": 0
+      },
+      {
+        "rate": 1,
+        "count": 1
+      }
+    ],
+    "tags": []
+  },
+  "sourceAiSummary": null,
+  "reviews": [
+    {
+      "comment": "4 takım almıştım sitepne içinde aldım",
+      "rate": 4,
+      "createdAt": 1747725278641
+    },
+    {
+      "comment": "Lastikler geldi gerçekten tarihleri yeni satıcıya ve trendyola çok teşekkür ediyorum güvenle alabilirsiniz. Fiyat konusunda da gayet memnunum",
+      "rate": 5,
+      "createdAt": 1767303921660
+    },
+    {
+      "comment": "ürün gorseldeki gibi ve tahmini teslimattan önce geldi tşkl.",
+      "rate": 5,
+      "createdAt": 1742244345727
+    },
+    {
+      "comment": "lastikler açıklamada belirtildiği gibi yeni tarihli.gayet güzel.fiyatida uygun.ben beğendim.",
+      "rate": 5,
+      "createdAt": 1771692199337
+    },
+    {
+      "comment": "Çok kaliteli",
+      "rate": 5,
+      "createdAt": 1764631512527
+    },
+    {
+      "comment": "düşünmeden alabilirsiniz teşekkür ediyorum",
+      "rate": 5,
+      "createdAt": 1775379734865
+    },
+    {
+      "comment": "Çok güzelbeyendimmmm",
+      "rate": 5,
+      "createdAt": 1766759376649
+    },
+    {
+      "comment": "Ürün güzel ben aldıktan sonra 800₺ indirime girdi keşle almadan önce düşseydi fiyatı 800₺ 4 lastikte zarar ettim bir puan oradan kırdım ama lastik kalite ve yıl güzel satıcı ilgili hızlı kargo",
+      "rate": 4,
+      "createdAt": 1770925511706
+    }
+  ]
+}

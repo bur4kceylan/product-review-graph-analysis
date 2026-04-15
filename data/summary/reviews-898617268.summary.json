@@ -1,0 +1,464 @@
+{
+  "productUrl": "https://www.trendyol.com/casper/nirvana-s100-16-300nit-core-i5-13420h-16gb-ddr5-ram-5000gb-nvme-ssd-dos-laptop-s100-1342-bv00x-g-f-p-898617268?boutiqueId=689770&merchantId=968",
+  "contentId": "898617268",
+  "generatedAt": "2026-04-09T11:03:08.653Z",
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-898617268.raw.json",
+  "sourceAiSummary": "Ürün, hafifliği, ince yapısı, hızlı performansı ve kolay kullanımıyla kullanıcılar tarafından beğenilmiş, fiyat-performans açısından olumlu değerlendirilmiştir. Özellikle günlük işler ve ofis kullanımı için yeterli özelliklere sahip olduğu belirtilmiştir. Ancak bazı kullanıcılar kurulum sürecinin zorluğunu ve ürünün gönderilmeden önce kurulup test edilmemesini eleştirmiştir. Ayrıca, fan sesinin yüksekliği, pil ömrünün kısa olması, klavye ve hoparlör gibi bazı donanımlarda yaşanan sorunlar ve Windows kurulumunun zorluğu gibi olumsuz geri bildirimler de mevcuttur. Genel olarak, ürünün performansı ve fiyatı bazı kullanıcılar için tatmin edici olsa da, bazı teknik detaylarda iyileştirme yapılması gerektiği görülmektedir.",
+  "sourceSummary": {
+    "averageRating": 3.9,
+    "averageRatingFixed": "3.9",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 45,
+    "totalCommentCount": 26,
+    "totalPages": 2,
+    "hasMediaFiles": true,
+    "totalImageReviewCount": 5,
+    "productSizes": [],
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/30/30/mobile/reviewrating/kamera-emoji6x.png",
+    "heightTags": [
+      {
+        "name": "161-170",
+        "count": 2
+      },
+      {
+        "name": "171-180",
+        "count": 2
+      }
+    ],
+    "weightTags": [
+      {
+        "name": "61-70",
+        "count": 1
+      },
+      {
+        "name": "71-80",
+        "count": 1
+      },
+      {
+        "name": "81-90",
+        "count": 1
+      },
+      {
+        "name": "101-110",
+        "count": 1
+      }
+    ],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 24
+      },
+      {
+        "rate": 4,
+        "count": 9
+      },
+      {
+        "rate": 3,
+        "count": 4
+      },
+      {
+        "rate": 2,
+        "count": 1
+      },
+      {
+        "rate": 1,
+        "count": 7
+      }
+    ],
+    "tags": [
+      {
+        "name": "tümü",
+        "count": 26
+      },
+      {
+        "name": "fotoğraflı",
+        "count": 5,
+        "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png"
+      },
+      {
+        "name": "Ses Özellikleri",
+        "count": 5,
+        "sentiment": {
+          "positive": 3,
+          "negative": 2,
+          "ratio": 60
+        }
+      },
+      {
+        "name": "Kurulum/Kullanım",
+        "count": 6
+      },
+      {
+        "name": "Fiyat",
+        "count": 3
+      },
+      {
+        "name": "Şarj/Pil/Batarya",
+        "count": 2
+      },
+      {
+        "name": "Kablo",
+        "count": 1
+      },
+      {
+        "name": "Rahatlık",
+        "count": 1
+      },
+      {
+        "name": "Günlük Kullanım",
+        "count": 1
+      },
+      {
+        "name": "Hasarlı/Sağlam Kargo",
+        "count": 1
+      },
+      {
+        "name": "Kalite",
+        "count": 1
+      }
+    ]
+  },
+  "totalReviews": 26,
+  "averageRating": 3.92,
+  "confidenceScore": 32,
+  "headline": "Genel algi olumlu olsa da urunle ilgili karisik sinyaller de var.",
+  "sentiment": {
+    "positive": 17,
+    "neutral": 4,
+    "negative": 5
+  },
+  "sentimentPercentages": {
+    "positive": 65.38,
+    "neutral": 15.38,
+    "negative": 19.23
+  },
+  "sourceTags": [
+    {
+      "name": "Kurulum/Kullanım",
+      "count": 6,
+      "positive": 0,
+      "negative": 0,
+      "ratio": null
+    },
+    {
+      "name": "Ses Özellikleri",
+      "count": 5,
+      "positive": 3,
+      "negative": 2,
+      "ratio": 60
+    },
+    {
+      "name": "Fiyat",
+      "count": 3,
+      "positive": 0,
+      "negative": 0,
+      "ratio": null
+    },
+    {
+      "name": "Şarj/Pil/Batarya",
+      "count": 2,
+      "positive": 0,
+      "negative": 0,
+      "ratio": null
+    }
+  ],
+  "ratingBreakdown": {
+    "totalRatings": 45,
+    "positiveCount": 33,
+    "neutralCount": 4,
+    "negativeCount": 8,
+    "positivePercent": 73.33,
+    "neutralPercent": 8.89,
+    "negativePercent": 17.78,
+    "fiveStarPercent": 53.33,
+    "oneStarPercent": 15.56
+  },
+  "commentCoverage": {
+    "totalRatingCount": 45,
+    "totalCommentCount": 26,
+    "ratingsWithoutComment": 19,
+    "commentCoveragePercent": 57.78
+  },
+  "topKeywords": [
+    {
+      "value": "guzel",
+      "count": 9
+    },
+    {
+      "value": "fan",
+      "count": 8
+    },
+    {
+      "value": "bilgisayar",
+      "count": 6
+    },
+    {
+      "value": "kadar",
+      "count": 6
+    },
+    {
+      "value": "sesi",
+      "count": 6
+    },
+    {
+      "value": "urun",
+      "count": 4
+    },
+    {
+      "value": "geldi",
+      "count": 4
+    },
+    {
+      "value": "gayet",
+      "count": 4
+    },
+    {
+      "value": "aldim",
+      "count": 4
+    },
+    {
+      "value": "saglam",
+      "count": 3
+    },
+    {
+      "value": "kurulum",
+      "count": 3
+    },
+    {
+      "value": "flash",
+      "count": 3
+    },
+    {
+      "value": "sorun",
+      "count": 3
+    },
+    {
+      "value": "oyun",
+      "count": 3
+    },
+    {
+      "value": "imkansiz",
+      "count": 3
+    },
+    {
+      "value": "video",
+      "count": 3
+    },
+    {
+      "value": "kurulumu",
+      "count": 3
+    },
+    {
+      "value": "baya",
+      "count": 3
+    },
+    {
+      "value": "hafif",
+      "count": 2
+    },
+    {
+      "value": "fiyat",
+      "count": 2
+    }
+  ],
+  "topPhrases": [
+    {
+      "value": "fan sesi",
+      "count": 6
+    },
+    {
+      "value": "ana kadar",
+      "count": 2
+    },
+    {
+      "value": "sorun yasamadim",
+      "count": 2
+    },
+    {
+      "value": "almak isteyenler",
+      "count": 2
+    },
+    {
+      "value": "imkansiz bisey",
+      "count": 2
+    },
+    {
+      "value": "sesi geliyor",
+      "count": 2
+    },
+    {
+      "value": "valla urun",
+      "count": 1
+    },
+    {
+      "value": "urun saglam",
+      "count": 1
+    },
+    {
+      "value": "saglam geldi",
+      "count": 1
+    },
+    {
+      "value": "geldi memmun",
+      "count": 1
+    },
+    {
+      "value": "memmun kaldik",
+      "count": 1
+    },
+    {
+      "value": "laptop ince",
+      "count": 1
+    }
+  ],
+  "aspects": [
+    {
+      "aspect": "batarya",
+      "mentions": 5,
+      "positive": 3,
+      "neutral": 0,
+      "negative": 2,
+      "positiveRatio": 0.6,
+      "negativeRatio": 0.4,
+      "bestPositiveComment": {
+        "comment": "Bilgisayar korunaklı olarak geldi kurulum için gönderilen flash bellekte tüm kurulumun nasıl yapılacağı kurulum rehberleri ile gayet açık bir şekilde anlatılmış. Sürücülerine kadar hazırlayıp göndermişler Casper a teşekkürler Free dos olmasına rağmen çok rahat kurduk bilgisayardan anlamayan bile kurabilir öyle güzel rehber hazırlanmış. bilgisayar genel anlamıyla iyi kasa kalitesi daha iyi olabilirdi. 16 Büyüklüğüne göre gayet hafif , fan sesi çok fazla yorumlarından korkmuştum ama beni rahatsız etmedi. Fiyat performans",
+        "rate": 5,
+        "sentimentScore": 8
+      },
+      "strongestNegativeComment": {
+        "comment": "8 saati boşver 3 saat gitse öpüp başıma koyacağım. İlandaki 8 saat batarya açıklamasına kanıp aldım. Batarya konusunda çok pişmanım.",
+        "rate": 1,
+        "sentimentScore": -6
+      }
+    },
+    {
+      "aspect": "malzeme-kalite",
+      "mentions": 5,
+      "positive": 5,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Benim için oldukça iyi bir laptop. İnce, hafif, hızlı, kullanımı çok kolay. Fiyat kalite uyumu çok iyi.",
+        "rate": 5,
+        "sentimentScore": 8
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "kullanim",
+      "mentions": 4,
+      "positive": 2,
+      "neutral": 2,
+      "negative": 0,
+      "positiveRatio": 0.5,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Benim için oldukça iyi bir laptop. İnce, hafif, hızlı, kullanımı çok kolay. Fiyat kalite uyumu çok iyi.",
+        "rate": 5,
+        "sentimentScore": 8
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "performans",
+      "mentions": 3,
+      "positive": 3,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Benim için oldukça iyi bir laptop. İnce, hafif, hızlı, kullanımı çok kolay. Fiyat kalite uyumu çok iyi.",
+        "rate": 5,
+        "sentimentScore": 8
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "fiyat-performans",
+      "mentions": 2,
+      "positive": 2,
+      "neutral": 0,
+      "negative": 0,
+      "positiveRatio": 1,
+      "negativeRatio": 0,
+      "bestPositiveComment": {
+        "comment": "Benim için oldukça iyi bir laptop. İnce, hafif, hızlı, kullanımı çok kolay. Fiyat kalite uyumu çok iyi.",
+        "rate": 5,
+        "sentimentScore": 8
+      },
+      "strongestNegativeComment": null
+    },
+    {
+      "aspect": "kargo",
+      "mentions": 1,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1,
+      "positiveRatio": 0,
+      "negativeRatio": 1,
+      "bestPositiveComment": null,
+      "strongestNegativeComment": {
+        "comment": "urun kurulmadan gönderilmiş o kadar zorlandimki kurulumu yapana kadar",
+        "rate": 1,
+        "sentimentScore": -3
+      }
+    }
+  ],
+  "strengths": [],
+  "weaknesses": [
+    {
+      "aspect": "batarya",
+      "mentions": 5,
+      "negativeRatio": 0.4,
+      "example": {
+        "comment": "8 saati boşver 3 saat gitse öpüp başıma koyacağım. İlandaki 8 saat batarya açıklamasına kanıp aldım. Batarya konusunda çok pişmanım.",
+        "rate": 1,
+        "sentimentScore": -6
+      }
+    }
+  ],
+  "samplePositiveReviews": [
+    {
+      "comment": "Benim için oldukça iyi bir laptop. İnce, hafif, hızlı, kullanımı çok kolay. Fiyat kalite uyumu çok iyi.",
+      "rate": 5,
+      "sentimentScore": 8
+    },
+    {
+      "comment": "Bilgisayar korunaklı olarak geldi kurulum için gönderilen flash bellekte tüm kurulumun nasıl yapılacağı kurulum rehberleri ile gayet açık bir şekilde anlatılmış. Sürücülerine kadar hazırlayıp göndermişler Casper a teşekkürler Free dos olmasına rağmen çok rahat kurduk bilgisayardan anlamayan bile kurabilir öyle güzel rehber hazırlanmış. bilgisayar genel anlamıyla iyi kasa kalitesi daha iyi olabilirdi. 16 Büyüklüğüne göre gayet hafif , fan sesi çok fazla yorumlarından korkmuştum ama beni rahatsız etmedi. Fiyat performans",
+      "rate": 5,
+      "sentimentScore": 8
+    },
+    {
+      "comment": "Çok güzel kaliteli sağlam",
+      "rate": 4,
+      "sentimentScore": 8
+    }
+  ],
+  "sampleNegativeReviews": [
+    {
+      "comment": "8 saati boşver 3 saat gitse öpüp başıma koyacağım. İlandaki 8 saat batarya açıklamasına kanıp aldım. Batarya konusunda çok pişmanım.",
+      "rate": 1,
+      "sentimentScore": -6
+    },
+    {
+      "comment": "Herkese merhaba almak isteyenler için bilgisayar güzel gerçekten AMA oyun indirmek isterseniz ki imkansiz gibi bisey indiremiyorsunuz yani indirebiliyorsunuz ama bilgisayar ölüyor aynı anda 2 uygulama actiginizda o kadar ısınıyor kasıyor ve fan sesi geliyor ki sesli ortamda vile fan sesini duyabilirsiniz bi video izlemek istiyorsunuz mesela videoyu duraklamadan izlemebiz imkansiz ve kalite 1080 in ustune cikarsa videoyu izlemeniz imkansiz gibi bisey olur almak isteyenler bunuda göz önünde bulundursunlar kurulumu falanda aşırı zor kurmak için 2 bilgisayarınız ve 16 gblik flash diskiniz olmali veya yetkili servise gondermelisiniz kurulumuda baya zor video izlerken bile baya fan sesi geliyor ben bi kere 30 dk lik video izledim ve fan sesinden videonun sesini duyamadim yani o derece ve vilgisayar asiri kasiyor asla 500 gb lik degil yani ama iyi yani güzel oyun oynamiyorsaniz ve cok uygulama indirmeyecekseniz isinize yarayabilir",
+      "rate": 3,
+      "sentimentScore": -3
+    },
+    {
+      "comment": "Kesinlikle önermiyorum",
+      "rate": 1,
+      "sentimentScore": -3
+    }
+  ],
+  "generalEvaluation": "Urun, kullanicilar tarafindan genel olarak olumlu degerlendirilmistir. Toplam puanlamalarda da bu tablo desteklenmektedir; 4-5 yildiz orani %73.33, 1-2 yildiz orani ise %17.78 seviyesindedir. Bununla birlikte bazi kullanicilar sarj suresi ve ses özellikleri konusunda elestirilerde bulunmustur. 19 kullanicinin sadece puan verip yorum birakmamasi, genel memnuniyetin yorum yazan kullanicilarla sinirli olmadigini da gostermektedir. Genel olarak urunun fiyat ve performans dengesi tatmin edici bulunsa da, bazi teknik ve donanimsal detaylarda iyilestirme beklentisi oldugu gorulmektedir.",
+  "displaySummary": "Urunun genel resmi olumlu: toplam degerlendirmelerin %73.33 kadari 4-5 yildiz, yalnizca %17.78 kadari 1-2 yildiz seviyesinde. Yorumlarda urunun gunluk kullanim ihtiyaclarini karsilamasi olumlu bir nokta olarak one cikmaktadir. Zayif tarafta ise kullanicilar en cok sarj suresi konusunda elestiri getirmektedir. Ayrica 19 kullanicinin sadece puan verip yorum birakmamasi, toplam memnuniyetin yorum yazan kitleyle sinirli olmadigini da gosteriyor; Trendyol etiketlerinde Kurulum/Kullanım, Ses Özellikleri, Fiyat, Şarj/Pil/Batarya basliklari one cikiyor. Genel olarak urun, guclu yonleri one ciksa da satin alma kararinda beklentilerin dikkatle degerlendirilmesini gerektiren bir secenek olarak gorunmektedir."
+}

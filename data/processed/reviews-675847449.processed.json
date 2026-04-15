@@ -1,0 +1,306 @@
+{
+  "productUrl": "https://www.trendyol.com/hometech/alfa-620c-notebook-celeron-4ram-128gb-p-675847449?boutiqueId=61&merchantId=449692",
+  "contentId": "675847449",
+  "fetchedAt": "2026-04-09T13:51:10.970Z",
+  "sourceSummary": {
+    "averageRating": 3.5,
+    "averageRatingFixed": "3.5",
+    "countries": [
+      {
+        "country": "TR",
+        "reviewsExist": true
+      }
+    ],
+    "totalRatingCount": 15,
+    "totalCommentCount": 10,
+    "totalPages": 1,
+    "hasMediaFiles": true,
+    "totalImageReviewCount": 3,
+    "productSizes": [],
+    "imageUrl": "https://cdn.dsmcdn.com/mnresize/30/30/mobile/reviewrating/kamera-emoji6x.png",
+    "heightTags": [],
+    "weightTags": [],
+    "ratingCounts": [
+      {
+        "rate": 5,
+        "count": 5
+      },
+      {
+        "rate": 4,
+        "count": 5
+      },
+      {
+        "rate": 3,
+        "count": 1
+      },
+      {
+        "rate": 2,
+        "count": 0
+      },
+      {
+        "rate": 1,
+        "count": 4
+      }
+    ],
+    "tags": [
+      {
+        "name": "tümü",
+        "count": 10
+      },
+      {
+        "name": "fotoğraflı",
+        "count": 3,
+        "imageUrl": "https://cdn.dsmcdn.com/mobile/reviewrating/kamera-emoji6x.png"
+      },
+      {
+        "name": "Fiyat",
+        "count": 4,
+        "sentiment": {
+          "positive": 4,
+          "ratio": 100
+        }
+      },
+      {
+        "name": "Ekran Özellikleri",
+        "count": 3
+      },
+      {
+        "name": "Çeyiz",
+        "count": 1
+      },
+      {
+        "name": "Paketleme",
+        "count": 1
+      }
+    ]
+  },
+  "sourceAiSummary": null,
+  "sourceFile": "C:\\Users\\mbcey\\OneDrive\\Masaüstü\\vericekmebot\\data\\raw\\reviews-675847449.raw.json",
+  "stats": {
+    "rawReviewCount": 10,
+    "processedReviewCount": 10,
+    "duplicateCount": 0,
+    "droppedShortCount": 0,
+    "droppedEmptyCount": 0
+  },
+  "reviews": [
+    {
+      "reviewId": "675847449-1",
+      "comment": "Eşim kendi işi için aldı üründen memnun kaldı",
+      "normalizedComment": "eşim kendi işi için aldı üründen memnun kaldı",
+      "rate": 5,
+      "createdAt": 1764942139232,
+      "tokens": [
+        "eşim",
+        "kendi",
+        "işi",
+        "aldı",
+        "üründen",
+        "memnun",
+        "kaldı"
+      ],
+      "tokenCount": 7
+    },
+    {
+      "reviewId": "675847449-2",
+      "comment": "bu fiyat için güzel",
+      "normalizedComment": "bu fiyat için güzel",
+      "rate": 4,
+      "createdAt": 1683357651772,
+      "tokens": [
+        "fiyat",
+        "güzel"
+      ],
+      "tokenCount": 2
+    },
+    {
+      "reviewId": "675847449-3",
+      "comment": "Tam bir f P ürünü. Öğrenci iseniz tercih edebilirsiniz. Her işimi görecek yapıya sahip. Bu fiyata alınabilecek maksimum verimi veriyor.",
+      "normalizedComment": "tam bir f p ürünü öğrenci iseniz tercih edebilirsiniz her işimi görecek yapıya sahip bu fiyata alınabilecek maksimum verimi veriyor",
+      "rate": 5,
+      "createdAt": 1761888182751,
+      "tokens": [
+        "ürünü",
+        "öğrenci",
+        "iseniz",
+        "tercih",
+        "edebilirsiniz",
+        "işimi",
+        "görecek",
+        "yapıya",
+        "sahip",
+        "fiyata",
+        "alınabilecek",
+        "maksimum",
+        "verimi",
+        "veriyor"
+      ],
+      "tokenCount": 14
+    },
+    {
+      "reviewId": "675847449-4",
+      "comment": "3 gün oldu alalı ekran sadece çıkıyor ve açılmıyor",
+      "normalizedComment": "3 gün oldu alalı ekran sadece çıkıyor ve açılmıyor",
+      "rate": 1,
+      "createdAt": 1763821774194,
+      "tokens": [
+        "gün",
+        "alalı",
+        "ekran",
+        "sadece",
+        "çıkıyor",
+        "açılmıyor"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "675847449-5",
+      "comment": "fiyatına göre iyi. ama gereğinden fazla yavaş",
+      "normalizedComment": "fiyatına göre iyi ama gereğinden fazla yavaş",
+      "rate": 4,
+      "createdAt": 1759605463061,
+      "tokens": [
+        "fiyatına",
+        "göre",
+        "gereğinden",
+        "fazla",
+        "yavaş"
+      ],
+      "tokenCount": 5
+    },
+    {
+      "reviewId": "675847449-6",
+      "comment": "çok kötü bir bilgisayar kesinlikle tavsiye etmiyorum, aldığım gün sadece kapağını açmaya çalıştım ama ekranı kırıldı. Gördüğüm en kötü bilgisayar markası, muhatap bulamıyorsunuz ki durumu anlatalım",
+      "normalizedComment": "çok kötü bir bilgisayar kesinlikle tavsiye etmiyorum aldığım gün sadece kapağını açmaya çalıştım ama ekranı kırıldı gördüğüm en kötü bilgisayar markası muhatap bulamıyorsunuz ki durumu anlatalım",
+      "rate": 1,
+      "createdAt": 1768904726623,
+      "tokens": [
+        "kötü",
+        "bilgisayar",
+        "kesinlikle",
+        "tavsiye",
+        "etmiyorum",
+        "aldığım",
+        "gün",
+        "sadece",
+        "kapağını",
+        "açmaya",
+        "çalıştım",
+        "ekranı",
+        "kırıldı",
+        "gördüğüm",
+        "kötü",
+        "bilgisayar",
+        "markası",
+        "muhatap",
+        "bulamıyorsunuz",
+        "durumu",
+        "anlatalım"
+      ],
+      "tokenCount": 21
+    },
+    {
+      "reviewId": "675847449-7",
+      "comment": "aşırı kötü bunu almak yerine ikinci elden alsanız işinizi daha iyi görür bir sayfa acana kadar ölüp diriliyor resmen donuyor surekli ders çalışırken kullanırım diye aldım resmen yavaşlatıyor beni",
+      "normalizedComment": "aşırı kötü bunu almak yerine ikinci elden alsanız işinizi daha iyi görür bir sayfa acana kadar ölüp diriliyor resmen donuyor surekli ders çalışırken kullanırım diye aldım resmen yavaşlatıyor beni",
+      "rate": 1,
+      "createdAt": 1768894253317,
+      "tokens": [
+        "aşırı",
+        "kötü",
+        "bunu",
+        "almak",
+        "yerine",
+        "ikinci",
+        "elden",
+        "alsanız",
+        "işinizi",
+        "görür",
+        "sayfa",
+        "acana",
+        "kadar",
+        "ölüp",
+        "diriliyor",
+        "resmen",
+        "donuyor",
+        "surekli",
+        "ders",
+        "çalışırken",
+        "kullanırım",
+        "aldım",
+        "resmen",
+        "yavaşlatıyor"
+      ],
+      "tokenCount": 24
+    },
+    {
+      "reviewId": "675847449-8",
+      "comment": "Ben gayet memnun kaldım üründen fiyatına göre iyi bence ancak hâlâ daha emin değilim bu mu yoksa alfa 420 c mi hangisi daha iyidi diye bunu sectim bakalim tesekkurler bu arada gayet guzel geldi paketleme filan gayet iyiydi",
+      "normalizedComment": "ben gayet memnun kaldım üründen fiyatına göre iyi bence ancak hâlâ daha emin değilim bu mu yoksa alfa 420 c mi hangisi daha iyidi diye bunu sectim bakalim tesekkurler bu arada gayet guzel geldi paketleme filan gayet iyiydi",
+      "rate": 5,
+      "createdAt": 1683874020314,
+      "tokens": [
+        "gayet",
+        "memnun",
+        "kaldım",
+        "üründen",
+        "fiyatına",
+        "göre",
+        "ancak",
+        "hâlâ",
+        "emin",
+        "değilim",
+        "yoksa",
+        "alfa",
+        "hangisi",
+        "iyidi",
+        "bunu",
+        "sectim",
+        "bakalim",
+        "tesekkurler",
+        "arada",
+        "gayet",
+        "guzel",
+        "geldi",
+        "paketleme",
+        "filan",
+        "gayet",
+        "iyiydi"
+      ],
+      "tokenCount": 26
+    },
+    {
+      "reviewId": "675847449-9",
+      "comment": "güncellemesi yapılmadığı için ekran kartı arıza ile karşılaştım",
+      "normalizedComment": "güncellemesi yapılmadığı için ekran kartı arıza ile karşılaştım",
+      "rate": 1,
+      "createdAt": 1770139855907,
+      "tokens": [
+        "güncellemesi",
+        "yapılmadığı",
+        "ekran",
+        "kartı",
+        "arıza",
+        "karşılaştım"
+      ],
+      "tokenCount": 6
+    },
+    {
+      "reviewId": "675847449-10",
+      "comment": "merhaba bugün geldi ekran açılmıyor neden ola bilir",
+      "normalizedComment": "merhaba bugün geldi ekran açılmıyor neden ola bilir",
+      "rate": 3,
+      "createdAt": 1768403772036,
+      "tokens": [
+        "merhaba",
+        "bugün",
+        "geldi",
+        "ekran",
+        "açılmıyor",
+        "ola",
+        "bilir"
+      ],
+      "tokenCount": 7
+    }
+  ]
+}
